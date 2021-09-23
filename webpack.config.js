@@ -2,9 +2,9 @@ const path = require('path');
 
 module.exports = {
 	entry: './src/main.js',
-	target: 'node',
+	target: 'web',
 	output: {
-		path: path.resolve(__dirname, 'dist'),
+		path: path.resolve(__dirname, 'cards'),
 		filename: 'genshindb.js',
 
 		library: 'GenshinDB',
