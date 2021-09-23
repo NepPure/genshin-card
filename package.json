@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "generateindex": "cd src && node ./generate.js",
     "assemble": "cd src && node ./generate.js && cd ../ && node ./examples.js",
-    "build": "node ./build.js"
+    "build": "node ./build.js ChineseSimplified`"
   },
   "keywords": [
     "genshin-impact",
