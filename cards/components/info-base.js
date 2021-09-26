@@ -1,9 +1,10 @@
 const template =
 	`<div class="info-base">
 	<img class="background" :src="infoBackground" alt="ERROR"/>
-	<img :class="type === '角色' ? 'character' : 'weapon'" :src="mainImage" alt="ERROR"/>
+	<img :class="type === 'character' ? 'character' : 'weapon'" :src="mainImage" onerror="javascript:this.src='../public/images/item/unknown.png';"/>
 	<div class="content">
-        <p class="title-and-name">「{{ title }}·{{ name }}」</p>
+        <p class="title-and-name" v-if="type === 'character'">「{{ title }}·{{ name }}」</p>
+        <p class="title-and-name" v-if="type === 'weapon'">「{{ name }}」</p>
         <p class="introduce">{{ introduce }}</p>
     </div>
     <div class="dotted"></div>

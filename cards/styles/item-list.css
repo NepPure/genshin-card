@@ -12,31 +12,31 @@
 }
 
 .item-list .list {
-    transform: scale(0.5);
     transform-origin: left;
     position: relative;
     display: inline-block;
-    height: 45px;
-    left: 80px;
+    height: 23px;
+    left: 75px;
+    top: 17px;
 }
 
 .card_container {
     position: relative;
-    width: 74px;
-    height: 90px;
-    margin: 1.5px !important;
+    width: 37px;
+    height: 43px;
+    margin: 1.3px !important;
     display: inline-block;
-    border-radius: 5px;
-    box-shadow: 0 0 5px #8b8989;
+    border-radius: 3px;
+    box-shadow: 0 0 3px #8b8989;
     text-align: center;
 }
 
 .card_image {
-    position: absolute;
     top: 0px;
-    width: 74px;
-    height: 74px;
-    border-radius: 5px 5px 0px 0px;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    border-radius: 3px 3px 0px 0px;
 }
 
 .card_caption {
@@ -49,26 +49,28 @@
 
 .card_container img {
     vertical-align: middle;
-    width: 74px;
-    height: 90px;
+    width: 37px;
+    height: 43px;
 }
 
 .card_image img {
-    border-radius: 5px 5px 0px 0px;
-    width: 74px;
-    height: 74px;
+    border-radius: 3px 3px 0px 0px;
+    width: 37px;
+    height: 37px;
     vertical-align: middle;
 }
 
 .card_text {
+    transform: scale(.55);
     position: absolute;
     bottom: 0;
-    width: 100%;
-    height: 16px;
-    line-height: 16px;
+    width: 160%;
+    left: -11px;
+    bottom: -2px;
+    line-height: 8px;
     background: #E9E5DC;
     text-align: center;
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 3px 3px;
     overflow: hidden;
 }
 

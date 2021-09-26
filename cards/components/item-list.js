@@ -2,7 +2,7 @@ const template =
 	`<div class="item-list">
     <p class="title">{{ title }}</p>
     <div class="list">
-		<div class="card_container" v-for="itemName in itemInfos.costNames">
+		<div class="card_container" v-for="itemName in arr">
 		<img alt="Rarity background" :src="background(itemInfos.costs[itemName].rarity)">
 		<div class="card_image">
 			<img :alt="itemName" :src="itemInfos.costs[itemName].image">

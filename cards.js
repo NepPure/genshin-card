@@ -20,8 +20,8 @@ GenshinDB.setOptions({
 
 
 (async () => {
-	const names = GenshinDB.characters('names', { matchCategories: true })
-
+	let names = GenshinDB.characters('names', { matchCategories: true })
+	names = names.concat(GenshinDB.weapon('names', { matchCategories: true }))
 	const browser = await puppeteer.launch({
 		headless: true,
 		args: [
@@ -32,7 +32,6 @@ GenshinDB.setOptions({
 	});
 
 	const page = await browser.newPage();
-	// transform的用法导致宽度不够生成的图有一丢丢问题
 	await page.setViewport({
 		width: 1920,
 		height: 1080,
@@ -43,9 +42,9 @@ GenshinDB.setOptions({
 		if (name === '空' || name === '荧') {
 			continue;
 		}
-		const url = `http://127.0.0.1:3000/cards/views/character.html?name=${name}`;
-		console.info(url);
+		const url = `http://127.0.0.1:3000/cards/views/info.html?name=${name}`;
 		await page.goto(url);
+		console.info(url);
 		const htmlElement = await page.$("#app");
 		await htmlElement.screenshot({
 			path: `cards/output/${name}.jpg`,

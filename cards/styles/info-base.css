@@ -15,9 +15,10 @@
 
 .info-base .weapon {
     position: absolute;
-    width: 412px;
-    top: 58px;
-    left: 89px;
+    width: auto;
+    top: 0;
+    left: 180px;
+    height: 500px;
 }
 
 .info-base .content {
@@ -31,7 +32,7 @@
     color: var( --styleInfoColor );
     font-size: 18pt;
     top: 21px;
-    width: 600px;
+    width: 400px;
     left: 494px;
 }
 

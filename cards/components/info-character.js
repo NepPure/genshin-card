@@ -67,7 +67,8 @@ export default Vue.defineComponent({
 		level: Number,
 		constellation: Object,
 		ascendCosts: Object,
-		talentCosts: Object
+		talentCosts: Object,
+		talent: Number
 	},
 	components: {
 		ItemList
@@ -121,10 +122,30 @@ export default Vue.defineComponent({
 
 				}
 			};
-
+			let ah = 6;
+			if (props.level < 20) {
+				ah = 0;
+			} else if (props.level < 40) {
+				ah = 1;
+			} else if (props.level < 50) {
+				ah = 2;
+			} else if (props.level < 60) {
+				ah = 3;
+			} else if (props.level < 70) {
+				ah = 4;
+			} else if (props.level < 80) {
+				ah = 5;
+			} else {
+				ah = 6
+			}
+			let curah = 0;
 			const costs = props.ascendCosts;
 			const indexItem = [];// 用于计算物品展示排序
 			for (const key in costs) {
+				if (curah >= ah) {
+					break;
+				}
+				curah++
 				const cost = costs[key];
 				let index = 0;
 				for (const itemCost of cost) {
@@ -175,7 +196,12 @@ export default Vue.defineComponent({
 
 			const costs = props.talentCosts;
 			const indexItem = [];// 用于计算物品展示排序
+			let curtalent = 1;
 			for (const key in costs) {
+				if (curtalent >= props.talent) {
+					break;
+				}
+				curtalent++;
 				const cost = costs[key];
 				let index = 0;
 				for (const itemCost of cost) {

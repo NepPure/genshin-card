@@ -37,12 +37,12 @@
 }
 
 .weapon .time {
-	top: 62px;
+	top: 122px;
 }
 
 .weapon .skill {
 	position: relative;
-	top: 26px;
+	top: 50px;
 	left: 9px;
 }
 
@@ -56,9 +56,17 @@
 .weapon .skill .content {
 	position: relative;
 	width: auto;
-	word-break:break-all;
-	word-wrap:break-word;
 	color: rgb(118, 130, 157);
 	top: 7px;
 	left: 13px;
+}
+
+.weapon .item-list .title{
+	top:50px;
+}
+
+.weapon .r{
+	font-size: 12px;
+	margin-left: 5px;
+	color: rgb(205, 167, 101);
 }
