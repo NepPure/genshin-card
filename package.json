@@ -25,6 +25,8 @@
     "fuzzysort": "^1.1.4"
   },
   "devDependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0",
     "webpack": "^5.9.0",
     "webpack-cli": "^4.2.0"
   },

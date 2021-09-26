@@ -1,11 +1,20 @@
 const puppeteer = require('puppeteer');
 const GenshinDB = require('./src/main.js');
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.use(express.static('./'));
+
+const server = app.listen(port, () => {
+	console.log(`Express listening at http://127.0.0.1:${port}`)
+})
 
 GenshinDB.setOptions({
 	matchAliases: true,
 	matchCategories: false,
 	verboseCategories: false,
-	queryLanguages: ["ChineseSimplified", "Japanese", "English"],
+	queryLanguages: ["ChineseSimplified"],
 	resultLanguage: "ChineseSimplified"
 });
 
@@ -34,7 +43,7 @@ GenshinDB.setOptions({
 		if (name === '空' || name === '荧') {
 			continue;
 		}
-		const url = `https://genshin-card.neptunia.vip/cards/views/character.html?name=${name}`;
+		const url = `http://127.0.0.1:3000/cards/views/character.html?name=${name}`;
 		console.info(url);
 		await page.goto(url);
 		const htmlElement = await page.$("#app");
@@ -47,4 +56,5 @@ GenshinDB.setOptions({
 
 	await page.close();
 	await browser.close();
+	server.close();
 })();
