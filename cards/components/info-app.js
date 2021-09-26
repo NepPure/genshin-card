@@ -107,13 +107,6 @@ export default Vue.defineComponent({
 		}
 		const stats = data.stats(level);
 		const stats1 = data.stats(1);
-		//处理数值信息
-		if (stats.specialized > 1) {
-			data.mainValue = stats.specialized.toFixed(0);
-		} else {
-			//使用百分比展示
-			data.mainValue = `${((stats.specialized - stats1.specialized) * 100).toFixed(1)}%`;
-		}
 		data.baseATK = parseInt(stats.attack.toFixed(0));
 
 		if (data.type === 'character') {
@@ -133,11 +126,27 @@ export default Vue.defineComponent({
 
 			//命之座
 			data.constellation = constellation;
+
+			//处理数值信息
+			if (stats.specialized > 1) {
+				data.mainValue = stats.specialized.toFixed(0);
+			} else {
+				//使用百分比展示
+				data.mainValue = `${((stats.specialized - stats1.specialized) * 100).toFixed(1)}%`;
+			}
 		} else {
 			if (data.images.namegacha) {
 				data.cover = `https://genshindb.neppure.vip/genshin/image/upload/2.1/${data.images.namegacha}.png`;
 			}
 			data.rdata = data[`r${r}`];
+
+			//处理数值信息
+			if (stats.specialized > 1) {
+				data.mainValue = stats.specialized.toFixed(0);
+			} else {
+				//使用百分比展示
+				data.mainValue = `${(stats.specialized * 100).toFixed(1)}%`;
+			}
 		}
 
 		function setStyle(colorList) {
