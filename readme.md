@@ -25,27 +25,56 @@ Thank you guys!
 
 ## Hoshino 使用
 
-会考虑动态绘图，先拿静态图用用
+需要装selenium和chrome的webdriver，自行研究
 
 ```py
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import base64
 from hoshino import Service, aiorequests, MessageSegment
 
 sv = Service(
-    name='原神角色信息',  # 功能名
+    name='原神养成',  # 功能名
     visible=True,  # 可见性
     enable_on_default=True,  # 默认启用
-    help_='开发中'  # 帮助说明
+    # bundle = '娱乐', #分组归类
+    # help_='开发中'  # 帮助说明
 )
 
 
-@sv.on_prefix('原神')
+def getpic(url):
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+    options.add_argument("user-data-dir=D:\GitRepo\pystudy\profile")
+    driver = webdriver.Chrome(options=options)
+    driver.set_window_size(1920, 1080)
+    driver.get(url)
+    element = driver.find_element_by_id("app")
+    return element.screenshot_as_base64
+
+
+@sv.on_rex(r'^原神养成\s*(.+)\s*(\d*)\s*(\d*)')
 async def main(bot, ev):
-    text = ev.message.extract_plain_text().strip()
-    res = await aiorequests.get(f'https://genshin-card.neptunia.vip/cards/output/{text}.jpg')
-    res.raise_for_status()
-    img = 'base64://' + base64.b64encode(await res.content).decode()
+    try:
+        name = ev['match'].group(1)
+        level=90
+        talent=10
+        r=1
+        if ev['match'].group(2):
+            level=int(ev['match'].group(2))
+        if ev['match'].group(3):
+            talent=int(ev['match'].group(3))
+            r=talent
+        
+        res = getpic(f'https://genshin-card.neptunia.vip/cards/views/info.html?name={name}&level={level}&talent={talent}&r={r}')
+    except Exception as e:
+        return
+
+    img = 'base64://' + res
     await bot.send(ev, MessageSegment.image(img))
+
 ```
 
 
