@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Palais secret de la Formule Zhou",
 	"domaintype": "Artéfact",
-	"description": "#Des monstres se sont rassemblés autour de cet autel dans les lignes énergétiques pour s'emparer de son joyau.\\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à les repousser avec des attaques Cryo.",
+	"description": "Des monstres se sont rassemblés autour de cet autel dans les lignes énergétiques pour s'emparer de son joyau.\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à les repousser avec des attaques Cryo.",
 	"recommendedlevel": 59,
 	"recommendedelements": [
 		"Cryo"
@@ -50,5 +50,11 @@
 	"disorder": [
 		"La durée de Gel est grandement prolongée.",
 		"Lorsque Supraconduction est déclenchée, une explosion d'énergie frappe les ennemis à proximité et leur inflige des DGT."
+	],
+	"monsterlist": [
+		"Électroblob géant",
+		"Électroblob mutant",
+		"Hydroblob",
+		"Hydroblob géant"
 	]
 }

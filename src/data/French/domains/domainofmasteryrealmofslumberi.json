@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Gorge de l'oubli",
 	"domaintype": "Matériau d'amélioration d'aptitude",
-	"description": "De l'énergie Cryo d'une grande intensité parcourt cet autel des temps anciens.\\nLe froid glacial de ce lieu rendra votre traversée difficile.\\nCependant, vous obtiendrez un matériau qui vous permettra de renforcer vos aptitudes si vous arrivez à triompher de cette épreuve.",
+	"description": "De l'énergie Cryo d'une grande intensité parcourt cet autel des temps anciens.\nLe froid glacial de ce lieu rendra votre traversée difficile.\nCependant, vous obtiendrez un matériau qui vous permettra de renforcer vos aptitudes si vous arrivez à triompher de cette épreuve.",
 	"recommendedlevel": 38,
 	"recommendedelements": [
 		"Électro",
@@ -34,5 +34,10 @@
 	],
 	"disorder": [
 		"« Glace condensée » sera infligé à votre personnage de façon régulière. Cet effet augmente la consommation d'endurance jusqu'à ce que l'attribut Cryo soit ôté."
+	],
+	"monsterlist": [
+		"Cryoblob",
+		"Cryoblob géant",
+		"Cryomage de l'Abîme"
 	]
 }

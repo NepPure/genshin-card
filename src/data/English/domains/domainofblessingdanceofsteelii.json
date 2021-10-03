@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Valley of Remembrance",
 	"domaintype": "Artifacts",
-	"description": "This ancient blessed altar is filled with monsters that fear pure, brute force.\\nYou shall earn priceless Artifacts, if — and only if — you can pass the trial.",
+	"description": "This ancient blessed altar is filled with monsters that fear pure, brute force.\nYou shall earn priceless Artifacts, if — and only if — you can pass the trial.",
 	"recommendedlevel": 59,
 	"recommendedelements": [],
 	"unlockrank": 30,
@@ -43,5 +43,14 @@
 	],
 	"disorder": [
 		"Physical DMG dealt by all party members increased by 75%."
+	],
+	"monsterlist": [
+		"Fatui Pyro Agent",
+		"Treasure Hoarders - Scout",
+		"Treasure Hoarders: Pyro Potioneer",
+		"Treasure Hoarders: Hydro Potioneer",
+		"Treasure Hoarders: Handyman",
+		"Treasure Hoarders - Pugilist",
+		"Treasure Hoarders - Crusher"
 	]
 }

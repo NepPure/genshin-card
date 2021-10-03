@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Momiji-Dyed Court",
 	"domaintype": "Artifacts",
-	"description": "At this altar where red leaves flutter in the wind, summer and autumn are separated into two spheres, one where Cryo is enhanced, the other where Pyro is enhanced.\\nThose of profound skill who can master the trial within have a chance to obtain precious artifacts and receive help in their pursuit of that which may otherwise be untraceable.",
+	"description": "At this altar where red leaves flutter in the wind, summer and autumn are separated into two spheres, one where Cryo is enhanced, the other where Pyro is enhanced.\nThose of profound skill who can master the trial within have a chance to obtain precious artifacts and receive help in their pursuit of that which may otherwise be untraceable.",
 	"recommendedlevel": 59,
 	"recommendedelements": [
 		"Pyro",
@@ -52,5 +52,12 @@
 		"The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on.",
 		"Flame Boon: active characters will gain a 60% Pyro DMG Bonus.",
 		"Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
+	],
+	"monsterlist": [
+		"Hilichurl Berserker",
+		"Electro Hilichurl Grenadier",
+		"Electro Hilichurl Shooter",
+		"Electro Slime",
+		"Crackling Axe Mitachurl"
 	]
 }

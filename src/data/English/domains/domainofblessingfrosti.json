@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Hidden Palace of Zhou Formula",
 	"domaintype": "Artifacts",
-	"description": "The Ley Line Monolith inside this ancient Ley Line Altar is coveted by the monsters crowding the altar.\\nYou shall earn priceless Artifacts if you protect the Ley Line Monolith from the monsters with the power of Cryo.",
+	"description": "The Ley Line Monolith inside this ancient Ley Line Altar is coveted by the monsters crowding the altar.\nYou shall earn priceless Artifacts if you protect the Ley Line Monolith from the monsters with the power of Cryo.",
 	"recommendedlevel": 59,
 	"recommendedelements": [
 		"Cryo"
@@ -50,5 +50,11 @@
 	"disorder": [
 		"The duration of the Frozen status effect is greatly increased.",
 		"When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."
+	],
+	"monsterlist": [
+		"Large Electro Slime",
+		"Mutant Electro Slime",
+		"Hydro Slime",
+		"Large Hydro Slime"
 	]
 }

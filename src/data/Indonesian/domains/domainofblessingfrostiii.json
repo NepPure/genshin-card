@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Hidden Palace of Zhou Formula",
 	"domaintype": "Artefak",
-	"description": "Di altar kuno yang suci ini, para monster yang takut akan elemen Cryo berkumpul.\\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
+	"description": "Di altar kuno yang suci ini, para monster yang takut akan elemen Cryo berkumpul.\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
 	"recommendedlevel": 80,
 	"recommendedelements": [
 		"Cryo"
@@ -58,5 +58,11 @@
 	"disorder": [
 		"Saat Superconduct terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
 		"Saat Overloaded terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+	],
+	"monsterlist": [
+		"Large Electro Slime",
+		"Mutant Electro Slime",
+		"Hilichurl Fighter",
+		"Fatui - Electro Cicin Mage"
 	]
 }

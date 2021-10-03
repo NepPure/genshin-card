@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Momiji-Dyed Court",
 	"domaintype": "Artefak",
-	"description": "Di altar ini, di mana dedaunan merah beterbangan di tengah angin, musim panas dan musim gugur terbagi menjadi dua bagian, yang satu memperkuat elemen Cryo, dan satunya lagi memperkuat Pyro.\\nHanya orang yang benar-benar ahli yang bisa melewati ujian ini, dan memiliki kesempatan untuk mendapatkan artefak berharga. Serta mendapatkan bantuan yang tidak bisa didapatkan dengan cara lain..",
+	"description": "Di altar ini, di mana dedaunan merah beterbangan di tengah angin, musim panas dan musim gugur terbagi menjadi dua bagian, yang satu memperkuat elemen Cryo, dan satunya lagi memperkuat Pyro.\nHanya orang yang benar-benar ahli yang bisa melewati ujian ini, dan memiliki kesempatan untuk mendapatkan artefak berharga. Serta mendapatkan bantuan yang tidak bisa didapatkan dengan cara lain..",
 	"recommendedlevel": 80,
 	"recommendedelements": [
 		"Pyro",
@@ -60,5 +60,10 @@
 		"Permukaan platform dalam tantangan ini akan terus menerus beralih antara status Summer Boon dan Frost Boon. Karakter akan mendapatkan efek yang berbeda tergantung pada status permukaan platform tempat mereka berada.",
 		"Summer Boon: Karakter aktif akan mendapatkan 60% Pyro DMG Bonus.",
 		"Frost Boon: Karakter aktif akan mendapatkan 60% Cryo DMG Bonus."
+	],
+	"monsterlist": [
+		"Large Electro Slime",
+		"Mutant Electro Slime",
+		"Electro Abyss Mage"
 	]
 }

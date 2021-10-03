@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Hidden Palace of Zhou Formula",
 	"domaintype": "Artefak",
-	"description": "Di altar kuno yang suci ini, para monster yang takut akan elemen Cryo berkumpul.\\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
+	"description": "Di altar kuno yang suci ini, para monster yang takut akan elemen Cryo berkumpul.\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
 	"recommendedlevel": 69,
 	"recommendedelements": [
 		"Cryo"
@@ -50,5 +50,10 @@
 	"disorder": [
 		"Saat Melt terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
 		"Saat Overloaded terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+	],
+	"monsterlist": [
+		"Large Pyro Slime",
+		"Blazing Axe Mitachurl",
+		"Pyro Abyss Mage"
 	]
 }

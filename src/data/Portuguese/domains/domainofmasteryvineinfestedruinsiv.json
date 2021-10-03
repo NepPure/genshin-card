@@ -3,7 +3,7 @@
 	"region": "Inazuma",
 	"domainentrance": "Jardim Violeta",
 	"domaintype": "Material de Elevação de Talento",
-	"description": "No altar da Sakura violeta florescida eternamente, escondem-se inimigos invasores.\\nSe você passar neste Julgamento, poderá obter Materiais para a Elevação de Talentos.",
+	"description": "No altar da Sakura violeta florescida eternamente, escondem-se inimigos invasores.\nSe você passar neste Julgamento, poderá obter Materiais para a Elevação de Talentos.",
 	"recommendedlevel": 88,
 	"recommendedelements": [
 		"Electro"
@@ -40,5 +40,10 @@
 	"disorder": [
 		"Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
 		"Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
+	],
+	"monsterlist": [
+		"Ladrões de Tesouro - Mestre das Poções Cryo",
+		"Kairagi: Trovão Dançante",
+		"Kairagi: Força Poderosa"
 	]
 }

@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Estanque claro y caverna de la montaña",
 	"domaintype": "Artefacto",
-	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Geo.\\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
+	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Geo.\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
 	"recommendedlevel": 90,
 	"recommendedelements": [
 		"Geo"
@@ -57,5 +57,10 @@
 	],
 	"disorder": [
 		"Aumenta el daño Geo de todos los miembros del equipo en un 75%."
+	],
+	"monsterlist": [
+		"Mago del Abismo Pyro",
+		"Mago del Abismo Cryo",
+		"Mago del Abismo Hydro"
 	]
 }

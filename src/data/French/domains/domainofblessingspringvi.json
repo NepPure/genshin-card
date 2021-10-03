@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Au-dessus des nuages",
 	"domaintype": "Artéfact",
-	"description": "#Cet autel des temps anciens abrite des monstres craignant l'élément Électro.\\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à triompher de cette épreuve.",
+	"description": "Cet autel des temps anciens abrite des monstres craignant l'élément Électro.\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à triompher de cette épreuve.",
 	"recommendedlevel": 90,
 	"recommendedelements": [
 		"Électro"
@@ -55,5 +55,10 @@
 		"Lorsque Supraconduction est déclenchée, une explosion d'énergie frappe les ennemis à proximité et leur inflige des DGT.",
 		"Lorsque Fonte est déclenchée, une explosion d'énergie vous frappe et vous inflige des DGT.",
 		"Lorsque Évaporation est déclenchée, une explosion d'énergie vous frappe et vous inflige des DGT."
+	],
+	"monsterlist": [
+		"Guerrier Brutocollinus",
+		"Cryomage de l'Abîme",
+		"Chasseur des ruines"
 	]
 }

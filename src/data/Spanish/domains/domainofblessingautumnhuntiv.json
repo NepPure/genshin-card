@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Jardín del otoño",
 	"domaintype": "Artefacto",
-	"description": "En este altar donde las hojas rojas revolotean en el viento, el verano y el otoño se separan en dos reinos que favorecen a Cryo y a Pyro respectivamente.\\nAquellos capaces de superar la prueba tendrán la oportunidad de obtener valiosos artefactos y recibir ayuda en la búsqueda del destino que alguna vez fue truncado.",
+	"description": "En este altar donde las hojas rojas revolotean en el viento, el verano y el otoño se separan en dos reinos que favorecen a Cryo y a Pyro respectivamente.\nAquellos capaces de superar la prueba tendrán la oportunidad de obtener valiosos artefactos y recibir ayuda en la búsqueda del destino que alguna vez fue truncado.",
 	"recommendedlevel": 90,
 	"recommendedelements": [
 		"Pyro",
@@ -60,5 +60,10 @@
 		"La superficie de la plataforma del desafío cambiará de forma intermitente entre los estados “Oración a las llamas” y “Oración a la escarcha”. Dependiendo del estado, el personaje que esté parado sobre la plataforma obtendrá diferentes efectos.",
 		"Oración a las llamas: el personaje en uso obtiene un 60% de Bono de Daño Pyro.",
 		"Oración a la escarcha: el personaje en uso obtiene un 60% de Bono de Daño Cryo."
+	],
+	"monsterlist": [
+		"Slime Gigante Electro",
+		"Mago del Abismo Electro",
+		"Lawachurl Electroyelmo"
 	]
 }

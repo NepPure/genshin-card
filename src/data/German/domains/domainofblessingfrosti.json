@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Versteckter Palast von Zhou",
 	"domaintype": "Artefakt",
-	"description": "In diesem antiken Altar des Flusses der Elemente haben sich viele Monster versammelt, die es auf den Elementarmonolithen darin abgesehen haben.\\nWenn du die Monster mithilfe der Kryo-Kraft vertreibst und den Monolithen vor der Zerstörung bewahrst, wirst du womöglich wertvolle Artefakte finden.",
+	"description": "In diesem antiken Altar des Flusses der Elemente haben sich viele Monster versammelt, die es auf den Elementarmonolithen darin abgesehen haben.\nWenn du die Monster mithilfe der Kryo-Kraft vertreibst und den Monolithen vor der Zerstörung bewahrst, wirst du womöglich wertvolle Artefakte finden.",
 	"recommendedlevel": 59,
 	"recommendedelements": [
 		"Kryo"
@@ -50,5 +50,11 @@
 	"disorder": [
 		"Verlängert die Dauer der Reaktion Gefroren drastisch.",
 		"Beim Auftreten der Reaktion Supraleiter werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen."
+	],
+	"monsterlist": [
+		"Großer Elektro-Schleim",
+		"Mutierter Elektro-Schleim",
+		"Hydro-Schleim",
+		"Großer Hydro-Schleim"
 	]
 }

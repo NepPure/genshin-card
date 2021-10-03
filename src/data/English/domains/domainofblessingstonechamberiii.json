@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Clear Pool and Mountain Cavern",
 	"domaintype": "Artifacts",
-	"description": "This ancient blessed altar is filled with monsters that fear the power of Geo.\\nYou shall earn priceless Artifacts, if — and only if — you can pass the trial.",
+	"description": "This ancient blessed altar is filled with monsters that fear the power of Geo.\nYou shall earn priceless Artifacts, if — and only if — you can pass the trial.",
 	"recommendedlevel": 90,
 	"recommendedelements": [
 		"Geo"
@@ -57,5 +57,10 @@
 	],
 	"disorder": [
 		"Geo DMG dealt by all party members increased by 75%."
+	],
+	"monsterlist": [
+		"Pyro Abyss Mage",
+		"Cryo Abyss Mage",
+		"Hydro Abyss Mage"
 	]
 }

@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Domínio de Guyun",
 	"domaintype": "Artefatos",
-	"description": "Neste antigo altar se reúnem os monstros que cobiçam suas Linhas Ley.\\nVocê obterá Artefatos valiosos apensar se você proteger as Linhas Ley dos monstros com poder Electro.",
+	"description": "Neste antigo altar se reúnem os monstros que cobiçam suas Linhas Ley.\nVocê obterá Artefatos valiosos apensar se você proteger as Linhas Ley dos monstros com poder Electro.",
 	"recommendedlevel": 69,
 	"recommendedelements": [
 		"Electro"
@@ -45,5 +45,12 @@
 	],
 	"disorder": [
 		"O Dano Eletricamente Carregado é aumentado em 150% e a sua área é aumentada em 100%."
+	],
+	"monsterlist": [
+		"Slime Hydro",
+		"Grande Slime Hydro",
+		"Hilichurl Lutador",
+		"Samachurl Hydro",
+		"Feiticeiro do Abismo Hydro"
 	]
 }

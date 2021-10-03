@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Jardín de cecilias",
 	"domaintype": "Material de ascensión de arma",
-	"description": "Grandes cantidades de energía Hydro fluyen a través de este antiguo altar de sacrificios húmedo.\\nLa humedad intensa en el interior aumentará la duración del TdE de tus habilidades.\\nObtendrás materiales de fortalecimiento de equipamiento si puedes pasar la prueba.",
+	"description": "Grandes cantidades de energía Hydro fluyen a través de este antiguo altar de sacrificios húmedo.\nLa humedad intensa en el interior aumentará la duración del TdE de tus habilidades.\nObtendrás materiales de fortalecimiento de equipamiento si puedes pasar la prueba.",
 	"recommendedlevel": 59,
 	"recommendedelements": [
 		"Cryo",
@@ -41,5 +41,11 @@
 	],
 	"disorder": [
 		"El personaje ocasionalmente se verá afectado por agua ralentizante, la cual aumenta considerablemente el TdE hasta que el atributo Hydro desaparezca."
+	],
+	"monsterlist": [
+		"Slime Hydro",
+		"Slime Gigante Hydro",
+		"Samachurl Hydro",
+		"Mago del Abismo Hydro"
 	]
 }

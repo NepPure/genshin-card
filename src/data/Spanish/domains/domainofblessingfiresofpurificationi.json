@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Jardín estival",
 	"domaintype": "Artefacto",
-	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Pyro.\\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
+	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Pyro.\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
 	"recommendedlevel": 34,
 	"recommendedelements": [
 		"Pyro"
@@ -37,5 +37,12 @@
 	],
 	"disorder": [
 		"Al activar la reacción de Derretido, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos."
+	],
+	"monsterlist": [
+		"Slime Cryo",
+		"Slime Gigante Cryo",
+		"Slime Gigante Hydro",
+		"Hilichurl con Escudo de Madera",
+		"Mago del Abismo Cryo"
 	]
 }

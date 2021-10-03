@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Palacio oculto de la fórmula Zhou",
 	"domaintype": "Artefacto",
-	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Cryo.\\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
+	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Cryo.\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
 	"recommendedlevel": 69,
 	"recommendedelements": [
 		"Cryo"
@@ -50,5 +50,10 @@
 	"disorder": [
 		"Al activar la reacción de Derretido, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos.",
 		"Al activar la reacción de Sobrecarga, serás golpeado por una explosión que infligirá Daño a tu personaje."
+	],
+	"monsterlist": [
+		"Slime Gigante Pyro",
+		"Mitachurl con Hacha de Fuego",
+		"Mago del Abismo Pyro"
 	]
 }

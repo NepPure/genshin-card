@@ -3,7 +3,7 @@
 	"region": "Inazuma",
 	"domainentrance": "Jardín de Sunagare",
 	"domaintype": "Material de ascensión de arma",
-	"description": "En este altar por el que fluyen unas eternas arenas doradas se esconden unos enemigos capaces de realizar poderosos ataques Geo.\\nObtendrás materiales de fortalecimiento de equipamiento si eres capaz de superar esta prueba.",
+	"description": "En este altar por el que fluyen unas eternas arenas doradas se esconden unos enemigos capaces de realizar poderosos ataques Geo.\nObtendrás materiales de fortalecimiento de equipamiento si eres capaz de superar esta prueba.",
 	"recommendedlevel": 15,
 	"recommendedelements": [
 		"Geo",
@@ -35,5 +35,11 @@
 	"disorder": [
 		"Protección de Escudo de todos los miembros del equipo +40%.",
 		"Cuando el personaje obtiene un fragmento producido por una reacción Geo, liberará una onda de choque que inflige daño a los enemigos cercanos."
+	],
+	"monsterlist": [
+		"Slime Hydro",
+		"Slime Gigante Hydro",
+		"Slime Pyro",
+		"Slime Gigante Pyro"
 	]
 }

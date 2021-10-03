@@ -1440,7 +1440,8 @@ const genshindb = require('genshin-db');
     c3: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ambor_02.png',
     c4: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_03.png',
     c5: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ambor_01.png',
-    c6: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_04.png'
+    c6: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_04.png',
+    constellation: 'Eff_UI_Talent_Ambor'
   }
 }
 ```
@@ -1498,7 +1499,9 @@ const genshindb = require('genshin-db');
     c3: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png',
     c4: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png',
     c5: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png',
-    c6: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png'
+    c6: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png',
+    constellation: 'Eff_UI_Talent_PlayerBoy_Rock',
+    constellation2: 'Eff_UI_Talent_PlayerGirl_Rock'
   }
 }
 ```
@@ -1860,7 +1863,9 @@ const genshindb = require('genshin-db');
 ```js
 {
   name: 'Guide to Ballad',
-  description: 'Talent Level-Up material.\\nPoetry is the soul of the land of the wind.\\nPoetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.',
+  description: 'Talent Level-Up material.\n' +
+    'Poetry is the soul of the land of the wind.\n' +
+    'Poetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.',
   sortorder: 1845,
   rarity: '3',
   category: 'AVATAR_MATERIAL',
@@ -1939,7 +1944,9 @@ const genshindb = require('genshin-db');
 ```js
 {
   name: "Dvalin's Sigh",
-  description: 'A bit of power taken from the whirlwinds evoked by the Dragon of the East.\\nBeautiful and transparent, both trade winds and tornadoes will work in his name. The winds move as his companion, his voice, and his freedom.\\nHis enemies are the thousands who stand against the wind.',
+  description: 'A bit of power taken from the whirlwinds evoked by the Dragon of the East.\n' +
+    'Beautiful and transparent, both trade winds and tornadoes will work in his name. The winds move as his companion, his voice, and his freedom.\n' +
+    'His enemies are the thousands who stand against the wind.',
   sortorder: 1780,
   rarity: '5',
   category: 'AVATAR_MATERIAL',
@@ -2280,7 +2287,9 @@ const genshindb = require('genshin-db');
   region: 'Mondstadt',
   domainentrance: 'Taishan Mansion',
   domaintype: 'Talent Level-Up Material',
-  description: 'A massive amount of Pyro energy is coursing through this scorching ancient sacrificial altar.\\nYou will get scorched by merely being here.\\nYou shall earn Talent level-up materials, if — and only if — you can pass the trial.',
+  description: 'A massive amount of Pyro energy is coursing through this scorching ancient sacrificial altar.\n' +
+    'You will get scorched by merely being here.\n' +
+    'You shall earn Talent level-up materials, if — and only if — you can pass the trial.',
   recommendedlevel: 38,
   recommendedelements: [ 'Hydro', 'Cryo', 'Electro' ],
   daysofweek: [ 'Monday', 'Thursday', 'Sunday' ],
@@ -2294,6 +2303,7 @@ const genshindb = require('genshin-db');
   disorder: [
     'Your character will be periodically inflicted with Smoldering Flames, causing you to take Pyro DMG until the inflicted Pyro element is removed.'
   ],
+  monsterlist: [ 'Pyro Slime', 'Large Pyro Slime', 'Pyro Abyss Mage' ],
   images: { namepic: 'UI_DungeonPic_Fire' }
 }
 ```
@@ -2440,6 +2450,22 @@ const genshindb = require('genshin-db');
   'Domain of Mastery: Vine-Infested Ruins II',
   'Domain of Mastery: Vine-Infested Ruins III',
   'Domain of Mastery: Vine-Infested Ruins IV'
+]
+```
+
+</details>
+<details>
+<summary>genshindb.domains('<b>fatui pyro agent', { matchCategories: true }</b>)</summary>
+
+```js
+[
+  'Domain of Blessing: Dance of Steel II',
+  'Domain of Blessing: Dance of Steel III',
+  'Domain of Blessing: Dance of Steel IV',
+  'Domain of Blessing: Dance of Steel V',
+  'Domain of Mastery: Altar of Flames IV',
+  'Domain of Mastery: Circle of Embers IV',
+  'Domain of Mastery: Heart of the Flames IV'
 ]
 ```
 

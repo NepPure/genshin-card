@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Peak of Vindagnyr",
 	"domaintype": "Artefak",
-	"description": "Tempat ini awalnya merupakan sebuah tempat upacara yang berada dekat dengan langit, tapi es-es yang berjatuhan dari langit akhirnya menimbunnya ke dalam gunung.\\nUdara dingin yang ada membuat lingkungan di sini menjadi cukup unik. Kamu harus menghadapi angin yang sangat dingin untuk melewati tantangan ini...",
+	"description": "Tempat ini awalnya merupakan sebuah tempat upacara yang berada dekat dengan langit, tapi es-es yang berjatuhan dari langit akhirnya menimbunnya ke dalam gunung.\nUdara dingin yang ada membuat lingkungan di sini menjadi cukup unik. Kamu harus menghadapi angin yang sangat dingin untuk melewati tantangan ini...",
 	"recommendedlevel": 90,
 	"recommendedelements": [
 		"Pyro",
@@ -62,5 +62,9 @@
 		"Karakter yang sedang berada di dalam tantangan akan terus mengakumulasi Sheer Cold. Saat Sheer Cold mencapai batas maksimum, HP karakter akan terus berkurang.",
 		"Lantai yang terdapat pada tantangan ini akan berubah menjadi kondisi \"Warm\" dan \"Subzero\" secara bergantian.",
 		"Dalam kondisi Warm, akumulasi Sheer Cold akan menurun. Dalam kondisi Subzero, akumulasi Sheer Cold akan menjadi semakin cepat."
+	],
+	"monsterlist": [
+		"Frostarm Lawachurl",
+		"Cryo Abyss Mage"
 	]
 }

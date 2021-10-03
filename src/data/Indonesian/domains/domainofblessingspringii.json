@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Domain of Guyun",
 	"domaintype": "Artefak",
-	"description": "Monolit di dalam Altar Ley Line didamba-dambakan dan ingin dihancurkan oleh monster di sekeliling altar.\\nLindungi Monolit dengan kekuatan Electro untuk mendapatkan Artefak yang berharga.",
+	"description": "Monolit di dalam Altar Ley Line didamba-dambakan dan ingin dihancurkan oleh monster di sekeliling altar.\nLindungi Monolit dengan kekuatan Electro untuk mendapatkan Artefak yang berharga.",
 	"recommendedlevel": 47,
 	"recommendedelements": [
 		"Electro"
@@ -37,5 +37,10 @@
 	],
 	"disorder": [
 		"Saat Overloaded terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar."
+	],
+	"monsterlist": [
+		"Pyro Slime",
+		"Large Pyro Slime",
+		"Pyro Abyss Mage"
 	]
 }

@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Vale das Lembranças",
 	"domaintype": "Artefatos",
-	"description": "O antigo altar abençoado está cheio de monstros que temem força pura.\\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
+	"description": "O antigo altar abençoado está cheio de monstros que temem força pura.\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
 	"recommendedlevel": 80,
 	"recommendedelements": [],
 	"unlockrank": 40,
@@ -51,5 +51,14 @@
 	],
 	"disorder": [
 		"O Dano Físico de todos os membros da equipe é aumentado em 75%."
+	],
+	"monsterlist": [
+		"Fatui - Agente Pyro",
+		"Fatui - Feiticeira Cicin Electro",
+		"Ladrões de Tesouro - Mestre das Poções Pyro",
+		"Ladrões de Tesouro - Mestre das Poções Hydro",
+		"Ladrões de Tesouro - Mestre das Poções Electro",
+		"Ladrões de Tesouro - Mestre das Poções Cryo",
+		"Ladrões de Tesouro - Homem do Mar"
 	]
 }

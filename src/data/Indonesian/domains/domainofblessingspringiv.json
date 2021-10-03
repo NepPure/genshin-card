@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Domain of Guyun",
 	"domaintype": "Artefak",
-	"description": "Monolit di dalam Altar Ley Line didamba-dambakan dan ingin dihancurkan oleh monster di sekeliling altar.\\nLindungi Monolit dengan kekuatan Electro untuk mendapatkan Artefak yang berharga.",
+	"description": "Monolit di dalam Altar Ley Line didamba-dambakan dan ingin dihancurkan oleh monster di sekeliling altar.\nLindungi Monolit dengan kekuatan Electro untuk mendapatkan Artefak yang berharga.",
 	"recommendedlevel": 69,
 	"recommendedelements": [
 		"Electro"
@@ -45,5 +45,12 @@
 	],
 	"disorder": [
 		"Meningkatkan 150% DMG Electro-Charged, meningkatkan 100% lingkup area Electro-Charged."
+	],
+	"monsterlist": [
+		"Hydro Slime",
+		"Large Hydro Slime",
+		"Hilichurl Fighter",
+		"Hydro Samachurl",
+		"Hydro Abyss Mage"
 	]
 }

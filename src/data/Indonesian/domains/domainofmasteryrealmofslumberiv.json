@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Forsaken Rift",
 	"domaintype": "Material Penguatan Talenta",
-	"description": "Energi Cryo yang sangat kuat mengalir melalui altar kuno yang telah membeku ini.\\nDingin yang sampai merasuk ke tulang membuat tempat ini sulit dilalui.\\nDengan melalui ujian ini, kamu berhak memperoleh Material penguatan Talenta, apabila kamu berhasil melewati ujiannya.",
+	"description": "Energi Cryo yang sangat kuat mengalir melalui altar kuno yang telah membeku ini.\nDingin yang sampai merasuk ke tulang membuat tempat ini sulit dilalui.\nDengan melalui ujian ini, kamu berhak memperoleh Material penguatan Talenta, apabila kamu berhasil melewati ujiannya.",
 	"recommendedlevel": 88,
 	"recommendedelements": [
 		"Electro",
@@ -40,5 +40,9 @@
 	],
 	"disorder": [
 		"Setiap beberapa saat, karakter yang bertarung akan terkena Condensed Ice, yang menyebabkan konsumsi Stamina karakter jauh lebih besar sampai efek elemen Cryo terhilangkan. Pilar es akan terjatuh secara acak dan mengakibatkan Cryo DMG."
+	],
+	"monsterlist": [
+		"Large Cryo Slime",
+		"Cryo Abyss Mage"
 	]
 }

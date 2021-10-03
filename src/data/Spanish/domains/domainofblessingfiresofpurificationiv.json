@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Jardín estival",
 	"domaintype": "Artefacto",
-	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Pyro.\\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
+	"description": "En este antiguo altar bendito se reúnen monstruos que le temen al elemento Pyro.\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
 	"recommendedlevel": 69,
 	"recommendedelements": [
 		"Pyro"
@@ -46,5 +46,11 @@
 	"disorder": [
 		"Al activar la reacción de Vaporización, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos.",
 		"Al activar la reacción de Electrocargado, serás golpeado por una explosión que infligirá Daño a tu personaje."
+	],
+	"monsterlist": [
+		"Slime Hydro",
+		"Slime Gigante Hydro",
+		"Samachurl Hydro",
+		"Mago del Abismo Hydro"
 	]
 }

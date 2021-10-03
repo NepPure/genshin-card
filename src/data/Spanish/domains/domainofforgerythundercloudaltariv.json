@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Palacio oculto de la fórmula Lianshan",
 	"domaintype": "Material de ascensión de arma",
-	"description": "Una gran cantidad de energía Electro corre a través de este estruendoso altar de sacrificios.\\nLos elementos Electro esparcidos emiten energía constantemente.\\nObtendrás materiales de mejora de equipo si puedes pasar la prueba.",
+	"description": "Una gran cantidad de energía Electro corre a través de este estruendoso altar de sacrificios.\nLos elementos Electro esparcidos emiten energía constantemente.\nObtendrás materiales de mejora de equipo si puedes pasar la prueba.",
 	"recommendedlevel": 80,
 	"recommendedelements": [
 		"Pyro",
@@ -43,5 +43,10 @@
 	],
 	"disorder": [
 		"El personaje ocasionalmente se verá afectado por tormenta devoradora, drenando su energía hasta que el atributo Electro desaparezca. Rayos caerán aleatoriamente en el área, infligiendo Daño Electro y agotando la Energía Elemental del personaje. Al caer, pueden generarse esferas de rayos devastadores."
+	],
+	"monsterlist": [
+		"Slime Gigante Electro",
+		"Slime Mutante Electro",
+		"Soldado Fatui - Maga de Cicin Electro"
 	]
 }

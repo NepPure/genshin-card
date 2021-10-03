@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Valley of Remembrance",
 	"domaintype": "Artefak",
-	"description": "Di altar kuno yang suci ini, para monster yang takut akan kekuatan murni berkumpul.\\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
+	"description": "Di altar kuno yang suci ini, para monster yang takut akan kekuatan murni berkumpul.\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
 	"recommendedlevel": 47,
 	"recommendedelements": [],
 	"unlockrank": 25,
@@ -35,5 +35,12 @@
 	],
 	"disorder": [
 		"Meningkatkan 75% Physical DMG seluruh anggota party."
+	],
+	"monsterlist": [
+		"Treasure Hoarder: Cryo Potioneer",
+		"Treasure Hoarder: Handyman",
+		"Treasure Hoarder: Gravedigger",
+		"Treasure Hoarder - Seaman",
+		"Treasure Hoarder - Pugilist"
 	]
 }

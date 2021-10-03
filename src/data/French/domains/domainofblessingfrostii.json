@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Palais secret de la Formule Zhou",
 	"domaintype": "Artéfact",
-	"description": "#Cet autel des temps anciens abrite des monstres craignant l'élément Cryo.\\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à triompher de cette épreuve.",
+	"description": "Cet autel des temps anciens abrite des monstres craignant l'élément Cryo.\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à triompher de cette épreuve.",
 	"recommendedlevel": 69,
 	"recommendedelements": [
 		"Cryo"
@@ -50,5 +50,10 @@
 	"disorder": [
 		"Lorsque Fonte est déclenchée, une explosion d'énergie frappe les ennemis à proximité et leur inflige des DGT.",
 		"Lorsque Surcharge est déclenchée, une explosion d'énergie vous frappe et vous inflige des DGT."
+	],
+	"monsterlist": [
+		"Pyroblob géant",
+		"Brutoviandu avec hache Pyro",
+		"Pyromage de l'Abîme"
 	]
 }

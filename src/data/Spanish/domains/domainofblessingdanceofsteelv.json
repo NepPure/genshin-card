@@ -3,7 +3,7 @@
 	"region": "Mondstadt",
 	"domainentrance": "Valle de los recuerdos",
 	"domaintype": "Artefacto",
-	"description": "En este antiguo altar bendito se reúnen unos monstruos terroríficos y poderosos.\\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
+	"description": "En este antiguo altar bendito se reúnen unos monstruos terroríficos y poderosos.\nObtendrás valiosos artefactos si eres capaz de superar esta prueba.",
 	"recommendedlevel": 90,
 	"recommendedelements": [],
 	"unlockrank": 45,
@@ -51,5 +51,10 @@
 	],
 	"disorder": [
 		"Aumenta el Daño Físico de todos los miembros del equipo en un 75%."
+	],
+	"monsterlist": [
+		"Soldado Fatui - Recaudador Pyro",
+		"Soldado Fatui - Maga de Cicin Electro",
+		"Ladrón de Tesoros - Maestro de Pociones Cryo"
 	]
 }

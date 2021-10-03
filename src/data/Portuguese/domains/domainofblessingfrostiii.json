@@ -3,7 +3,7 @@
 	"region": "Liyue",
 	"domainentrance": "Palácio Oculto da Fórmula Zhou",
 	"domaintype": "Artefatos",
-	"description": "Este antigo altar abençoado está cheio de monstros que temem Cryo.\\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
+	"description": "Este antigo altar abençoado está cheio de monstros que temem Cryo.\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
 	"recommendedlevel": 80,
 	"recommendedelements": [
 		"Cryo"
@@ -58,5 +58,11 @@
 	"disorder": [
 		"Quando a Supercondução é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
 		"Quando a reação de Sobrecarga é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+	],
+	"monsterlist": [
+		"Grande Slime Electro",
+		"Grande Slime Mutante",
+		"Hilichurl Lutador",
+		"Fatui - Feiticeira Cicin Electro"
 	]
 }
