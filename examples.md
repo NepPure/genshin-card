@@ -37,9 +37,10 @@ const genshindb = require('genshin-db');
   'Ningguang',          'Noelle',   'Qiqi',
   'Raiden Shogun',      'Razor',    'Rosaria',
   'Sangonomiya Kokomi', 'Sayu',     'Sucrose',
-  'Tartaglia',          'Venti',    'Xiangling',
-  'Xiao',               'Xingqiu',  'Xinyan',
-  'Yanfei',             'Yoimiya',  'Zhongli'
+  'Tartaglia',          'Thoma',    'Venti',
+  'Xiangling',          'Xiao',     'Xingqiu',
+  'Xinyan',             'Yanfei',   'Yoimiya',
+  'Zhongli'
 ]
 ```
 
@@ -278,7 +279,7 @@ const genshindb = require('genshin-db');
 ```js
 {
   name: 'Amber',
-  title: 'la Campeona de Vuelo',
+  title: 'La Campeona de Vuelo',
   description: 'Siempre enérgica y llena de vida, Amber es la mejor exploradora de los Caballeros de Favonius, aunque también es la única...',
   rarity: '4',
   element: 'Pyro',
@@ -560,11 +561,11 @@ const genshindb = require('genshin-db');
 
 ```js
 [
-  'Amber',   'Bennett',
-  'Diluc',   'Hu Tao',
-  'Klee',    'Xiangling',
-  'Xinyan',  'Yanfei',
-  'Yoimiya'
+  'Amber',     'Bennett',
+  'Diluc',     'Hu Tao',
+  'Klee',      'Thoma',
+  'Xiangling', 'Xinyan',
+  'Yanfei',    'Yoimiya'
 ]
 ```
 
@@ -681,21 +682,21 @@ const genshindb = require('genshin-db');
 
 ```js
 [
-  'Albedo',             'Aloy',               'Amber',
-  'Barbara',            'Beidou',             'Bennett',
-  'Chongyun',           'Diluc',              'Diona',
-  'Eula',               'Fischl',             'Ganyu',
-  'Hu Tao',             'Jean',               'Kaedehara Kazuha',
-  'Kaeya',              'Kamisato Ayaka',     'Keqing',
-  'Klee',               'Kujou Sara',         'Lisa',
-  'Mona',               'Ningguang',          'Noelle',
-  'Qiqi',               'Raiden Shogun',      'Razor',
-  'Rosaria',            'Sangonomiya Kokomi', 'Sayu',
-  'Sucrose',            'Tartaglia',          'Traveler (Anemo)',
-  'Traveler (Electro)', 'Traveler (Geo)',     'Venti',
-  'Xiangling',          'Xiao',               'Xingqiu',
-  'Xinyan',             'Yanfei',             'Yoimiya',
-  'Zhongli'
+  'Albedo',           'Aloy',               'Amber',
+  'Barbara',          'Beidou',             'Bennett',
+  'Chongyun',         'Diluc',              'Diona',
+  'Eula',             'Fischl',             'Ganyu',
+  'Hu Tao',           'Jean',               'Kaedehara Kazuha',
+  'Kaeya',            'Kamisato Ayaka',     'Keqing',
+  'Klee',             'Kujou Sara',         'Lisa',
+  'Mona',             'Ningguang',          'Noelle',
+  'Qiqi',             'Raiden Shogun',      'Razor',
+  'Rosaria',          'Sangonomiya Kokomi', 'Sayu',
+  'Sucrose',          'Tartaglia',          'Thoma',
+  'Traveler (Anemo)', 'Traveler (Electro)', 'Traveler (Geo)',
+  'Venti',            'Xiangling',          'Xiao',
+  'Xingqiu',          'Xinyan',             'Yanfei',
+  'Yoimiya',          'Zhongli'
 ]
 ```
 
@@ -1515,6 +1516,7 @@ const genshindb = require('genshin-db');
 
 ```js
 [
+  'Akuoumaru',
   'Alley Hunter',
   'Amber Bead',
   'Amenoma Kageuchi',
@@ -1575,9 +1577,11 @@ const genshindb = require('genshin-db');
   'Messenger',
   'Mistsplitter Reforged',
   'Mitternachts Waltz',
+  "Mouun's Moon",
   "Old Merc's Pal",
   'Otherworldly Story',
   'Pocket Grimoire',
+  'Polar Star',
   'Predator',
   'Primordial Jade Cutter',
   'Primordial Jade Winged-Spear',
@@ -1612,10 +1616,7 @@ const genshindb = require('genshin-db');
   'Skyward Pride',
   'Skyward Spine',
   'Slingshot',
-  'Snow-Tombed Starsilver',
-  'Solar Pearl',
-  'Song of Broken Pines',
-  ... 25 more items
+  ... 29 more items
 ]
 ```
 
@@ -1866,7 +1867,7 @@ const genshindb = require('genshin-db');
   description: 'Talent Level-Up material.\n' +
     'Poetry is the soul of the land of the wind.\n' +
     'Poetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.',
-  sortorder: 1845,
+  sortorder: 973,
   rarity: '3',
   category: 'AVATAR_MATERIAL',
   materialtype: 'Talent Level-Up Material',
@@ -1947,7 +1948,7 @@ const genshindb = require('genshin-db');
   description: 'A bit of power taken from the whirlwinds evoked by the Dragon of the East.\n' +
     'Beautiful and transparent, both trade winds and tornadoes will work in his name. The winds move as his companion, his voice, and his freedom.\n' +
     'His enemies are the thousands who stand against the wind.',
-  sortorder: 1780,
+  sortorder: 1889,
   rarity: '5',
   category: 'AVATAR_MATERIAL',
   materialtype: 'Character Level-Up Material',
@@ -1969,7 +1970,7 @@ const genshindb = require('genshin-db');
 {
   name: 'Iron Chunk',
   description: 'This iron chunk can be turned into a multitude of handy items in the hands of a skilled craftsman.',
-  sortorder: 1235,
+  sortorder: 686,
   category: 'EXCHANGE',
   materialtype: 'Forging Ore',
   source: [ 'Found in the wild' ],
@@ -2221,6 +2222,7 @@ const genshindb = require('genshin-db');
   'Stormcrest Pie',
   'Sunshine Sprat',
   'Triple-Layered Consommé',
+  'Wakatakeni',
   'Woodland Dream'
 ]
 ```
