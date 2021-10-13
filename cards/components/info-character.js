@@ -160,11 +160,7 @@ export default Vue.defineComponent({
 					}
 
 					res.costs[itemInfo.name].rarity = itemInfo.rarity || 1;
-					if (!itemInfo.images.fandom) {
-						console.warn(`${itemInfo.name}：信息缺失`);
-					} else {
-						res.costs[itemInfo.name].image = itemInfo.images.fandom.replace('https://static.wikia.nocookie.net/', 'https://genshindb.neppure.vip/')
-					}
+					res.costs[itemInfo.name].image = `https://res.cloudinary.com/genshin/image/upload/sprites/${itemInfo.images.nameicon}.png`
 					res.costs[itemInfo.name].count += itemCount;
 
 					indexItem[index] = indexItem[index] || [];
