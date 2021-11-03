@@ -549,6 +549,29 @@ const genshindb = require('genshin-db');
 
 </details>
 <details>
+<summary>genshindb.characters('<b>arrow', { dumpResult: true, matchCategories: true, resultLanguage: 'jp' }</b>)</summary>
+
+```js
+{
+  query: 'arrow',
+  folder: 'characters',
+  match: 'Firm Arrowhead',
+  options: {
+    dumpResult: true,
+    matchAltNames: true,
+    matchAliases: false,
+    matchCategories: true,
+    verboseCategories: false,
+    queryLanguages: [ 'English' ],
+    resultLanguage: 'Japanese'
+  },
+  filename: [ 'amber', 'diona', 'fischl' ],
+  result: [ 'アンバー', 'ディオナ', 'フィッシュル' ]
+}
+```
+
+</details>
+<details>
 <summary>genshindb.characters('<b>december', { matchCategories: true }</b>)</summary>
 
 ```js
