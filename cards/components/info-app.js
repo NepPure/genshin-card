@@ -136,7 +136,7 @@ export default Vue.defineComponent({
 			}
 		} else {
 			if (data.images.namegacha) {
-				data.cover = `https://genshindb.neppure.vip/genshin/image/upload/2.1/${data.images.namegacha}.png`;
+				data.cover = `https://genshindb.neppure.vip/genshin/image/upload/sprites/${data.images.namegacha}.png`;
 			}
 			data.rdata = data[`r${r}`];
 
