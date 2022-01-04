@@ -1,7 +1,8 @@
 {
 	"name": "Zhongli",
+	"fullname": "Zhongli",
 	"title": "El Vagabundo del Reino Mortal",
-	"description": "Misterioso invitado de la Funeraria El Camino. Erudito y con información sobre todo tipo de cosas.",
+	"description": "Misterioso asesor de la Funeraria El Camino. Erudito y con información sobre todo tipo de cosas.",
 	"rarity": "5",
 	"element": "Geo",
 	"weapontype": "Lanza",

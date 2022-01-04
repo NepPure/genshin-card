@@ -1,0 +1,154 @@
+{
+	"name": "Yun Jin",
+	"fullname": "Yun Jin",
+	"title": "La Prima Donna del Escenario",
+	"description": "Una renombrada cantante de ópera de Liyue que es experta tanto en la composición de obras como en el canto. Su estilo es único, exquisito y delicado, como su propia persona.",
+	"rarity": "4",
+	"element": "Geo",
+	"weapontype": "Lanza",
+	"substat": "Recarga de Energía",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Compañía de Ópera Yun-Han",
+	"birthdaymmdd": "5/21",
+	"birthday": "21 de mayo",
+	"constellation": "Opera Grandis",
+	"cv": {
+		"english": "Judy Alice Lee & 杨扬",
+		"chinese": "贺文潇&杨扬",
+		"japanese": "小岩井ことり&杨扬",
+		"korean": "사문영&Yang Yang"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedacito de topacio prithiva",
+				"count": 1
+			},
+			{
+				"name": "Lirio de cristal",
+				"count": 3
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de topacio prithiva",
+				"count": 3
+			},
+			{
+				"name": "Cuerno del Rey Acechador",
+				"count": 2
+			},
+			{
+				"name": "Lirio de cristal",
+				"count": 10
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de topacio prithiva",
+				"count": 6
+			},
+			{
+				"name": "Cuerno del Rey Acechador",
+				"count": 4
+			},
+			{
+				"name": "Lirio de cristal",
+				"count": 20
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Trozo de topacio prithiva",
+				"count": 3
+			},
+			{
+				"name": "Cuerno del Rey Acechador",
+				"count": 8
+			},
+			{
+				"name": "Lirio de cristal",
+				"count": 30
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Trozo de topacio prithiva",
+				"count": 6
+			},
+			{
+				"name": "Cuerno del Rey Acechador",
+				"count": 12
+			},
+			{
+				"name": "Lirio de cristal",
+				"count": 45
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Topacio prithiva",
+				"count": 6
+			},
+			{
+				"name": "Cuerno del Rey Acechador",
+				"count": 20
+			},
+			{
+				"name": "Lirio de cristal",
+				"count": 60
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 24
+			}
+		]
+	}
+}

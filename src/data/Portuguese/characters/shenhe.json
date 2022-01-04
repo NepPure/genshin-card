@@ -1,0 +1,154 @@
+{
+	"name": "Shenhe",
+	"fullname": "Shenhe",
+	"title": "Transcendência Solitária",
+	"description": "Uma discípula adepti com um ar muito incomum sobre ela. Tendo passado muito tempo vivendo em isolamento nas montanhas de Liyue, ela se tornou tão fria e distante quanto os próprios adepti.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Lança",
+	"substat": "ATQ",
+	"gender": "Feminino",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Porto de Liyue",
+	"birthdaymmdd": "3/10",
+	"birthday": "10 de março",
+	"constellation": "Crista Doloris",
+	"cv": {
+		"english": "Chelsea Kwoka",
+		"chinese": "秦紫翼",
+		"japanese": "川澄綾子",
+		"korean": "이현진"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lasca de Jade Shivada",
+				"count": 1
+			},
+			{
+				"name": "Qingxin",
+				"count": 3
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de Jade Shivada",
+				"count": 3
+			},
+			{
+				"name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+				"count": 2
+			},
+			{
+				"name": "Qingxin",
+				"count": 10
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de Jade Shivada",
+				"count": 6
+			},
+			{
+				"name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+				"count": 4
+			},
+			{
+				"name": "Qingxin",
+				"count": 20
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Pedaço de Jade Shivada",
+				"count": 3
+			},
+			{
+				"name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+				"count": 8
+			},
+			{
+				"name": "Qingxin",
+				"count": 30
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Pedaço de Jade Shivada",
+				"count": 6
+			},
+			{
+				"name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+				"count": 12
+			},
+			{
+				"name": "Qingxin",
+				"count": 45
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Gema de Jade Shivada",
+				"count": 6
+			},
+			{
+				"name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+				"count": 20
+			},
+			{
+				"name": "Qingxin",
+				"count": 60
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 24
+			}
+		]
+	}
+}

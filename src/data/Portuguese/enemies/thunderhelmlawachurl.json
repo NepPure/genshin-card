@@ -3,5 +3,67 @@
 	"specialname": "Lawachurl do Selo Electro",
 	"enemytype": "ELITE",
 	"category": "Hilichurl",
-	"description": "Um misterioso rei dos Hilichurls que vagueia no meio da tempestade elétrica.\nEsta é uma grande criatura que os outros Hilichurls chamam de Lawa. Seu corpo colossal é coberto por energia Electro. Das fissuras de sua pele brotam Cristais Electro dos quais emite Energia Elemental."
+	"description": "Um misterioso rei dos Hilichurls que vagueia no meio da tempestade elétrica.\nEsta é uma grande criatura que os outros Hilichurls chamam de Lawa. Seu corpo colossal é coberto por energia Electro. Das fissuras de sua pele brotam Cristais Electro dos quais emite Energia Elemental.",
+	"investigation": {
+		"name": "Rei Hilichurl",
+		"category": "Inimigos Elite",
+		"description": "Os Mitachurls que sofreram mutação devido ao acúmulo de uma grande quantidade de elementos em seu corpo.\\nOs Hilichurls não adoram deuses e não seguem ordem ou disciplina. Os mais fortes e ferozes dentre eles são vistos como adequados para liderar o grupo."
+	},
+	"rewardpreview": [
+		{
+			"name": "Mora"
+		},
+		{
+			"name": "Chifre Pesado",
+			"count": 5.2526
+		},
+		{
+			"name": "Chifre de Bronze Negro",
+			"count": 1.4006
+		},
+		{
+			"name": "Chifre de Cristal Preto",
+			"count": 0.3502
+		},
+		{
+			"name": "Máscara Danificada",
+			"count": 0.5253
+		},
+		{
+			"name": "Máscara Suja",
+			"count": 0.1401
+		},
+		{
+			"name": "Máscara Ominosa",
+			"count": 0.035
+		},
+		{
+			"name": "Berserker",
+			"rarity": "3"
+		},
+		{
+			"name": "Instrutor",
+			"rarity": "3"
+		},
+		{
+			"name": "O Exilado",
+			"rarity": "3"
+		},
+		{
+			"name": "O Doutor Viajante",
+			"rarity": "3"
+		},
+		{
+			"name": "Berserker",
+			"rarity": "4"
+		},
+		{
+			"name": "Instrutor",
+			"rarity": "4"
+		},
+		{
+			"name": "O Exilado",
+			"rarity": "4"
+		}
+	]
 }

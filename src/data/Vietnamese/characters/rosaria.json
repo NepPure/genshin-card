@@ -1,5 +1,6 @@
 {
 	"name": "Rosaria",
+	"fullname": "Rosaria",
 	"title": "Ân Điển Mũ Gai",
 	"description": "Một tu nữ ngoại trừ cách ăn mặc thì không có điểm nào giống với người trong tu viện. Trong hành vi và lời nói lãnh đạm thoảng qua chút sắc sảo. Lúc nào cũng hành động một mình.",
 	"rarity": "4",
@@ -45,7 +46,7 @@
 				"count": 40000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 3
 			},
 			{
@@ -67,7 +68,7 @@
 				"count": 60000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 6
 			},
 			{

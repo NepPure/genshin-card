@@ -1,7 +1,8 @@
 {
 	"name": "Ganyu",
+	"fullname": "Ganyu",
 	"title": "Plenilune Gaze",
-	"description": "Seorang sekretaris di Yuehai Pavillion. Darah hewan pusaka Qilin mengalir di dalam tubuhnya.",
+	"description": "Seorang sekretaris di Yuehai Pavilion. Darah hewan pusaka Qilin mengalir di dalam tubuhnya.",
 	"rarity": "5",
 	"element": "Cryo",
 	"weapontype": "Bow",

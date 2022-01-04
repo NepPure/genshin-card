@@ -1,0 +1,154 @@
+{
+	"name": "Shenhe",
+	"fullname": "Shenhe",
+	"title": "Thiên Thể Cô Độc",
+	"description": "Đệ tử tiên gia, khí chất thoát tục, ẩn cư tại núi rừng Liyue, tính cách lãnh đạm như tiên nhân.",
+	"rarity": "5",
+	"element": "Băng",
+	"weapontype": "Vũ Khí Cán Dài",
+	"substat": "Tấn Công",
+	"gender": "nữ",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Cảng Liyue",
+	"birthdaymmdd": "3/10",
+	"birthday": "10 tháng 3",
+	"constellation": "Cung Ưu Sầu",
+	"cv": {
+		"english": "Chelsea Kwoka",
+		"chinese": "秦紫翼",
+		"japanese": "Ayako Kawasumi",
+		"korean": "이현진"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Ngọc Băng Vụn",
+				"count": 1
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 3
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Mảnh Ngọc Băng Vỡ",
+				"count": 3
+			},
+			{
+				"name": "Vảy Giả Tộc Rồng",
+				"count": 2
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 10
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Mảnh Ngọc Băng Vỡ",
+				"count": 6
+			},
+			{
+				"name": "Vảy Giả Tộc Rồng",
+				"count": 4
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 20
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Ngọc Băng",
+				"count": 3
+			},
+			{
+				"name": "Vảy Giả Tộc Rồng",
+				"count": 8
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 30
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Ngọc Băng",
+				"count": 6
+			},
+			{
+				"name": "Vảy Giả Tộc Rồng",
+				"count": 12
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 45
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Ngọc Băng",
+				"count": 6
+			},
+			{
+				"name": "Vảy Giả Tộc Rồng",
+				"count": 20
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 60
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 24
+			}
+		]
+	}
+}

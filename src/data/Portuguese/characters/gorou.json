@@ -1,5 +1,6 @@
 {
 	"name": "Gorou",
+	"fullname": "Gorou",
 	"title": "Guerreiro Canino",
 	"description": "O grande general das tropas da Ilha Watatsumi. Ele é extremamente confiado por seus subordinados.",
 	"rarity": "4",
@@ -17,8 +18,8 @@
 	"cv": {
 		"english": "Cory Yee",
 		"chinese": "杨昕燃",
-		"japanese": "",
-		"korean": "이새벽"
+		"japanese": "畠中祐",
+		"korean": "Li Xiao"
 	},
 	"costs": {
 		"ascend1": [

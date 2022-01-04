@@ -1,5 +1,6 @@
 {
 	"name": "Qiqi",
+	"fullname": "Qiqi",
 	"title": "Đêm Hồn Về Lạnh Giá",
 	"description": "Một cô nương hái thuốc kiêm học đồ tại lò thuốc, sắc mặt trắng toát như cương thi. Rất ít nói chuyện, cũng không có biểu cảm gì.",
 	"rarity": "5",
@@ -45,7 +46,7 @@
 				"count": 40000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 3
 			},
 			{
@@ -67,7 +68,7 @@
 				"count": 60000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 6
 			},
 			{

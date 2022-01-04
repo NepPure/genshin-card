@@ -3,5 +3,27 @@
 	"specialname": "Elementarkraft in Kugelform",
 	"enemytype": "COMMON",
 	"category": "Elementare Lebensformen",
-	"description": "Ein Monster, das durch die Ansammlung von Geo-Kraft in der Erde hervorgebracht wurde.\nEs kann mit seiner Körperenergie einen schützenden Steinpanzer erzeugen. Früher kursierte unter den Schatzräubern die Legende eines „Goldenen Geo-Schleimkönigs“. Sie waren der Ansicht, dass Geo-Schleime zu den Edelsteinen und Erzen zählten, da diese wie jene Mineralien über Geo-Energie verfügen."
+	"description": "Ein Monster, das durch die Ansammlung von Geo-Kraft in der Erde hervorgebracht wurde.\nEs kann mit seiner Körperenergie einen schützenden Steinpanzer erzeugen. Früher kursierte unter den Schatzräubern die Legende eines „Goldenen Geo-Schleimkönigs“. Sie waren der Ansicht, dass Geo-Schleime zu den Edelsteinen und Erzen zählten, da diese wie jene Mineralien über Geo-Energie verfügen.",
+	"investigation": {
+		"name": "Schleim",
+		"category": "Normal",
+		"description": "Eine puddingartige elementare Lebensform.\\nEs wird gesagt, dass Desserts, die aus Schleim verschiedener Elemente hergestellt werden, einen unglaublich unverwechselbaren Geschmack haben."
+	},
+	"rewardpreview": [
+		{
+			"name": "Mora"
+		},
+		{
+			"name": "Schleimabsonderung",
+			"count": 0.6723
+		},
+		{
+			"name": "Schleimkondensat",
+			"count": 0.1792
+		},
+		{
+			"name": "Schleimkonzentrat",
+			"count": 0.0448
+		}
+	]
 }

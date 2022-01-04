@@ -3,5 +3,39 @@
 	"specialname": "Simple créature",
 	"enemytype": "COMMON",
 	"category": "Brutocollinus",
-	"description": "Résident d'origine des contrées sauvages de Teyvat.\nCes tireurs manient de simple arbalètes et ont taillé la pointe de leurs flèches dans des électrocristaux qui envoient une décharge électrique à l'impact. On dit que les meilleurs arbalétriers Brutocollinus sont capables de tirer cinq flèches à la fois."
+	"description": "Résident d'origine des contrées sauvages de Teyvat.\nCes tireurs manient de simple arbalètes et ont taillé la pointe de leurs flèches dans des électrocristaux qui envoient une décharge électrique à l'impact. On dit que les meilleurs arbalétriers Brutocollinus sont capables de tirer cinq flèches à la fois.",
+	"investigation": {
+		"name": "Tireur Brutocollinus",
+		"category": "Normal",
+		"description": "Des Brutocollinus qui attaquent à distance avec des arbalètes.\\nÉtant donné leurs capacités intellectuelles limitées, apprendre à manier une arbalète leur demande des efforts considérables, sans parler de fabriquer des armes aussi raffinées. Peut-être qu'une organisation s'occupe de fournir des armes et d'entraîner ces créatures qu'on trouve à peu près partout en Teyvat..."
+	},
+	"rewardpreview": [
+		{
+			"name": "Mora"
+		},
+		{
+			"name": "Pointe de flèche robuste",
+			"count": 0.8404
+		},
+		{
+			"name": "Pointe de flèche aiguisée",
+			"count": 0.2241
+		},
+		{
+			"name": "Pointe de flèche usée",
+			"count": 0.056
+		},
+		{
+			"name": "Masque endommagé",
+			"count": 0.1681
+		},
+		{
+			"name": "Masque sale",
+			"count": 0.0448
+		},
+		{
+			"name": "Masque sinistre",
+			"count": 0.0112
+		}
+	]
 }

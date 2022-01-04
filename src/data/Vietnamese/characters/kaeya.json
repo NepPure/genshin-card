@@ -1,5 +1,6 @@
 {
 	"name": "Kaeya",
+	"fullname": "Kaeya",
 	"title": "Hàn Phong Kiếm Sĩ",
 	"description": "Kiếm sĩ có nét của người ngoại quốc, là nhân vật có đầu óc trong Đội Kỵ Sĩ Tây Phong.",
 	"rarity": "4",
@@ -45,7 +46,7 @@
 				"count": 40000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 3
 			},
 			{
@@ -67,7 +68,7 @@
 				"count": 60000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 6
 			},
 			{

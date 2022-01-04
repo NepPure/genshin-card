@@ -1,5 +1,6 @@
 {
 	"name": "Xiao",
+	"fullname": "Xiao",
 	"title": "ยักษาผู้พิทักษ์",
 	"description": "ยักษา เซียนผู้พิทักษ์ Liyue ผู้ได้รับสมญานาม \"ผู้กำราบอสูร\" หรือ \"ยักษาผู้พิทักษ์\"",
 	"rarity": "5",
@@ -18,7 +19,7 @@
 		"english": "Laila Berzins",
 		"chinese": "kinsen",
 		"japanese": "松岡禎丞",
-		"korean": "정유미"
+		"korean": "심규혁"
 	},
 	"costs": {
 		"ascend1": [

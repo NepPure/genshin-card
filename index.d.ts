@@ -67,6 +67,7 @@ export interface StatResult {
 //<MatchCategories extends boolean | undefined, Verbose extends boolean | undefined>
 export interface QueryOptions {
     dumpResult?: boolean;
+    matchNames?: boolean;
     matchAltNames?: boolean;
     matchAliases?: boolean;
     matchCategories?: boolean;
@@ -214,6 +215,7 @@ export interface ArtifactDetail {
 
 export interface Character {
     name: string;
+    fullname: string; // only Russian has shortened "name" for japanese characters
     title: string;
     description: string;
     rarity: string;
@@ -618,6 +620,12 @@ export interface Enemy {
     category: string; 
     description: string;
 
+    investigation?: { // almost all but not every enemy has this.
+        name: string;
+        category: string;
+        description: string;
+    }
+
     // droplist: Rewards; TODO
     // particles: TODO
     // resistance: { TODO
@@ -630,6 +638,7 @@ export interface Enemy {
     //     cryo: number;
     //     electro: number;
     // };
+    rewardpreview: Rewards[];
 
     images: {
         nameicon: string;

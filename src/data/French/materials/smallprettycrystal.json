@@ -1,0 +1,10 @@
+{
+	"name": "Joli cristal (petit)",
+	"description": "Produit synthétisé supplémentaire",
+	"sortorder": 1737,
+	"category": "CONSUME",
+	"materialtype": "Produit synthétisé",
+	"source": [
+		"Synthèse"
+	]
+}

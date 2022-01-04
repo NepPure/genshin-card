@@ -1,7 +1,8 @@
 {
 	"name": "Xiao",
+	"fullname": "Xiao",
 	"title": "Vigilant Yaksha",
-	"description": "Yaksha, sesosok makhluk abadi yang juga memiliki julukan \"Conqueror of Demons\" atau \"Guardian Yaksha\".",
+	"description": "Yaksha, sesosok Adeptus yang melindungi Liyue. Juga memiliki julukan \"Conqueror of Demons\" atau \"Vigilant Yaksha\".",
 	"rarity": "5",
 	"element": "Anemo",
 	"weapontype": "Polearm",
@@ -18,7 +19,7 @@
 		"english": "Laila Berzins",
 		"chinese": "kinsen",
 		"japanese": "松岡禎丞",
-		"korean": "정유미"
+		"korean": "심규혁"
 	},
 	"costs": {
 		"ascend1": [

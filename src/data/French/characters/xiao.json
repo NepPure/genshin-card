@@ -1,5 +1,6 @@
 {
 	"name": "Xiao",
+	"fullname": "Xiao",
 	"title": "Gardien Yaksha",
 	"description": "Un des Adeptes de Liyue, aussi connu sous le nom de « Dompteur de démons » et « Général des Yakshas ».",
 	"rarity": "5",
@@ -18,7 +19,7 @@
 		"english": "Laila Berzins",
 		"chinese": "kinsen",
 		"japanese": "松岡禎丞",
-		"korean": "정유미"
+		"korean": "심규혁"
 	},
 	"costs": {
 		"ascend1": [

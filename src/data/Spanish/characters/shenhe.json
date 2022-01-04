@@ -1,0 +1,154 @@
+{
+	"name": "Shenhe",
+	"fullname": "Shenhe",
+	"title": "La Ermitaña Sobrehumana",
+	"description": "Una discípula de los Adeptus con una mirada perdida. Al haber vivido recluida en las montañas de Liyue, su carácter es tan frío y distante como el de los Adeptus.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Lanza",
+	"substat": "ATQ",
+	"gender": "Femenino",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue",
+	"birthdaymmdd": "3/10",
+	"birthday": "10 de marzo",
+	"constellation": "Crista Doloris",
+	"cv": {
+		"english": "Chelsea Kwoka",
+		"chinese": "秦紫翼",
+		"japanese": "川澄綾子",
+		"korean": "이현진"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedacito de jade shivada",
+				"count": 1
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 3
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Pseudoaleta de dragón de las profundidades",
+				"count": 2
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 10
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Pseudoaleta de dragón de las profundidades",
+				"count": 4
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 20
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Trozo de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Pseudoaleta de dragón de las profundidades",
+				"count": 8
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 30
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Trozo de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Pseudoaleta de dragón de las profundidades",
+				"count": 12
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 45
+			},
+			{
+				"name": "Néctar energético",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Pseudoaleta de dragón de las profundidades",
+				"count": 20
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 60
+			},
+			{
+				"name": "Néctar energético",
+				"count": 24
+			}
+		]
+	}
+}

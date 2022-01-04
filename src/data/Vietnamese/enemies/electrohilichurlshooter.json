@@ -3,5 +3,39 @@
 	"specialname": "Ma Vật Đơn Thuần",
 	"enemytype": "COMMON",
 	"category": "Bộ Tộc Hilichurl",
-	"description": "Cư dân nguyên thủy lang thang nơi hoang dã ở Teyvat.\nXạ thủ tay cầm cung nỏ đơn giản, mũi tên được làm từ mảnh pha lê điện được mài nhọn, để khi bắn trúng sẽ gây ra điện giật. Nghe nói xạ thủ Hilichurl thiện xạ có thể cùng lúc bắn 5 mũi tên, vô cùng lợi hại."
+	"description": "Cư dân nguyên thủy lang thang nơi hoang dã ở Teyvat.\nXạ thủ tay cầm cung nỏ đơn giản, mũi tên được làm từ mảnh pha lê điện được mài nhọn, để khi bắn trúng sẽ gây ra điện giật. Nghe nói xạ thủ Hilichurl thiện xạ có thể cùng lúc bắn 5 mũi tên, vô cùng lợi hại.",
+	"investigation": {
+		"name": "Xạ thủ Hilichurl",
+		"category": "Thường",
+		"description": "Hilichurl dùng Nỏ tấn công từ xa.\\nTrí tuệ của Hilichurl ngay việc học dùng Nỏ cũng gặp khó khăn, đừng nói đến thiết bị cần gia công tinh xảo này. Vì vậy, có thể nhận thấy, đằng sau Hilichurl phân tán khắp đại lục có tổ chức cung cấp trang bị và huấn luyện chúng..."
+	},
+	"rewardpreview": [
+		{
+			"name": "Mora"
+		},
+		{
+			"name": "Mũi Tên Chắc Chắn",
+			"count": 0.8404
+		},
+		{
+			"name": "Mũi Tên Sắc Bén",
+			"count": 0.2241
+		},
+		{
+			"name": "Mũi Tên Thiện Chiến",
+			"count": 0.056
+		},
+		{
+			"name": "Mặt Nạ Vỡ",
+			"count": 0.1681
+		},
+		{
+			"name": "Mặt Nạ Bẩn",
+			"count": 0.0448
+		},
+		{
+			"name": "Mặt Nạ Xui Xẻo",
+			"count": 0.0112
+		}
+	]
 }

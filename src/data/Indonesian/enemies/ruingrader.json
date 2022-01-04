@@ -3,5 +3,55 @@
 	"specialname": "Ra-11235",
 	"enemytype": "ELITE",
 	"category": "Automaton",
-	"description": "Mesin perang kuno berbentuk manusia.\nBentuknya menyerupai Ruin Guard, hanya saja lebih aneh dan kuat. Inti energi yang terpasang di sepasang kakinya, seakan-akan menjadi sumber kekuatan yang menopang tubuhnya yang terlampau besar itu."
+	"description": "Mesin perang kuno berbentuk manusia.\nBentuknya menyerupai Ruin Guard, hanya saja lebih aneh dan kuat. Inti energi yang terpasang di sepasang kakinya, seakan-akan menjadi sumber kekuatan yang menopang tubuhnya yang terlampau besar itu.",
+	"investigation": {
+		"name": "Ruin Guard",
+		"category": "Elite",
+		"description": "Mesin perang berbentuk manusia dari masa kuno.\\nMereka diyakini adalah sisa-sisa dari kerajaan tua yang telah terlupakan. Tetapi, sebagian orang memiliki teori mereka sesungguhnya bukan dirancang sebagai mesin perang, melainkan sebagai pelindung reruntuhan.\\nTetapi teori itu tidak dapat menjelaskan mengapa mereka dilengkapi dengan senjata peledak di dalam reruntuhan yang seharusnya mereka jaga..."
+	},
+	"rewardpreview": [
+		{
+			"name": "Mora"
+		},
+		{
+			"name": "Chaos Device",
+			"count": 2.6263
+		},
+		{
+			"name": "Chaos Circuit",
+			"count": 0.7003
+		},
+		{
+			"name": "Chaos Core",
+			"count": 0.1751
+		},
+		{
+			"name": "Berserker",
+			"rarity": "3"
+		},
+		{
+			"name": "Instructor",
+			"rarity": "3"
+		},
+		{
+			"name": "The Exile",
+			"rarity": "3"
+		},
+		{
+			"name": "Traveling Doctor",
+			"rarity": "3"
+		},
+		{
+			"name": "Berserker",
+			"rarity": "4"
+		},
+		{
+			"name": "Instructor",
+			"rarity": "4"
+		},
+		{
+			"name": "The Exile",
+			"rarity": "4"
+		}
+	]
 }

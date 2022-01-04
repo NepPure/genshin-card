@@ -1,0 +1,154 @@
+{
+	"name": "Yun Jin",
+	"fullname": "Yun Jin",
+	"title": "Mỹ Nhân Trên Sân Khấu",
+	"description": "Diễn viên hát kịch nổi tiếng Liyue, hội tụ cả tài viết kịch và ca xướng. Phong cách riêng biệt, thanh lịch xinh đẹp, thần thái ngút trời.",
+	"rarity": "4",
+	"element": "Nham",
+	"weapontype": "Vũ Khí Cán Dài",
+	"substat": "Hiệu Quả Nạp Nguyên Tố",
+	"gender": "nữ",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Vân Hàn Xã",
+	"birthdaymmdd": "5/21",
+	"birthday": "21 tháng 5",
+	"constellation": "Cung Hồng Chương",
+	"cv": {
+		"english": "Judy Alice Lee&杨扬",
+		"chinese": "贺文潇&杨扬",
+		"japanese": "Kotori Koiwai & Yang Yang",
+		"korean": "사문영&Yang Yang"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vụn Hoàng Ngọc Cứng",
+				"count": 1
+			},
+			{
+				"name": "Bách Hợp Lưu Ly",
+				"count": 3
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Mảnh Hoàng Ngọc Cứng",
+				"count": 3
+			},
+			{
+				"name": "Sừng Vua Quái Cảnh",
+				"count": 2
+			},
+			{
+				"name": "Bách Hợp Lưu Ly",
+				"count": 10
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Mảnh Hoàng Ngọc Cứng",
+				"count": 6
+			},
+			{
+				"name": "Sừng Vua Quái Cảnh",
+				"count": 4
+			},
+			{
+				"name": "Bách Hợp Lưu Ly",
+				"count": 20
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Hoàng Ngọc Cứng",
+				"count": 3
+			},
+			{
+				"name": "Sừng Vua Quái Cảnh",
+				"count": 8
+			},
+			{
+				"name": "Bách Hợp Lưu Ly",
+				"count": 30
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Hoàng Ngọc Cứng",
+				"count": 6
+			},
+			{
+				"name": "Sừng Vua Quái Cảnh",
+				"count": 12
+			},
+			{
+				"name": "Bách Hợp Lưu Ly",
+				"count": 45
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Hoàng Ngọc Cứng",
+				"count": 6
+			},
+			{
+				"name": "Sừng Vua Quái Cảnh",
+				"count": 20
+			},
+			{
+				"name": "Bách Hợp Lưu Ly",
+				"count": 60
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 24
+			}
+		]
+	}
+}

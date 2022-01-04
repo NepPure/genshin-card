@@ -3,5 +3,55 @@
 	"specialname": "Ra-11235",
 	"enemytype": "ELITE",
 	"category": "Automates",
-	"description": "Une machine de combat antique à forme humaine.\nSon apparence est similaire à celle d'un Gardien des Ruines, mais sa puissance dépasse de loin celle de son cousin. Des noyaux d'énergie ont été installés dans chacune de ses jambes pour que son corps très lourd puisse se mouvoir."
+	"description": "Une machine de combat antique à forme humaine.\nSon apparence est similaire à celle d'un Gardien des Ruines, mais sa puissance dépasse de loin celle de son cousin. Des noyaux d'énergie ont été installés dans chacune de ses jambes pour que son corps très lourd puisse se mouvoir.",
+	"investigation": {
+		"name": "Gardien des ruines",
+		"category": "Élite",
+		"description": "Une ancienne machine de combat à forme humaine.\\nD'après les légendes, ces machines sont les vestiges d'un ancien royaume aujourd'hui oublié. Certains prétendent que leur utilité première n'était point le combat, mais la protection des ruines du passé.\\nCeci n'explique cependant pas pourquoi les Gardiens n'hésitent pas à utiliser un arsenal d'armes explosives au sein des ruines qu'ils sont censés protéger..."
+	},
+	"rewardpreview": [
+		{
+			"name": "Mora"
+		},
+		{
+			"name": "Dispositif du chaos",
+			"count": 2.6263
+		},
+		{
+			"name": "Circuit du chaos",
+			"count": 0.7003
+		},
+		{
+			"name": "Noyau du chaos",
+			"count": 0.1751
+		},
+		{
+			"name": "Berserker",
+			"rarity": "3"
+		},
+		{
+			"name": "Instructeur",
+			"rarity": "3"
+		},
+		{
+			"name": "Exilé",
+			"rarity": "3"
+		},
+		{
+			"name": "Médecin itinérant",
+			"rarity": "3"
+		},
+		{
+			"name": "Berserker",
+			"rarity": "4"
+		},
+		{
+			"name": "Instructeur",
+			"rarity": "4"
+		},
+		{
+			"name": "Exilé",
+			"rarity": "4"
+		}
+	]
 }

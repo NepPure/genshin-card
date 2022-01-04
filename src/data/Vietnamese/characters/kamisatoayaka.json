@@ -1,5 +1,6 @@
 {
 	"name": "Kamisato Ayaka",
+	"fullname": "Kamisato Ayaka",
 	"title": "Bạch Hạc Sương Hoa",
 	"description": "Đại tiểu thư nhà Kamisato thuộc \"Hiệp Hội Yashiro\" Inazuma. Đoan trang thanh lịch, thông minh và mạnh mẽ.",
 	"rarity": "5",
@@ -45,7 +46,7 @@
 				"count": 40000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 3
 			},
 			{
@@ -67,7 +68,7 @@
 				"count": 60000
 			},
 			{
-				"name": "Miếng Ngọc Băng Vỡ",
+				"name": "Mảnh Ngọc Băng Vỡ",
 				"count": 6
 			},
 			{
