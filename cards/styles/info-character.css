@@ -10,12 +10,17 @@
     top: 96px;
 }
 
-.base-info .birthday,
 .base-info .element,
-.base-info .cv,
 .base-info .constellation-name {
     display: inline-block;
     width: 237px;
+    margin-bottom: 5px;
+}
+
+.base-info .birthday,
+.base-info .cv{
+    display: inline-block;
+    width: 250px;
     margin-bottom: 5px;
 }
 
