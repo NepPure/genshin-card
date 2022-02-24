@@ -1,0 +1,15 @@
+{
+	"name": "Les contes de Tatara",
+	"achievementgroup": "Inazuma : Archipel de la foudre éternelle - I",
+	"sortorder": 90,
+	"stages": 1,
+	"stage1": {
+		"title": "Les contes de Tatara",
+		"description": "Résolvez la crise du Fourneau Mikage.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

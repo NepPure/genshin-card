@@ -1,0 +1,16 @@
+{
+	"name": "Rios Gelados, Bruxa Carmesim",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2114,
+	"stages": 1,
+	"stage1": {
+		"title": "Rios Gelados, Bruxa Carmesim",
+		"description": "Derrote Signora sem destruir seus Corações da Chamas ou Olhos do Gelo.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

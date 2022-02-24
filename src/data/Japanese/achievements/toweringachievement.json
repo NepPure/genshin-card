@@ -1,0 +1,16 @@
+{
+	"name": "山峰を見下ろす",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 1041,
+	"stages": 1,
+	"stage1": {
+		"title": "山峰を見下ろす",
+		"description": "ドラゴンスパインの山頂に到達する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

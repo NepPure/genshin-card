@@ -1,0 +1,16 @@
+{
+	"name": "Phích Lịch Chân Quân",
+	"achievementgroup": "Ký Ức Về Trái Tim",
+	"ishidden": true,
+	"sortorder": 6010,
+	"stages": 1,
+	"stage1": {
+		"title": "Phích Lịch Chân Quân",
+		"description": "Chứng kiến Bennett xui xẻo đến mức ảnh hưởng cả thời tiết",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

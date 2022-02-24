@@ -1,0 +1,16 @@
+{
+	"name": "Knock Knock",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1113,
+	"stages": 1,
+	"stage1": {
+		"title": "Knock Knock",
+		"description": "เปิดโล่ป้องกันรอบ ๆ \"Mikage Furnace\"",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

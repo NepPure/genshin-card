@@ -1,0 +1,16 @@
+{
+	"name": "\"...ใครก็เป็นเชฟได้\"",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1018,
+	"stages": 1,
+	"stage1": {
+		"title": "\"...ใครก็เป็นเชฟได้\"",
+		"description": "ทำอาหารรสประหลาด 10 เมนู",
+		"progress": 10,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

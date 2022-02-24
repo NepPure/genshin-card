@@ -1,0 +1,33 @@
+{
+	"name": "Nicht nur eine Bank",
+	"achievementgroup": "Welt in der Welt – Reihe 1",
+	"sortorder": 1063,
+	"stages": 3,
+	"stage1": {
+		"title": "Nicht nur eine Bank",
+		"description": "Stelle 120 Stück Dekoration her.",
+		"progress": 120,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Nicht nur eine Bank",
+		"description": "Stelle 300 Stück Dekoration her.",
+		"progress": 300,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Nicht nur eine Bank",
+		"description": "Stelle 600 Stück Dekoration her.",
+		"progress": 600,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

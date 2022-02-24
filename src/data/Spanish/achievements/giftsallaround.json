@@ -1,0 +1,33 @@
+{
+	"name": "El regalo de la victoria",
+	"achievementgroup": "Un mundo interior: Parte 2",
+	"sortorder": 1084,
+	"stages": 3,
+	"stage1": {
+		"title": "El regalo de la victoria",
+		"description": "Obtén 5 regalos de tus acompañantes.",
+		"progress": 5,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "El regalo de la victoria",
+		"description": "Obtén 10 regalos de tus acompañantes.",
+		"progress": 10,
+		"reward": {
+			"name": "Protogema",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "El regalo de la victoria",
+		"description": "Obtén 20 regalos de tus acompañantes.",
+		"progress": 20,
+		"reward": {
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

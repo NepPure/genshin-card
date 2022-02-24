@@ -1,0 +1,16 @@
+{
+	"name": "Touche-touche",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 2085,
+	"stages": 1,
+	"stage1": {
+		"title": "Touche-touche",
+		"description": "Utilisez un bouclier pour contrer un certain type d'attaque percutante de Géosaure.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

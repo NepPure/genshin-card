@@ -1,0 +1,16 @@
+{
+	"name": "Туши свет, чудила!",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 5011,
+	"stages": 1,
+	"stage1": {
+		"title": "Туши свет, чудила!",
+		"description": "Одолейте Вестника Бездны.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

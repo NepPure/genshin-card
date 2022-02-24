@@ -1,0 +1,16 @@
+{
+	"name": "Lily Ama Música",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4021,
+	"stages": 1,
+	"stage1": {
+		"title": "Lily Ama Música",
+		"description": "Cantou uma canção de Mondstadt ao Lírio de Vidro",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

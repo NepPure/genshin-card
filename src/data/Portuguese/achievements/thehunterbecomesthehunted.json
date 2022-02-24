@@ -1,0 +1,16 @@
+{
+	"name": "O Caçador Vira a Presa",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1043,
+	"stages": 1,
+	"stage1": {
+		"title": "O Caçador Vira a Presa",
+		"description": "Seja derrotado pelo Grande Rei Javali da Neve",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

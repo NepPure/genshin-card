@@ -1,0 +1,16 @@
+{
+	"name": "Ponta do Céu Frio",
+	"achievementgroup": "Visitante da Montanha Nevada",
+	"sortorder": 67,
+	"stages": 1,
+	"stage1": {
+		"title": "Ponta do Céu Frio",
+		"ps5title": "Espinha do Dragão: Ponta do Céu Frio",
+		"description": "Levante a estranha coluna.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

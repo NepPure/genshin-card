@@ -1,0 +1,16 @@
+{
+	"name": "Ready, Fight!",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 5014,
+	"stages": 1,
+	"stage1": {
+		"title": "Ready, Fight!",
+		"description": "Earn your first victory in The Crux Clash.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Melangkah Menuju Langit",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 4020,
+	"stages": 1,
+	"stage1": {
+		"title": "Melangkah Menuju Langit",
+		"description": "Masuk ke \"kastil di atas langit\" di Liyue.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

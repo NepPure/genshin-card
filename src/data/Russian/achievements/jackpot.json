@@ -1,0 +1,17 @@
+{
+	"name": "Бинго!",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1120,
+	"stages": 1,
+	"stage1": {
+		"title": "Бинго!",
+		"ps5title": "Инадзума - Бинго!",
+		"description": "Откройте область сокровищ с помощью пушки Камуйдзима.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

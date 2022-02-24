@@ -1,0 +1,15 @@
+{
+	"name": "Operation Bonfire",
+	"achievementgroup": "Meetings in Outrealm: Series II",
+	"sortorder": 9019,
+	"stages": 1,
+	"stage1": {
+		"title": "Operation Bonfire",
+		"description": "Defeat a Pyro Hypostasis in Co-Op Mode.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

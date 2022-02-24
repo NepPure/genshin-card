@@ -1,0 +1,16 @@
+{
+	"name": "Megastar di Mondstadt",
+	"achievementgroup": "Keajaiban Dunia",
+	"sortorder": 1024,
+	"stages": 1,
+	"stage1": {
+		"title": "Megastar di Mondstadt",
+		"ps5title": "Mondstadt: Megastar di Mondstadt",
+		"description": "Reputasi (Mondstadt) mencapai Lv. 8",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

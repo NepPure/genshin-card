@@ -1,0 +1,16 @@
+{
+	"name": "Behold, Mine Evil-Espying Eye!",
+	"achievementgroup": "Memories of the Heart",
+	"ishidden": true,
+	"sortorder": 6110,
+	"stages": 1,
+	"stage1": {
+		"title": "Behold, Mine Evil-Espying Eye!",
+		"description": "Correctly interpret all clues.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

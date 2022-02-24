@@ -1,0 +1,16 @@
+{
+	"name": "Guyun-Käuferclub",
+	"achievementgroup": "Erinnerungen des Herzens",
+	"ishidden": true,
+	"sortorder": 6911,
+	"stages": 1,
+	"stage1": {
+		"title": "Guyun-Käuferclub",
+		"description": "Finde die Wahrheit hinter dem Geschäft heraus, das Beidou eingeht.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

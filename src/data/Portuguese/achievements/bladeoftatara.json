@@ -1,0 +1,16 @@
+{
+	"name": "Grande Lâmina de Tatara",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1121,
+	"stages": 1,
+	"stage1": {
+		"title": "Grande Lâmina de Tatara",
+		"description": "Obtenha o diagrama de uma certa arma do passado.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

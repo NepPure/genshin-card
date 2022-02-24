@@ -1,0 +1,15 @@
+{
+	"name": "Shield Me From the World",
+	"achievementgroup": "Challenger: Series II",
+	"sortorder": 2062,
+	"stages": 1,
+	"stage1": {
+		"title": "Shield Me From the World",
+		"description": "Have a single character be protected by 3 different types of shield at once.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

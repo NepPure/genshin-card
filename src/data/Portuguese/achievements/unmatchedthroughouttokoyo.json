@@ -1,0 +1,16 @@
+{
+	"name": "\"Incomparável por Tokoyo\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1175,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Incomparável por Tokoyo\"",
+		"description": "Obtenha o reconhecimento dos Jibashiri",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

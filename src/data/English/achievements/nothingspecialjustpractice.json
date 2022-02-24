@@ -1,0 +1,16 @@
+{
+	"name": "Nothing Special, Just Practice",
+	"achievementgroup": "Marksmanship",
+	"sortorder": 2001,
+	"stages": 1,
+	"stage1": {
+		"title": "Nothing Special, Just Practice",
+		"ps5title": "Marksmanship: Nothing Special, Just Practice",
+		"description": "Hit a falcon mid-flight with your bow.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

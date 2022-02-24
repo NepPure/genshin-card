@@ -1,0 +1,16 @@
+{
+	"name": "สวนดอก Cecilia",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1015,
+	"stages": 1,
+	"stage1": {
+		"title": "สวนดอก Cecilia",
+		"description": "ส่ง Seelie กลับไปยังที่ของมัน และปลดล็อกทางเข้าดันเจี้ยนที่ Wolvendom",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

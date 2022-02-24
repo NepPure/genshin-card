@@ -1,0 +1,16 @@
+{
+	"name": "Of Mountains High",
+	"achievementgroup": "Mortal Travails: Series I",
+	"sortorder": 2,
+	"stages": 1,
+	"stage1": {
+		"title": "Of Mountains High",
+		"ps5title": "Geo: Of Mountains High",
+		"description": "Obtain the power of Geo.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

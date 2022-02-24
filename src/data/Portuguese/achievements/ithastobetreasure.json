@@ -1,0 +1,16 @@
+{
+	"name": "Tesouro Inquestionável",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1146,
+	"stages": 1,
+	"stage1": {
+		"title": "Tesouro Inquestionável",
+		"description": "\"Eu já disse, é só uma imagem!\"",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

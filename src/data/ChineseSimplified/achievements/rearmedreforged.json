@@ -1,0 +1,36 @@
+{
+	"name": "百炼千锤",
+	"achievementgroup": "英雄之旅",
+	"sortorder": 17,
+	"stages": 3,
+	"stage1": {
+		"title": "百炼千锤",
+		"ps5title": "百炼千锤·其之一",
+		"description": "将一个武器突破至2阶。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "百炼千锤",
+		"ps5title": "百炼千锤·其之二",
+		"description": "将一个武器突破至4阶。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "百炼千锤",
+		"ps5title": "百炼千锤·其之三",
+		"description": "将一个武器突破至6阶。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 20
+		}
+	}
+}

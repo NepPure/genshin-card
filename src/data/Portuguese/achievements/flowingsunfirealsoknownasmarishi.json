@@ -1,0 +1,16 @@
+{
+	"name": "Chamas do Sol, Também Conhecidas Como Marishi",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1171,
+	"stages": 1,
+	"stage1": {
+		"title": "Chamas do Sol, Também Conhecidas Como Marishi",
+		"description": "Desvende o segredo no Portão do Fogo Solar",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

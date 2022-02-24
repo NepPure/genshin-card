@@ -1,11 +1,15 @@
 {
-	"folders": ["characters", "weapons", "elements", "rarity", "artifacts",
-		        "weaponmaterialtypes", "talentmaterialtypes", "materials", "constellations",
-		    	"talents", "foods", "domains", "enemies"],
-	"exclude": [],
+	"folders": ["characters", "outfits", "weapons", "elements", "rarity", "artifacts",
+				"weaponmaterialtypes", "talentmaterialtypes", "materials", "constellations",
+				"talents", "foods", "domains", "enemies", "achievements", "achievementgroups", "windgliders",
+				"animals"],
+	"standard": ["characters", "outfits", "weapons", "elements", "rarity", "artifacts",
+				 "weaponmaterialtypes", "talentmaterialtypes", "materials", "constellations",
+				 "talents", "foods", "domains", "enemies", "windgliders", "animals"],
 
 	"indexByCategories": {
 		"characters": ["rarity", "element", "weapontype", "substat", "gender", "region", "birthday", "costs"],
+		"outfits": ["character"],
 		"weapons": ["weapontype", "rarity", "substat", "costs"],
 		"artifacts": ["rarity"],
 		"talents": ["costs"],
@@ -13,13 +17,18 @@
 		"weaponmaterialtypes": ["day", "region", "domainofforgery"],
 		"talentmaterialtypes": ["day", "region", "domainofmastery"],
 		"materials": ["rarity", "category", "materialtype", "dropdomain", "daysofweek"],
-		"domains": ["region", "domainentrance", "domaintype", "recommendedelements", "daysofweek", "monsterlist"],
-		"enemies": ["enemytype", "category"]
+		"domains": ["region", "domainentrance", "domaintype", "recommendedelements", "daysofweek", "rewardpreview", "monsterlist"],
+		"enemies": ["enemytype", "category"],
+		"achievements": ["achievementgroup"],
+		"windgliders": ["rarity"],
+		"animals": ["category", "capturable"]
 	},
 
 	"altnames": {
 		"characters": ["title", "constellation"],
+		"artifacts": ["flower.name", "plume.name", "sands.name", "goblet.name", "circlet.name"],
 		"weaponmaterialtypes": ["2starname", "3starname", "4starname", "5starname"],
-		"foods": ["character"]
+		"foods": ["character"],
+		"achievements": ["ps5name"]
 	}
 }

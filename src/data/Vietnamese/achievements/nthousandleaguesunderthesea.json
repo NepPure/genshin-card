@@ -1,0 +1,16 @@
+{
+	"name": "Biển Sâu Mấy Vạn Dặm?",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1170,
+	"stages": 1,
+	"stage1": {
+		"title": "Biển Sâu Mấy Vạn Dặm?",
+		"description": "Vào Enkanomiya.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

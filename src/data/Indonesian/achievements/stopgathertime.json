@@ -1,0 +1,33 @@
+{
+	"name": "Saatnya Panen!",
+	"achievementgroup": "Alam Lain: Seri III",
+	"sortorder": 1094,
+	"stages": 3,
+	"stage1": {
+		"title": "Saatnya Panen!",
+		"description": "Mengambil 40 material di dalam Jalan Berharga: Padang Rumput Teratur.",
+		"progress": 40,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Saatnya Panen!",
+		"description": "Mengambil 200 material di dalam Jalan Berharga: Padang Rumput Teratur.",
+		"progress": 200,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Saatnya Panen!",
+		"description": "Mengambil 800 material di dalam Jalan Berharga: Padang Rumput Teratur.",
+		"progress": 800,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

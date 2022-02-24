@@ -1,0 +1,16 @@
+{
+	"name": "... Su nombre es Mary Celeste",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1078,
+	"stages": 1,
+	"stage1": {
+		"title": "... Su nombre es Mary Celeste",
+		"description": "El Rompeolas fue destruido...",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Die Robe der Feuerratte, die Perle des Drachenkopfes, die heilige Opferschale und ...",
+	"achievementgroup": "Tageslicht",
+	"sortorder": 141,
+	"stages": 1,
+	"stage1": {
+		"title": "Die Robe der Feuerratte, die Perle des Drachenkopfes, die heilige Opferschale und ...",
+		"description": "Erhalte den Korallenzweig, den Tsuyuko braucht.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

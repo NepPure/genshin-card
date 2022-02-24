@@ -1,0 +1,16 @@
+{
+	"name": "Parara Timbum, Mais Parara Timbum",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4055,
+	"stages": 1,
+	"stage1": {
+		"title": "Parara Timbum, Mais Parara Timbum",
+		"description": "Consultar Xiangling a respeito de métodos especiais de cozimento.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

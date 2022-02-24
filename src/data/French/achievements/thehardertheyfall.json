@@ -1,0 +1,15 @@
+{
+	"name": "... Plus dure sera la chute",
+	"achievementgroup": "Au défi ! - Partie III",
+	"sortorder": 2069,
+	"stages": 1,
+	"stage1": {
+		"title": "... Plus dure sera la chute",
+		"description": "Détruire les stalactites de glace générées par un Brutoshaman Cryo.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

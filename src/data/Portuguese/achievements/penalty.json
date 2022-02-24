@@ -1,0 +1,16 @@
+{
+	"name": "Falta!",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2074,
+	"stages": 1,
+	"stage1": {
+		"title": "Falta!",
+		"description": "Em alguns lugares não é possível desenterrar Slimes Pyro...",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "\"As sementes Trazidas pelo Vento...\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1002,
+	"stages": 1,
+	"stage1": {
+		"title": "\"As sementes Trazidas pelo Vento...\"",
+		"description": "Chegue à ilha sem nome a nordeste de Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

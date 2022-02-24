@@ -1,0 +1,16 @@
+{
+	"name": "Allgegenwart unter den Menschen",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 5031,
+	"stages": 1,
+	"stage1": {
+		"title": "Allgegenwart unter den Menschen",
+		"description": "Schließ „Allgegenwart unter den Menschen“ ab.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "O Fim do Começo",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4001,
+	"stages": 1,
+	"stage1": {
+		"title": "O Fim do Começo",
+		"ps5title": "Viagem: O Fim do Começo",
+		"description": "Conclua Missão de Arconte de Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

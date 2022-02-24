@@ -1,0 +1,15 @@
+{
+	"name": "Tatara-Geschichten",
+	"achievementgroup": "Inazuma: Die Inseln des Donners und der Ewigkeit – Teil 1",
+	"sortorder": 90,
+	"stages": 1,
+	"stage1": {
+		"title": "Tatara-Geschichten",
+		"description": "Löse das Problem beim Mikage-Hochofen.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

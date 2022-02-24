@@ -1,0 +1,15 @@
+{
+	"name": "Peziarah Kuil: Liyue",
+	"achievementgroup": "Liyue: Pelabuhan Batu dan Kontrak",
+	"sortorder": 46,
+	"stages": 1,
+	"stage1": {
+		"title": "Peziarah Kuil: Liyue",
+		"description": "Buka seluruh Shrine of Depths di Liyue.",
+		"progress": 10,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Os desejos \"deles\"...",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5030,
+	"stages": 1,
+	"stage1": {
+		"title": "Os desejos \"deles\"...",
+		"description": "Responda aos desejos da Estátua da Deusa Onipresente.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

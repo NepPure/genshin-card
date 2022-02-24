@@ -1,0 +1,16 @@
+{
+	"name": "Tinh thần Kỵ Sĩ",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4007,
+	"stages": 1,
+	"stage1": {
+		"title": "Tinh thần Kỵ Sĩ",
+		"description": "Trở thành Kỵ Sĩ Danh Dự của Đội Kỵ Sĩ Tây Phong.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "ผู้กล้าฝึกหัด",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"sortorder": 1030,
+	"stages": 3,
+	"stage1": {
+		"title": "ผู้กล้าฝึกหัด",
+		"description": "ทำ \"คำขอของชาวเมือง\" 10 ครั้ง",
+		"progress": 10,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "ผู้กล้าฝึกหัด",
+		"description": "ทำ \"คำขอของชาวเมือง\" 20 ครั้ง",
+		"progress": 20,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "ผู้กล้าฝึกหัด",
+		"description": "ทำ \"คำขอของชาวเมือง\" 30 ครั้ง",
+		"progress": 30,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Desta vez, te deixarei ir",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4022,
+	"stages": 1,
+	"stage1": {
+		"title": "Desta vez, te deixarei ir",
+		"description": "Derrote Childe.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

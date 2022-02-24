@@ -1,0 +1,16 @@
+{
+	"name": "ขออภัยด้วยสิ่งเล็กน้อย",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 4039,
+	"stages": 1,
+	"stage1": {
+		"title": "ขออภัยด้วยสิ่งเล็กน้อย",
+		"description": "ขอโทษ Timmie",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

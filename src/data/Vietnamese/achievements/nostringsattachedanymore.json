@@ -1,0 +1,15 @@
+{
+	"name": "Sợi dây bị đứt...",
+	"achievementgroup": "Gặp ở thế giới khác - Phần II",
+	"sortorder": 9018,
+	"stages": 1,
+	"stage1": {
+		"title": "Sợi dây bị đứt...",
+		"description": "Cùng người chơi khác đánh bại Maguu Kenki.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Silêncio, seu Lunático Delirante",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5011,
+	"stages": 1,
+	"stage1": {
+		"title": "Silêncio, seu Lunático Delirante",
+		"description": "Afugente o Apóstolo do Abismo.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

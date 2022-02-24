@@ -1,0 +1,16 @@
+{
+	"name": "Гиперскачок!",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1004,
+	"stages": 1,
+	"stage1": {
+		"title": "Гиперскачок!",
+		"description": "Пролетите сквозь временной тоннель в небе над мысом Веры.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

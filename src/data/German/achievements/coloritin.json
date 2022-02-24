@@ -1,0 +1,33 @@
+{
+	"name": "Ein bisschen Farbe?",
+	"achievementgroup": "Welt in der Welt – Reihe 1",
+	"sortorder": 1066,
+	"stages": 3,
+	"stage1": {
+		"title": "Ein bisschen Farbe?",
+		"description": "Stelle 50 Einheiten Farbe her.",
+		"progress": 50,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Ein bisschen Farbe?",
+		"description": "Stell 200 Einheiten Farbe her.",
+		"progress": 200,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Ein bisschen Farbe?",
+		"description": "Stell 600 Einheiten Farbe her.",
+		"progress": 600,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "\"Você veio, você viu, cooperamos juntos\"",
+	"achievementgroup": "Encontros Fora Deste Mundo - Série I",
+	"sortorder": 9001,
+	"stages": 3,
+	"stage1": {
+		"title": "\"Você veio, você viu, cooperamos juntos\"",
+		"description": "Conclua 5 desafios no modo multijogador.",
+		"progress": 5,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "\"Você veio, você viu, cooperamos juntos\"",
+		"description": "Conclua 20 desafios no modo multijogador.",
+		"progress": 20,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "\"Você veio, você viu, cooperamos juntos\"",
+		"description": "Conclua 100 desafios de domínio no modo multijogador.",
+		"progress": 100,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

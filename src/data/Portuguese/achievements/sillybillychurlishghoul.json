@@ -1,0 +1,16 @@
+{
+	"name": "...O que aconteceu com os cinco Hilichurls?",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4013,
+	"stages": 1,
+	"stage1": {
+		"title": "...O que aconteceu com os cinco Hilichurls?",
+		"description": "Aceite brincar com a Ming.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

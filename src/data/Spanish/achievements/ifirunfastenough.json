@@ -1,0 +1,16 @@
+{
+	"name": "¡No me alcanzas!",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 2100,
+	"stages": 1,
+	"stage1": {
+		"title": "¡No me alcanzas!",
+		"description": "Derrota a un Oni Espadachín sin que te golpee su fantasma.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 10
+		}
+	}
+}

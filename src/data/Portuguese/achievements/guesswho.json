@@ -1,0 +1,16 @@
+{
+	"name": "Adivinha Quem?",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4064,
+	"stages": 1,
+	"stage1": {
+		"title": "Adivinha Quem?",
+		"description": "Descubra quem Zhenyu realmente é.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Festa de Fogos de Artifício Fantabuloso",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5028,
+	"stages": 1,
+	"stage1": {
+		"title": "Festa de Fogos de Artifício Fantabuloso",
+		"description": "Acenda fogos de artifício para distrair os guardas.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

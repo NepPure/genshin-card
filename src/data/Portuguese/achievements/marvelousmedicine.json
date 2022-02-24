@@ -1,0 +1,16 @@
+{
+	"name": "Medicina Maravilhosa",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4043,
+	"stages": 1,
+	"stage1": {
+		"title": "Medicina Maravilhosa",
+		"description": "Cure a doença da Anna.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

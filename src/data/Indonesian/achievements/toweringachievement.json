@@ -1,0 +1,16 @@
+{
+	"name": "Pemandangan dari Puncak Gunung",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1041,
+	"stages": 1,
+	"stage1": {
+		"title": "Pemandangan dari Puncak Gunung",
+		"description": "Sampai di puncak tertinggi Dragonspine.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

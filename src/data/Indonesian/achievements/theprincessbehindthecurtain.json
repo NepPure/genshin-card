@@ -1,0 +1,16 @@
+{
+	"name": "Putri di Balik Tirai",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5019,
+	"stages": 1,
+	"stage1": {
+		"title": "Putri di Balik Tirai",
+		"description": "Secara resmi berkenalan dengan nona muda dari Klan Kamisato.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

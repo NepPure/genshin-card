@@ -1,0 +1,16 @@
+{
+	"name": "Odyssey Của Thầy Thuốc",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1112,
+	"stages": 1,
+	"stage1": {
+		"title": "Odyssey Của Thầy Thuốc",
+		"description": "Chứng kiến cái kết của Yasumoto.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

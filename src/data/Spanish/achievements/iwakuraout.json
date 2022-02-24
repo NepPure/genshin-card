@@ -1,0 +1,16 @@
+{
+	"name": "Registro histórico de Iwakura",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1104,
+	"stages": 1,
+	"stage1": {
+		"title": "Registro histórico de Iwakura",
+		"description": "Sé testigo del fin de la técnica Iwakura.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

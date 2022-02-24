@@ -1,0 +1,16 @@
+{
+	"name": "Cuộc Chia Ly Dài Nhất",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4018,
+	"stages": 1,
+	"stage1": {
+		"title": "Cuộc Chia Ly Dài Nhất",
+		"description": "Chuẩn bị toàn bộ đạo cụ để tiến hành \"Điển Lễ Tiễn Tiên\".",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

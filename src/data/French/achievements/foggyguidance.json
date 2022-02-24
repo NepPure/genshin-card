@@ -1,0 +1,15 @@
+{
+	"name": "Guidé par la brume",
+	"achievementgroup": "Chroniques de la mer de brouillard",
+	"sortorder": 119,
+	"stages": 1,
+	"stage1": {
+		"title": "Guidé par la brume",
+		"description": "Suivez 6 Fées sur l'Île de Tsurumi et activez leur support.",
+		"progress": 6,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

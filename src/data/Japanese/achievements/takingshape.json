@@ -1,0 +1,15 @@
+{
+	"name": "人鋳賦形",
+	"achievementgroup": "冒険手芸",
+	"sortorder": 7,
+	"stages": 1,
+	"stage1": {
+		"title": "人鋳賦形",
+		"description": "★4武器を1本鍛造する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 10
+		}
+	}
+}

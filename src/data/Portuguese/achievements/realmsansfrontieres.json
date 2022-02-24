@@ -1,0 +1,16 @@
+{
+	"name": "Reino Sem Fronteiras",
+	"achievementgroup": "Um Reino Distante - Série I",
+	"ishidden": true,
+	"sortorder": 1050,
+	"stages": 1,
+	"stage1": {
+		"title": "Reino Sem Fronteiras",
+		"description": "Use o Bule de Relachá para entrar no Paraíso Mágico",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

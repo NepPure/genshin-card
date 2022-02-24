@@ -1,0 +1,16 @@
+{
+	"name": "\"Tome isso, sua Flor da Névoa\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2063,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Tome isso, sua Flor da Névoa\"",
+		"description": "Derrote Regisvine Cryo sem destruir o seu ponto fraco, sua coroa.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

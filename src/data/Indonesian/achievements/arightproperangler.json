@@ -1,0 +1,15 @@
+{
+	"name": "Sarjana Memancing",
+	"achievementgroup": "Panduan Memancing Teyvat: Seri I",
+	"sortorder": 1132,
+	"stages": 1,
+	"stage1": {
+		"title": "Sarjana Memancing",
+		"description": "Membuka 20 arsip spesies ikan.",
+		"progress": 20,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Unerschütterlich",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1003,
+	"stages": 1,
+	"stage1": {
+		"title": "Unerschütterlich",
+		"ps5title": "Erkundung – Unerschütterlich",
+		"description": "Öffne die Truhe in der Mitte der herzförmigen Felsen.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

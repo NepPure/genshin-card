@@ -1,0 +1,16 @@
+{
+	"name": "Luz e Escuridão, Anoitecer e Amanhecer",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1181,
+	"stages": 1,
+	"stage1": {
+		"title": "Luz e Escuridão, Anoitecer e Amanhecer",
+		"description": "Vá até o topo do Dainichi Mikoshi",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

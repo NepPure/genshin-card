@@ -1,0 +1,16 @@
+{
+	"name": "Guide de pélerinage en île déserte",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1110,
+	"stages": 1,
+	"stage1": {
+		"title": "Guide de pélerinage en île déserte",
+		"description": "Trouvez toutes les autels de l'Île de Yashiori.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

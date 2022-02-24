@@ -1,0 +1,36 @@
+{
+	"name": "Vers les profondeurs et au-delà",
+	"achievementgroup": "Donjons et Profondeurs spiralées - Partie I",
+	"sortorder": 2044,
+	"stages": 3,
+	"stage1": {
+		"title": "Vers les profondeurs et au-delà",
+		"ps5title": "Vers les profondeurs et au-delà I",
+		"description": "Terminez 4 étages des Profondeurs spiralées.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Vers les profondeurs et au-delà",
+		"ps5title": "Vers les profondeurs et au-delà II",
+		"description": "Terminez 8 étages des Profondeurs spiralées.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Vers les profondeurs et au-delà",
+		"ps5title": "Vers les profondeurs et au-delà III",
+		"description": "Terminez 12 étages des Profondeurs spiralées.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 20
+		}
+	}
+}

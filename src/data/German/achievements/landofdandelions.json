@@ -1,0 +1,15 @@
+{
+	"name": "Land des Löwenzahns",
+	"achievementgroup": "Weltreise – Reihe 2",
+	"sortorder": 70,
+	"stages": 1,
+	"stage1": {
+		"title": "Land des Löwenzahns",
+		"description": "Sammle die komplette Reihe von „Der Fuchs im Löwenzahnmeer”.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

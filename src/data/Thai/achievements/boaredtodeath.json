@@ -1,0 +1,16 @@
+{
+	"name": "ตอนฉันสิบขวบ ฉันเกือบล่าหมู่ป่าได้",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1019,
+	"stages": 1,
+	"stage1": {
+		"title": "ตอนฉันสิบขวบ ฉันเกือบล่าหมู่ป่าได้",
+		"description": "พ่ายแพ้ให้กับหมูป่า",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

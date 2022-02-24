@@ -1,0 +1,16 @@
+{
+	"name": "Swordfish II",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5026,
+	"stages": 1,
+	"stage1": {
+		"title": "Swordfish II",
+		"description": "Dapatkan pengakuan dari tim Swordfish II.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

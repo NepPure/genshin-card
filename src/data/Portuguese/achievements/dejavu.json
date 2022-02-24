@@ -1,0 +1,16 @@
+{
+	"name": "Déjà Vu!",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1079,
+	"stages": 1,
+	"stage1": {
+		"title": "Déjà Vu!",
+		"description": "Fique no Quebra-mar em alta velocidade por um tempo determinado",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

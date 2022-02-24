@@ -1,0 +1,15 @@
+{
+	"name": "Rauschendes Wasser",
+	"achievementgroup": "Weltreise – Reihe 1",
+	"sortorder": 3,
+	"stages": 1,
+	"stage1": {
+		"title": "Rauschendes Wasser",
+		"description": "Sammle die ganze Reihe „Herz der Quelle“.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

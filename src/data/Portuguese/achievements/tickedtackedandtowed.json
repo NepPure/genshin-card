@@ -1,0 +1,16 @@
+{
+	"name": "\"Aventureiro Corajoso...\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4016,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Aventureiro Corajoso...\"",
+		"description": "Peça aos outros para concluir missões para você, não fique preso por Mora.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

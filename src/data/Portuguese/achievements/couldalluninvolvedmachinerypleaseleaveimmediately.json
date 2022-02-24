@@ -1,0 +1,16 @@
+{
+	"name": "Todas as Máquinas Não Envolvidas Podem Sair Imediatamente?",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2106,
+	"stages": 1,
+	"stage1": {
+		"title": "Todas as Máquinas Não Envolvidas Podem Sair Imediatamente?",
+		"description": "Derrote a Formação Mecânica Perpétua sem derrotar nenhum de seus Soldados das Ruínas.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

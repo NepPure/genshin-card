@@ -1,0 +1,15 @@
+{
+	"name": "テイワットの庭師、寒さにも負けず",
+	"achievementgroup": "挑戦者·2",
+	"sortorder": 2058,
+	"stages": 1,
+	"stage1": {
+		"title": "テイワットの庭師、寒さにも負けず",
+		"description": "急凍樹の花冠を攻撃してダウンさせる。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

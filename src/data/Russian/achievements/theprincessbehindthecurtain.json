@@ -1,0 +1,16 @@
+{
+	"name": "Принцесса за ширмой",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 5019,
+	"stages": 1,
+	"stage1": {
+		"title": "Принцесса за ширмой",
+		"description": "Официально познакомьтесь с молодой госпожой клана Камисато.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

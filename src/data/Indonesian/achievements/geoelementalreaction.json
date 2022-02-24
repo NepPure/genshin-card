@@ -1,0 +1,15 @@
+{
+	"name": "Reaksi Elemen Geo?",
+	"achievementgroup": "Penantang: Seri IV",
+	"sortorder": 2092,
+	"stages": 1,
+	"stage1": {
+		"title": "Reaksi Elemen Geo?",
+		"description": "Kalahkan semua bentuk elemen Primo Geovishap.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

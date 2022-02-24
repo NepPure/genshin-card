@@ -1,0 +1,15 @@
+{
+	"name": "Selamat, Bersiaplah Membeli Akuarium",
+	"achievementgroup": "Panduan Memancing Teyvat: Seri I",
+	"sortorder": 1124,
+	"stages": 1,
+	"stage1": {
+		"title": "Selamat, Bersiaplah Membeli Akuarium",
+		"description": "Pertama kali mendapatkan Ikan Hias.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

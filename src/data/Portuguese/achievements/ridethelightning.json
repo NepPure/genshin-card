@@ -1,0 +1,16 @@
+{
+	"name": "Cavalgue no Relâmpago",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2108,
+	"stages": 1,
+	"stage1": {
+		"title": "Cavalgue no Relâmpago",
+		"description": "Derrote um Kairagi: Trovão Dançarino enquanto a arma dele está infundida com Electro.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

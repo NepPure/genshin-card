@@ -1,0 +1,16 @@
+{
+	"name": "Embora Seus Desejos Sejam Como o Orvalho da Manhã...",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5027,
+	"stages": 1,
+	"stage1": {
+		"title": "Embora Seus Desejos Sejam Como o Orvalho da Manhã...",
+		"description": "Encontre a pessoa responsável pela distribuição das Ilusões",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "...E seu nome era Mary Celeste",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1078,
+	"stages": 1,
+	"stage1": {
+		"title": "...E seu nome era Mary Celeste",
+		"description": "O Quebra-mar foi destruído...",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

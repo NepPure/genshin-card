@@ -1,0 +1,36 @@
+{
+	"name": "Ribuan Tempaan",
+	"achievementgroup": "Perjalanan Pahlawan",
+	"sortorder": 17,
+	"stages": 3,
+	"stage1": {
+		"title": "Ribuan Tempaan",
+		"ps5title": "Ribuan Tempaan (I)",
+		"description": "Ascend 1 senjata ke Tahap ke-2.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Ribuan Tempaan",
+		"ps5title": "Ribuan Tempaan (II)",
+		"description": "Ascend 1 senjata ke Tahap ke-4.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Ribuan Tempaan",
+		"ps5title": "Ribuan Tempaan (III)",
+		"description": "Ascend 1 senjata ke Tahap ke-6.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

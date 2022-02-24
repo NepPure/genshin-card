@@ -1,0 +1,36 @@
+{
+	"name": "雪山的尋寶者",
+	"achievementgroup": "雪山上的來客",
+	"sortorder": 61,
+	"stages": 3,
+	"stage1": {
+		"title": "雪山的尋寶者",
+		"ps5title": "雪山的尋寶者·其之一",
+		"description": "在龍脊雪山開啟40個寶箱。",
+		"progress": 40,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "雪山的尋寶者",
+		"ps5title": "雪山的尋寶者·其之二",
+		"description": "在龍脊雪山開啟80個寶箱。",
+		"progress": 80,
+		"reward": {
+			"name": "原石",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "雪山的尋寶者",
+		"ps5title": "雪山的尋寶者·其之三",
+		"description": "在龍脊雪山開啟160個寶箱。",
+		"progress": 160,
+		"reward": {
+			"name": "原石",
+			"count": 20
+		}
+	}
+}

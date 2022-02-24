@@ -1,0 +1,16 @@
+{
+	"name": "Maître Brutocollinus",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 2017,
+	"stages": 1,
+	"stage1": {
+		"title": "Maître Brutocollinus",
+		"description": "Éliminez un Chef Brutorocheux avant la fin de sa forme démoniaque.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

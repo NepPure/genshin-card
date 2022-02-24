@@ -1,0 +1,15 @@
+{
+	"name": "Put on Ice",
+	"achievementgroup": "Meetings in Outrealm: Series II",
+	"sortorder": 9017,
+	"stages": 1,
+	"stage1": {
+		"title": "Put on Ice",
+		"description": "Defeat a Cryo Hypostasis in Co-Op Mode.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

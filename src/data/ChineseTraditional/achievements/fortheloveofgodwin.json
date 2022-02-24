@@ -1,0 +1,15 @@
+{
+	"name": "過量的思念",
+	"achievementgroup": "天地萬象",
+	"sortorder": 4036,
+	"stages": 1,
+	"stage1": {
+		"title": "過量的思念",
+		"description": "完成五次「願風帶走思念」。",
+		"progress": 5,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

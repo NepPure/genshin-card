@@ -1,0 +1,16 @@
+{
+	"name": "แสงสว่างและความมืด รุ่งอรุณและสนธยา",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1181,
+	"stages": 1,
+	"stage1": {
+		"title": "แสงสว่างและความมืด รุ่งอรุณและสนธยา",
+		"description": "ไปยังยอดของ Dainichi Mikoshi",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

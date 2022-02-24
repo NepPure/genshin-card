@@ -1,0 +1,15 @@
+{
+	"name": "Sumpah Serigala",
+	"achievementgroup": "Pertemuan Dunia Lain: Seri I",
+	"sortorder": 9013,
+	"stages": 1,
+	"stage1": {
+		"title": "Sumpah Serigala",
+		"description": "Kalahkan Raja Wolvendom dalam Mode Co-op.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Дворец до самых небес",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 5035,
+	"stages": 1,
+	"stage1": {
+		"title": "Дворец до самых небес",
+		"description": "Закончите реконструкцию Нефритового дворца.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

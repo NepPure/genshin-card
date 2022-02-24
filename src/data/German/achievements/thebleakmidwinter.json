@@ -1,0 +1,16 @@
+{
+	"name": "Trostloser Winter",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1034,
+	"stages": 1,
+	"stage1": {
+		"title": "Trostloser Winter",
+		"description": "Werde aufgrund von bitterer Kälte ohnmächtig.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

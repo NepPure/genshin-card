@@ -1,0 +1,16 @@
+{
+	"name": "冷たき寒天",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 1034,
+	"stages": 1,
+	"stage1": {
+		"title": "冷たき寒天",
+		"description": "極寒に倒れる…",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

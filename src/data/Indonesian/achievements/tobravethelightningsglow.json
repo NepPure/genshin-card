@@ -1,0 +1,16 @@
+{
+	"name": "Menantang Cahaya Petir",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5022,
+	"stages": 1,
+	"stage1": {
+		"title": "Menantang Cahaya Petir",
+		"description": "Menjadi target Dekrit Perburuan Vision.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

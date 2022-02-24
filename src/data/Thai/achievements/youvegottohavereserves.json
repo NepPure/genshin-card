@@ -1,0 +1,16 @@
+{
+	"name": "ต้องเตรียมตัวให้พร้อม",
+	"achievementgroup": "ความทรงจำ ของหัวใจ",
+	"ishidden": true,
+	"sortorder": 7010,
+	"stages": 1,
+	"stage1": {
+		"title": "ต้องเตรียมตัวให้พร้อม",
+		"description": "ปลา? แน่นอนว่ายิ่งเยอะยิ่งดี",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

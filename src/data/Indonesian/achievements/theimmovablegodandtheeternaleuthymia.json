@@ -1,0 +1,16 @@
+{
+	"name": "Dewa Kekal dan Tanah Keabadian",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5024,
+	"stages": 1,
+	"stage1": {
+		"title": "Dewa Kekal dan Tanah Keabadian",
+		"description": "Selesaikan \"Dewa Kekal dan Tanah Keabadian\"",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

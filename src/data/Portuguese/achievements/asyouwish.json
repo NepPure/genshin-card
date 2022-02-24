@@ -1,0 +1,16 @@
+{
+	"name": "Desejos Realizados",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1136,
+	"stages": 1,
+	"stage1": {
+		"title": "Desejos Realizados",
+		"description": "Faça 5 adivinhações com a Vovó Komaki e obtenha o resultado ideal.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

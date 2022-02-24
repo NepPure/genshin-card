@@ -1,0 +1,16 @@
+{
+	"name": "Gia Phả Lôi Điểu",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1163,
+	"stages": 1,
+	"stage1": {
+		"title": "Gia Phả Lôi Điểu",
+		"description": "Hoàn thành tất cả khiêu chiến của \"Tượng\"",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

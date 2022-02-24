@@ -1,0 +1,33 @@
+{
+	"name": "Hesperus' Boons",
+	"achievementgroup": "The Light of Day",
+	"sortorder": 135,
+	"stages": 3,
+	"stage1": {
+		"title": "Hesperus' Boons",
+		"description": "Open 40 chests in Enkanomiya.",
+		"progress": 40,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Hesperus' Boons",
+		"description": "Open 80 chests in Enkanomiya.",
+		"progress": 80,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Hesperus' Boons",
+		"description": "Open 160 chests in Enkanomiya.",
+		"progress": 160,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

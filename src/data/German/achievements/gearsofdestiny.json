@@ -1,0 +1,16 @@
+{
+	"name": "Ein neues Los",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 5007,
+	"stages": 1,
+	"stage1": {
+		"title": "Ein neues Los",
+		"description": "Schließ den Auftrag „Zweighüter – Dainsleif“ ab.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

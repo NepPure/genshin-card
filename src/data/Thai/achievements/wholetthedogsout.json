@@ -1,0 +1,16 @@
+{
+	"name": "เปิดประตูปล่อยน้องหมา",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1105,
+	"stages": 1,
+	"stage1": {
+		"title": "เปิดประตูปล่อยน้องหมา",
+		"description": "ปล่อย Toratarou ออกไป",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

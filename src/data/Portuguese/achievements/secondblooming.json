@@ -1,0 +1,17 @@
+{
+	"name": "Segundo Florescer",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1117,
+	"stages": 1,
+	"stage1": {
+		"title": "Segundo Florescer",
+		"ps5title": "Inazuma - Segundo Florescer",
+		"description": "Obtenha o presente de Hanayama Kaoru.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

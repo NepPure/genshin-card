@@ -1,0 +1,15 @@
+{
+	"name": "Thành Viên Danh Dự Nam Thập Tự",
+	"achievementgroup": "Ký Ức Về Trái Tim",
+	"sortorder": 6900,
+	"stages": 1,
+	"stage1": {
+		"title": "Thành Viên Danh Dự Nam Thập Tự",
+		"description": "Hoàn thành \"Thời Khắc Nam Thập Tự\", mở khóa toàn bộ kết cục.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

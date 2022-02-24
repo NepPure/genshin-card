@@ -1,0 +1,16 @@
+{
+	"name": "Pego Entre o Nó e a Forca",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1106,
+	"stages": 1,
+	"stage1": {
+		"title": "Pego Entre o Nó e a Forca",
+		"description": "Solte o Nó de Hiromi",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

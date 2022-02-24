@@ -1,0 +1,16 @@
+{
+	"name": "\"Một lần... tấn công\"",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 2015,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Một lần... tấn công\"",
+		"description": "Sử dụng sát thương phá băng tiêu diệt 1 kẻ địch.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

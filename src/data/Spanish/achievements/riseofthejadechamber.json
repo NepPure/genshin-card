@@ -1,0 +1,16 @@
+{
+	"name": "Jade en el cielo",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 5035,
+	"stages": 1,
+	"stage1": {
+		"title": "Jade en el cielo",
+		"description": "Completa la reconstrucción de la Cámara de Jade.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"name": "นักล่าสมบัติแห่งภูเขาหิมะ",
+	"achievementgroup": "แขกผู้มาเยือนภูเขาหิมะ",
+	"sortorder": 61,
+	"stages": 3,
+	"stage1": {
+		"title": "นักล่าสมบัติแห่งภูเขาหิมะ",
+		"ps5title": "นักล่าสมบัติแห่งภูเขาหิมะ I",
+		"description": "เปิดหีบสมบัติใน Dragonspine 40 หีบ",
+		"progress": 40,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "นักล่าสมบัติแห่งภูเขาหิมะ",
+		"ps5title": "นักล่าสมบัติแห่งภูเขาหิมะ II",
+		"description": "เปิดหีบสมบัติใน Dragonspine 80 หีบ",
+		"progress": 80,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "นักล่าสมบัติแห่งภูเขาหิมะ",
+		"ps5title": "นักล่าสมบัติแห่งภูเขาหิมะ III",
+		"description": "เปิดหีบสมบัติใน Dragonspine 160 หีบ",
+		"progress": 160,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

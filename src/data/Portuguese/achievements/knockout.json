@@ -1,0 +1,16 @@
+{
+	"name": "Vertigem",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2081,
+	"stages": 1,
+	"stage1": {
+		"title": "Vertigem",
+		"description": "Quando a Regisvine Cryo estiver fazendo seu ataque rotatório, destrua o ponto fraco de sua corola.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

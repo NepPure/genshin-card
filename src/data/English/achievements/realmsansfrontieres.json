@@ -1,0 +1,16 @@
+{
+	"name": "Realm Sans Frontières",
+	"achievementgroup": "A Realm Beyond: Series I",
+	"ishidden": true,
+	"sortorder": 1050,
+	"stages": 1,
+	"stage1": {
+		"title": "Realm Sans Frontières",
+		"description": "Use the Serenitea Pot to enter your realm.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

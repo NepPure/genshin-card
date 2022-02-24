@@ -1,0 +1,16 @@
+{
+	"name": "Dinh Thự Trong Hồ",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1141,
+	"stages": 1,
+	"stage1": {
+		"title": "Dinh Thự Trong Hồ",
+		"description": "Mở khóa \"Dinh Thự Trong Hồ\".",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

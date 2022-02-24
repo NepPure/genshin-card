@@ -1,0 +1,16 @@
+{
+	"name": "Mata Pemburu Iblis",
+	"achievementgroup": "Ingatan Hati",
+	"ishidden": true,
+	"sortorder": 6110,
+	"stages": 1,
+	"stage1": {
+		"title": "Mata Pemburu Iblis",
+		"description": "Memahami semua petunjuk dengan tepat.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

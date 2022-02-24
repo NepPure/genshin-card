@@ -1,0 +1,33 @@
+{
+	"name": "Petualang yang Mengejar Angin",
+	"achievementgroup": "Mondstadt: Kota Angin dan Lagu",
+	"sortorder": 40,
+	"stages": 3,
+	"stage1": {
+		"title": "Petualang yang Mengejar Angin",
+		"description": "Selesaikan 5 tantangan Time Trial dengan mengaktifkan mekanisme di area Mondstadt (tidak termasuk area Dragonspine).",
+		"progress": 5,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Petualang yang Mengejar Angin",
+		"description": "Selesaikan 10 tantangan Time Trial dengan mengaktifkan mekanisme di area Mondstadt (tidak termasuk area Dragonspine).",
+		"progress": 10,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Petualang yang Mengejar Angin",
+		"description": "Selesaikan 15 tantangan Time Trial dengan mengaktifkan mekanisme di area Mondstadt (tidak termasuk area Dragonspine).",
+		"progress": 15,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Nasi Samurai",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 4058,
+	"stages": 1,
+	"stage1": {
+		"title": "Nasi Samurai",
+		"description": "Bantu Kamei Munehisa mengumpulkan bahan masakan dari kedua sisi kemah.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

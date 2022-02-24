@@ -1,0 +1,16 @@
+{
+	"name": "10 tuổi đã suýt chút nữa đánh bại heo rừng",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1019,
+	"stages": 1,
+	"stage1": {
+		"title": "10 tuổi đã suýt chút nữa đánh bại heo rừng",
+		"description": "Bị đánh bại bởi heo rừng.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

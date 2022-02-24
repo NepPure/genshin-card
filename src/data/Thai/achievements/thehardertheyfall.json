@@ -1,0 +1,15 @@
+{
+	"name": "...ถล่มหนักขึ้น",
+	"achievementgroup": "ผู้ท้าทาย - ชุดที่ 3",
+	"sortorder": 2069,
+	"stages": 1,
+	"stage1": {
+		"title": "...ถล่มหนักขึ้น",
+		"description": "ทำลายเสาน้ำแข็งของ Cryo Samachurl",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Todas as crianças do deus dançam",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1180,
+	"stages": 1,
+	"stage1": {
+		"title": "Todas as crianças do deus dançam",
+		"description": "Fale com todas as Sombras de Phaethon",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

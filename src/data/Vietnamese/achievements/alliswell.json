@@ -1,0 +1,16 @@
+{
+	"name": "\"Mọi Sự Bình An\"",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 5032,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Mọi Sự Bình An\"",
+		"description": "Cùng Wang Ping'an tu sửa miếu Đồng Tước.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

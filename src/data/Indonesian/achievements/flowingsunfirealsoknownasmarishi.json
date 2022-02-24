@@ -1,0 +1,16 @@
+{
+	"name": "Flowing Sunfire, Atau Disebut Juga Marishi",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1171,
+	"stages": 1,
+	"stage1": {
+		"title": "Flowing Sunfire, Atau Disebut Juga Marishi",
+		"description": "Ungkap rahasia dari Sunfire Gate",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

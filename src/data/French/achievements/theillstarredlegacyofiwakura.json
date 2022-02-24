@@ -1,0 +1,16 @@
+{
+	"name": "L'héritage malheureux du Clan Iwakura",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1183,
+	"stages": 1,
+	"stage1": {
+		"title": "L'héritage malheureux du Clan Iwakura",
+		"description": "Ramenez la lame du maître Iwakura.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

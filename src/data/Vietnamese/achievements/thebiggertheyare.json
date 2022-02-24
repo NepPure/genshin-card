@@ -1,0 +1,16 @@
+{
+	"name": "Rất to lớn",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 2013,
+	"stages": 1,
+	"stage1": {
+		"title": "Rất to lớn",
+		"description": "Làm tê liệt Thủ Vệ Di Tích bằng đòn tấn công vào điểm yếu.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

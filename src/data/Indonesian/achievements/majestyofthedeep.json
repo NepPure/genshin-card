@@ -1,0 +1,16 @@
+{
+	"name": "Yang Mulia dari Kedalaman",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5036,
+	"stages": 1,
+	"stage1": {
+		"title": "Yang Mulia dari Kedalaman",
+		"description": "Kalahkan Beisht, Avenger of the Vortex.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

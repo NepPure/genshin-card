@@ -64,6 +64,17 @@ export interface StatResult {
     specialized?: number;
 }
 
+export interface EnemyStatFunction {
+    (level: number): EnemyStatResult;
+}
+
+export interface EnemyStatResult {
+    level: number;
+    hp: number;
+    attack: number;
+    defense: number;
+}
+
 //<MatchCategories extends boolean | undefined, Verbose extends boolean | undefined>
 export interface QueryOptions {
     dumpResult?: boolean;
@@ -123,6 +134,7 @@ export enum Folder {
 
 export const artifacts: QueryFunction<Artifact>;
 export const characters: QueryFunction<Character>;
+export const outfits: QueryFunction<Outfit>;
 export const constellations: QueryFunction<Constellation>;
 export const elements: QueryFunction<Element>;
 export const rarity: QueryFunction<Rarity>;
@@ -134,6 +146,8 @@ export const weapons: QueryFunction<Weapon>;
 export const materials: QueryFunction<Material>;
 export const domains: QueryFunction<Domain>;
 export const enemies: QueryFunction<Enemy>;
+export const achievements: QueryFunction<Achievement>;
+export const achievementgroups: QueryFunction<AchievementGroup>;
 
 export interface categories {
     (query: string, folder: Folder, opts: QueryOptions): undefined | string[];
@@ -161,7 +175,8 @@ export interface Artifact {
     };
     url: {
         fandom: string;
-    }; 
+    };
+    version: string;
 }
 
 // UNUSED. FOR REFERENCE ONLY.
@@ -262,6 +277,30 @@ export interface Character {
         fandom: string;
     };
     stats: StatFunction;
+    version: string;
+}
+
+//#endregion
+
+//#region Outfit
+
+export interface Outfit {
+    name: string;
+    description: string;
+    isdefault: boolean;
+    character: string;
+    source?: string[];
+
+    images: {
+        namecard: string;
+        nameicon?: string;
+        namesideicon?: string;
+        namesplash?: string;
+    };
+    url: {
+        modelviewer?: string;
+    };
+    version: string;
 }
 
 //#endregion
@@ -286,6 +325,7 @@ export interface Constellation {
         c5: string;
         c6: string;
     };
+    version: string;
 }
 
 export interface ConstellationDetail {
@@ -352,6 +392,7 @@ export interface Food {
     url: {
         fandom: string;
     };
+    version: string;
 }
 
 // UNUSED. FOR REFERENCE ONLY.
@@ -446,6 +487,7 @@ export interface Talent {
         passive2: string;
         passive3?: string; // player character doesn't have a third talent
     };
+    version: string;
 }
 
 export interface CombatTalentDetail {
@@ -525,6 +567,7 @@ export interface Weapon {
         fandom: string;
     };
     stats: StatFunction;
+    version: string;
 }
 
 //#endregion
@@ -605,7 +648,7 @@ export interface Rewards {
     name: string;
     rarity?: string; // only used for artifacts
     count?: number; // only used for adventure exp, mora, and companionship exp
-    // range?: string // used for enhancement ore which can be shown as "0~1"
+    countmax?: number; // upper range. used for enhancement ore which can be shown as "0~1"
 }
 
 //#endregion
@@ -643,10 +686,95 @@ export interface Enemy {
     images: {
         nameicon: string;
     };
-    // stats: StatFunction; TODO
+    stats: EnemyStatFunction;
 }
 
 //#endregion
+
+//#region Achievements
+
+export interface Achievement {
+    name: string;
+
+    achievementgroup: string;
+    ishidden?: true;
+    sortorder: number;
+    stages: number;
+    stage1: {
+        title: string;
+        ps5title?: string;
+        description: string;
+        progress: number;
+        reward: Rewards;
+    };
+    stage2?: {
+        title: string;
+        ps5title?: string;
+        description: string;
+        progress: number;
+        reward: Rewards;
+    };
+    stage3?: {
+        title: string;
+        ps5title?: string;
+        description: string;
+        progress: number;
+        reward: Rewards;
+    };
+
+    version: string;
+}
+
+export interface AchievementGroup {
+    name: string;
+    sortorder: number;
+    reward?: Rewards;
+    images: {
+        nameicon: string;
+    };
+
+    version: string;
+}
+
+//#endregion
+
+export interface WindGlider {
+    name: string;
+    description: string;
+    rarity: string;
+    sortorder: number;
+    ishidden?: true;
+    source: string[];
+    
+    images: {
+        nameicon: string;
+        namegacha: string;
+    };
+
+    version: string;
+}
+
+export interface Animal {
+    name: string;
+    description: string;
+    category: string;
+    capturable?: true;
+    sortorder: number;
+    
+    images: {
+        nameicon: string;
+    };
+
+    version: string;
+}
+
+export interface Commission {
+    name: string;
+    description: string;
+    target: string;
+    city: string;
+}
+
 
 //#region Altnames
 
@@ -657,3 +785,7 @@ export function removeAltNames(language: Languages, folder: Folder, altname: str
 export function setAltNameLimits(limit: { maxLength?: number, maxCount?: number }): void;
 
 //#endregion
+
+// not sure how to add default true to "overwrite" param
+export function addData(data: ArrayBuffer | any, overwrite? : boolean): void;
+export function searchFolder(folder: string, query: string, opts?: QueryOptions): any

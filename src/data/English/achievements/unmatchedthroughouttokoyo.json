@@ -1,0 +1,16 @@
+{
+	"name": "\"Unmatched Throughout Tokoyo\"",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1175,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Unmatched Throughout Tokoyo\"",
+		"description": "Receive the Jibashiri's acknowledgment.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

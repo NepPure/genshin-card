@@ -1,0 +1,16 @@
+{
+	"name": "«Тук-тук»",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1113,
+	"stages": 1,
+	"stage1": {
+		"title": "«Тук-тук»",
+		"description": "Отключите защитный купол, окружающий горн Микагэ.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

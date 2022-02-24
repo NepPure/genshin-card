@@ -1,0 +1,16 @@
+{
+	"name": "부동의 번개 신, 영원한 낙토",
+	"achievementgroup": "천지만물",
+	"ishidden": true,
+	"sortorder": 5024,
+	"stages": 1,
+	"stage1": {
+		"title": "부동의 번개 신, 영원한 낙토",
+		"description": "「부동의 번개 신, 영원한 낙토」 완료하기",
+		"progress": 1,
+		"reward": {
+			"name": "원석",
+			"count": 10
+		}
+	}
+}

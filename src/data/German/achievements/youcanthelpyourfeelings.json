@@ -1,0 +1,16 @@
+{
+	"name": "Zwischen Hammer und Amboss.",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1106,
+	"stages": 1,
+	"stage1": {
+		"title": "Zwischen Hammer und Amboss.",
+		"description": "Löse Hiromis Knoten.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

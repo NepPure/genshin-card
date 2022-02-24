@@ -1,0 +1,15 @@
+{
+	"name": "Pirates !",
+	"achievementgroup": "Merveilles du monde",
+	"sortorder": 4033,
+	"stages": 1,
+	"stage1": {
+		"title": "Pirates !",
+		"description": "Jouez aux pirates avec Lulu, Fei et Petit Meng.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

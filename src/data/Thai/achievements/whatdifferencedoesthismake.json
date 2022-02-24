@@ -1,0 +1,16 @@
+{
+	"name": "\"มันต่างกันจริง ๆ เหรอ...\"",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1179,
+	"stages": 1,
+	"stage1": {
+		"title": "\"มันต่างกันจริง ๆ เหรอ...\"",
+		"description": "นั่งบนตำแหน่งพิเศษทุกตำแหน่ง",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

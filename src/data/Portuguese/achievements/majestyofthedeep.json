@@ -1,0 +1,16 @@
+{
+	"name": "Majestade das Profundezas",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5036,
+	"stages": 1,
+	"stage1": {
+		"title": "Majestade das Profundezas",
+		"description": "Derrote Beisht, Vingadora do Vórtice",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "\"Neve Até Os Joelhos...\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2090,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Neve Até Os Joelhos...\"",
+		"description": "Derrote Hypostasis Cryo que ressuscitou 3 vezes.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

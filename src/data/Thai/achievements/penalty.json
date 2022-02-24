@@ -1,0 +1,16 @@
+{
+	"name": "ลูกโทษ",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 2074,
+	"stages": 1,
+	"stage1": {
+		"title": "ลูกโทษ",
+		"description": "สถานที่บางแห่งไม่สามารถขุด Pyro Slime ได้...",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

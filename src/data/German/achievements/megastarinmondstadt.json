@@ -1,0 +1,16 @@
+{
+	"name": "Bekannt im Land",
+	"achievementgroup": "Wunder der Welt",
+	"sortorder": 1024,
+	"stages": 1,
+	"stage1": {
+		"title": "Bekannt im Land",
+		"ps5title": "Mondstadt – Bekannt im Land",
+		"description": "Erreiche Ansehensstufe 8 in Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

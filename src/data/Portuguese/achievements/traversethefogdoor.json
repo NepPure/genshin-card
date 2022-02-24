@@ -1,0 +1,16 @@
+{
+	"name": "Atravesse a Porta de Névoa",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1153,
+	"stages": 1,
+	"stage1": {
+		"title": "Atravesse a Porta de Névoa",
+		"description": "Se acostume com o clima estranho da Ilha Tsurumi.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

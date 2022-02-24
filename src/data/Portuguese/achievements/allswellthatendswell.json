@@ -1,0 +1,16 @@
+{
+	"name": "Parceiros",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4048,
+	"stages": 1,
+	"stage1": {
+		"title": "Parceiros",
+		"description": "Conclua Missão de \"Velhos Amigos\".",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

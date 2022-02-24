@@ -1,0 +1,16 @@
+{
+	"name": "Eso también sirve...",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 4040,
+	"stages": 1,
+	"stage1": {
+		"title": "Eso también sirve...",
+		"description": "Tráele a Herman solamente materiales para un maniquí de entrenamiento.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Через врата тумана",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1153,
+	"stages": 1,
+	"stage1": {
+		"title": "Через врата тумана",
+		"description": "Адаптируйтесь к странному климату Цуруми.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Fragrância Requintada",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4014,
+	"stages": 1,
+	"stage1": {
+		"title": "Fragrância Requintada",
+		"description": "Conheça tipos de Perfume que o Rex Lapis gosta.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

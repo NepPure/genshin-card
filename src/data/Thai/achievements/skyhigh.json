@@ -1,0 +1,16 @@
+{
+	"name": "ที่ ๆ ใกล้ท้องฟ้าเพียงเอื้อมมือ...",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1047,
+	"stages": 1,
+	"stage1": {
+		"title": "ที่ ๆ ใกล้ท้องฟ้าเพียงเอื้อมมือ...",
+		"description": "ปีนกรงเล็บแห่งความหนาวที่คืนสู่สภาพเดิมแล้ว",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

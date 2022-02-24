@@ -1,0 +1,15 @@
+{
+	"name": "Spectacle de marionnettes",
+	"achievementgroup": "Au défi ! - Partie IV",
+	"sortorder": 2093,
+	"stages": 1,
+	"stage1": {
+		"title": "Spectacle de marionnettes",
+		"description": "Vainquez la Lame oni lorsqu'elle vous provoque.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

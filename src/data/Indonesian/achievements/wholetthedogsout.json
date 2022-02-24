@@ -1,0 +1,16 @@
+{
+	"name": "Bebaskan Anjingnya",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1105,
+	"stages": 1,
+	"stage1": {
+		"title": "Bebaskan Anjingnya",
+		"description": "Bebaskan Toratarou.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

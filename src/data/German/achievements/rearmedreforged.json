@@ -1,0 +1,36 @@
+{
+	"name": "Fleißiger Hammer",
+	"achievementgroup": "Reise eines Helden",
+	"sortorder": 17,
+	"stages": 3,
+	"stage1": {
+		"title": "Fleißiger Hammer",
+		"ps5title": "Fleißiger Hammer I",
+		"description": "Erreiche Durchbruchsstufe 2 für eine Waffe.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Fleißiger Hammer",
+		"ps5title": "Fleißiger Hammer II",
+		"description": "Erreiche Durchbruchsstufe 4 für eine Waffe.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Fleißiger Hammer",
+		"ps5title": "Fleißiger Hammer III",
+		"description": "Erreiche Durchbruchsstufe 6 für eine Waffe.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

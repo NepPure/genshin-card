@@ -1,0 +1,15 @@
+{
+	"name": "諸悪よ、散れ",
+	"achievementgroup": "心弾む記憶",
+	"sortorder": 6100,
+	"stages": 1,
+	"stage1": {
+		"title": "諸悪よ、散れ",
+		"description": "「尋妖探邪記」をクリアし、すべてのエンディングを達成する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 20
+		}
+	}
+}

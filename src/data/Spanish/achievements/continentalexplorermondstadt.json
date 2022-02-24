@@ -1,0 +1,16 @@
+{
+	"name": "Explorador continental: Mondstadt",
+	"achievementgroup": "Mondstadt: la ciudad del viento y la poesía",
+	"sortorder": 30,
+	"stages": 1,
+	"stage1": {
+		"title": "Explorador continental: Mondstadt",
+		"ps5title": "Mondstadt: Explorador continental",
+		"description": "Descubre todo el Mapa de Mondstadt (excepto Espinadragón).",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

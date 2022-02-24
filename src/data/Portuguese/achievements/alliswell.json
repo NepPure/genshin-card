@@ -1,0 +1,16 @@
+{
+	"name": "Está Tudo Bem",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5032,
+	"stages": 1,
+	"stage1": {
+		"title": "Está Tudo Bem",
+		"description": "Reconstrua o templo de Pardal de Bronze com Wang Ping'an.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

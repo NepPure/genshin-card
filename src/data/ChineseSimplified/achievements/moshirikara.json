@@ -1,0 +1,16 @@
+{
+	"name": "茂知之壳",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 1166,
+	"stages": 1,
+	"stage1": {
+		"title": "茂知之壳",
+		"description": "解锁「茂知之壳」。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

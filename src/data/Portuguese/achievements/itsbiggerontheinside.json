@@ -1,0 +1,16 @@
+{
+	"name": "É maior por dentro",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4015,
+	"stages": 1,
+	"stage1": {
+		"title": "É maior por dentro",
+		"description": "Limpe o bule da Madame Ping.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

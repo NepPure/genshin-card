@@ -1,0 +1,16 @@
+{
+	"name": "Langer Abschied",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 4018,
+	"stages": 1,
+	"stage1": {
+		"title": "Langer Abschied",
+		"description": "Bereite alles für den Adeptenabschied vor.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

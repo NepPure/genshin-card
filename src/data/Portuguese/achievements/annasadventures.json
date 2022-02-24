@@ -1,0 +1,16 @@
+{
+	"name": "As Aventuras de Anna",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5033,
+	"stages": 1,
+	"stage1": {
+		"title": "As Aventuras de Anna",
+		"description": "Ajude a Anna se tornar uma aventureira.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

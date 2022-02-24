@@ -1,0 +1,16 @@
+{
+	"name": "Zombando do Poder dos Deuses",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5010,
+	"stages": 1,
+	"stage1": {
+		"title": "Zombando do Poder dos Deuses",
+		"description": "Descubra que o Tear do Destino está ocorrendo...",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

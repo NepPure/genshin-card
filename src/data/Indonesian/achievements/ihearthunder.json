@@ -1,0 +1,16 @@
+{
+	"name": "Aku Mendengar Petir...",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 2109,
+	"stages": 1,
+	"stage1": {
+		"title": "Aku Mendengar Petir...",
+		"description": "Terkena sambaran petir yang dipanggil oleh Crackling Axe Mitachurl...",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

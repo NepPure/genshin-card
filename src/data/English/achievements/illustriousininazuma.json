@@ -1,0 +1,17 @@
+{
+	"name": "Illustrious in Inazuma",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1026,
+	"stages": 1,
+	"stage1": {
+		"title": "Illustrious in Inazuma",
+		"ps5title": "Inazuma: Illustrious in Inazuma",
+		"description": "Reach Reputation Lv. 10 in Inazuma.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

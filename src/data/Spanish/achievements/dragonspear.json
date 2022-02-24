@@ -1,0 +1,15 @@
+{
+	"name": "Arma dracónica",
+	"achievementgroup": "Visitante de Espinadragón",
+	"sortorder": 68,
+	"stages": 1,
+	"stage1": {
+		"title": "Arma dracónica",
+		"description": "Utiliza los restos de un dragón para hacer un arma.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 10
+		}
+	}
+}

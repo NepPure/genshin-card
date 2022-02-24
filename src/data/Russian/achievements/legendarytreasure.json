@@ -1,0 +1,15 @@
+{
+	"name": "Легендарное сокровище",
+	"achievementgroup": "Путешествие героя",
+	"sortorder": 28,
+	"stages": 1,
+	"stage1": {
+		"title": "Легендарное сокровище",
+		"description": "Получите артефакт 5★.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Der Koch und der Fischer",
+	"achievementgroup": "Wunder der Welt",
+	"sortorder": 4034,
+	"stages": 1,
+	"stage1": {
+		"title": "Der Koch und der Fischer",
+		"description": "Schließ „Einsames Angeln“ und „Lächeln verboten“ ab.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

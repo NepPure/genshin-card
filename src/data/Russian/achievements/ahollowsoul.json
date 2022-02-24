@@ -1,0 +1,16 @@
+{
+	"name": "Пустая душа",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1109,
+	"stages": 1,
+	"stage1": {
+		"title": "Пустая душа",
+		"description": "Найдите артефакт Васидзу.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

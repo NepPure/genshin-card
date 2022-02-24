@@ -1,0 +1,16 @@
+{
+	"name": "Dilema dietético",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 4057,
+	"stages": 1,
+	"stage1": {
+		"title": "Dilema dietético",
+		"description": "Ayuda a Parvaneh a revisar las recetas.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

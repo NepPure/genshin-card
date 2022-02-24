@@ -1,0 +1,16 @@
+{
+	"name": "Сеть сомкнулась",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1169,
+	"stages": 1,
+	"stage1": {
+		"title": "Сеть сомкнулась",
+		"description": "Поймайте 1 зяблика с помощью Сети всевездесущности.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

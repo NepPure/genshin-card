@@ -1,0 +1,16 @@
+{
+	"name": "Чужеземец, поймавший ветер",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4002,
+	"stages": 1,
+	"stage1": {
+		"title": "Чужеземец, поймавший ветер",
+		"description": "Завершите главу «Чужеземец, поймавший ветер».",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

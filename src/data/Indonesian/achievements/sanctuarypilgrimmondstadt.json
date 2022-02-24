@@ -1,0 +1,15 @@
+{
+	"name": "Peziarah Kuil: Mondstadt",
+	"achievementgroup": "Mondstadt: Kota Angin dan Lagu",
+	"sortorder": 33,
+	"stages": 1,
+	"stage1": {
+		"title": "Peziarah Kuil: Mondstadt",
+		"description": "Buka seluruh Shrine of Depths di Mondstadt.",
+		"progress": 10,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

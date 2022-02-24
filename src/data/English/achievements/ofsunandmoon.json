@@ -1,0 +1,16 @@
+{
+	"name": "Of Sun and Moon",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1172,
+	"stages": 1,
+	"stage1": {
+		"title": "Of Sun and Moon",
+		"description": "Switch between Whitenight and Evernight once.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

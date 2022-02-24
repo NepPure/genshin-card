@@ -1,0 +1,16 @@
+{
+	"name": "Акватория мудрости",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1150,
+	"stages": 1,
+	"stage1": {
+		"title": "Акватория мудрости",
+		"description": "Разблокируйте первую серию механизмов на острове Сэйрай.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

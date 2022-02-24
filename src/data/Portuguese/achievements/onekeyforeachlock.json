@@ -1,0 +1,16 @@
+{
+	"name": "A Chave Mestra",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1184,
+	"stages": 1,
+	"stage1": {
+		"title": "A Chave Mestra",
+		"description": "Encontre todos os Padrões de Chave",
+		"progress": 9,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

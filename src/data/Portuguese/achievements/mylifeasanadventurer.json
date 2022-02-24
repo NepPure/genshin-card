@@ -1,0 +1,16 @@
+{
+	"name": "\"Minha Vida Como Um Aventureiro\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1159,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Minha Vida Como Um Aventureiro\"",
+		"description": "Ajude Roald a completar seu diário de aventura.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

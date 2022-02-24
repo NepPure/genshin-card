@@ -1,0 +1,33 @@
+{
+	"name": "Thợ Săn Sấm Sét II",
+	"achievementgroup": "Inazuma - Quần Đảo Sét Và Vĩnh Hằng (II)",
+	"sortorder": 105,
+	"stages": 3,
+	"stage1": {
+		"title": "Thợ Săn Sấm Sét II",
+		"description": "Mở 40 rương tại Đảo Watatsumi và Đảo Seirai trong khu vực Inazuma.",
+		"progress": 40,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Thợ Săn Sấm Sét II",
+		"description": "Mở 80 rương tại Đảo Watatsumi và Đảo Seirai trong khu vực Inazuma.",
+		"progress": 80,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Thợ Săn Sấm Sét II",
+		"description": "Mở 160 rương tại Đảo Watatsumi và Đảo Seirai trong khu vực Inazuma.",
+		"progress": 160,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

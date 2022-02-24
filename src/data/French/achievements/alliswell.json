@@ -1,0 +1,16 @@
+{
+	"name": "Tout va pour le mieux !",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 5032,
+	"stages": 1,
+	"stage1": {
+		"title": "Tout va pour le mieux !",
+		"description": "Aidez Wang Ping'an à rénover le temple de Pervases.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

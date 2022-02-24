@@ -1,0 +1,16 @@
+{
+	"name": "Who Let the Dogs Out",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1105,
+	"stages": 1,
+	"stage1": {
+		"title": "Who Let the Dogs Out",
+		"description": "Set Toratarou free.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

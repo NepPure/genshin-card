@@ -1,0 +1,36 @@
+{
+	"name": "Blutrote Triebe",
+	"achievementgroup": "Besucher in den Schneebergen",
+	"sortorder": 64,
+	"stages": 3,
+	"stage1": {
+		"title": "Blutrote Triebe",
+		"ps5title": "Blutrote Triebe I",
+		"description": "Stufe den Permafrostbaum durch Opfergaben auf Stufe 4 hoch.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Blutrote Triebe",
+		"ps5title": "Blutrote Triebe II",
+		"description": "Stufe den Permafrostbaum durch Opfergaben auf Stufe 8 hoch.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Blutrote Triebe",
+		"ps5title": "Blutrote Triebe III",
+		"description": "Stufe den Permafrostbaum durch Opfergaben auf Stufe 12 hoch.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

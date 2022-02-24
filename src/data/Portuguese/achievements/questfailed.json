@@ -1,0 +1,16 @@
+{
+	"name": "MISSÃO FRACASSADA",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1033,
+	"stages": 1,
+	"stage1": {
+		"title": "MISSÃO FRACASSADA",
+		"description": "Perdeu o rastro do seu alvo...",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Останки режущих бурь",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1001,
+	"stages": 1,
+	"stage1": {
+		"title": "Останки режущих бурь",
+		"description": "Достигните вершины башни в логове Ужаса Бури.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

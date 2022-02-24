@@ -1,0 +1,15 @@
+{
+	"name": "Réaction élémentaire Géo ?",
+	"achievementgroup": "Au défi ! - Partie IV",
+	"sortorder": 2092,
+	"stages": 1,
+	"stage1": {
+		"title": "Réaction élémentaire Géo ?",
+		"description": "Vainquez le Géosaure antique sous toutes ses formes élémentaires.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

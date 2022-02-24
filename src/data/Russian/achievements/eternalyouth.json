@@ -1,0 +1,15 @@
+{
+	"name": "Вечная молодость",
+	"achievementgroup": "Скитания по миру II",
+	"sortorder": 72,
+	"stages": 1,
+	"stage1": {
+		"title": "Вечная молодость",
+		"description": "Соберите полную коллекцию «Меланхолии Веры».",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

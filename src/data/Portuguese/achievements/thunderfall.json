@@ -1,0 +1,16 @@
+{
+	"name": "Som do Trovão Caindo",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2113,
+	"stages": 1,
+	"stage1": {
+		"title": "Som do Trovão Caindo",
+		"description": "Derrote uma Manifestação Trovejante enquanto voa",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

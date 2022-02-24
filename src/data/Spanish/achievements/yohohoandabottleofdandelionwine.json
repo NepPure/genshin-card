@@ -1,0 +1,16 @@
+{
+	"name": "¡Arrr! Una botella más",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1075,
+	"stages": 1,
+	"stage1": {
+		"title": "¡Arrr! Una botella más",
+		"description": "Embarca a bordo del Rompeolas.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Destino: Inazuma",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 5013,
+	"stages": 1,
+	"stage1": {
+		"title": "Destino: Inazuma",
+		"description": "Obtén una oportunidad de viajar a Inazuma a bordo del Alcor.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

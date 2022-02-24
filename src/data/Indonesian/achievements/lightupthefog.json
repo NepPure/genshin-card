@@ -1,0 +1,16 @@
+{
+	"name": "Penerangan di Tengah Kabut",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1160,
+	"stages": 1,
+	"stage1": {
+		"title": "Penerangan di Tengah Kabut",
+		"description": "Nyalakan semua Stormstone di Autake Plains.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

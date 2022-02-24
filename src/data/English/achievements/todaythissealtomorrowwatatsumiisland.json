@@ -1,0 +1,16 @@
+{
+	"name": "Today, This Seal — Tomorrow, Watatsumi Island!",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1140,
+	"stages": 1,
+	"stage1": {
+		"title": "Today, This Seal — Tomorrow, Watatsumi Island!",
+		"description": "Break the seal over the Electro Archon's shrine.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

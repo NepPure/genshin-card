@@ -1,0 +1,16 @@
+{
+	"name": "\"Esse é o caminho da minha liberdade!\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1135,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Esse é o caminho da minha liberdade!\"",
+		"description": "O peixe fugiu depois de ter sido fisgado pelo anzol.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

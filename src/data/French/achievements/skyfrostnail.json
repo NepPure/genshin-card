@@ -1,0 +1,16 @@
+{
+	"name": "Le Mandrin céleste",
+	"achievementgroup": "Visite à Dosdragon",
+	"sortorder": 67,
+	"stages": 1,
+	"stage1": {
+		"title": "Le Mandrin céleste",
+		"ps5title": "Monts Dosdragon - Mandrin céleste",
+		"description": "Faites s'élever l'étrange pilier.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

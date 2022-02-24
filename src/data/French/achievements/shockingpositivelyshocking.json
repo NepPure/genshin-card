@@ -1,0 +1,16 @@
+{
+	"name": "Un vrai choc - littéralement",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1119,
+	"stages": 1,
+	"stage1": {
+		"title": "Un vrai choc - littéralement",
+		"description": "Vous avez succombé aux dégâts de la Calamité électrique...",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

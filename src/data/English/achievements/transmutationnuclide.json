@@ -1,0 +1,15 @@
+{
+	"name": "Transmutation Nuclide",
+	"achievementgroup": "Wonders of the World",
+	"sortorder": 1048,
+	"stages": 1,
+	"stage1": {
+		"title": "Transmutation Nuclide",
+		"description": "Use the Parametric Transformer to complete one material transmutation.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

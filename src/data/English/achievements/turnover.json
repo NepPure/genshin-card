@@ -1,0 +1,15 @@
+{
+	"name": "Turnover",
+	"achievementgroup": "Challenger: Series III",
+	"sortorder": 2066,
+	"stages": 1,
+	"stage1": {
+		"title": "Turnover",
+		"description": "Knock a Cryo Slime out of the hands of a Cryo Hilichurl Grenadier.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

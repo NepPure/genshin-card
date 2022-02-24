@@ -1,0 +1,36 @@
+{
+	"name": "Down We Go",
+	"achievementgroup": "Domains and Spiral Abyss: Series I",
+	"sortorder": 2044,
+	"stages": 3,
+	"stage1": {
+		"title": "Down We Go",
+		"ps5title": "Down We Go (I)",
+		"description": "Clear Floor 4 of the Spiral Abyss.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Down We Go",
+		"ps5title": "Down We Go (II)",
+		"description": "Clear Floor 8 of the Spiral Abyss.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Down We Go",
+		"ps5title": "Down We Go (III)",
+		"description": "Clear Floor 12 of the Spiral Abyss.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

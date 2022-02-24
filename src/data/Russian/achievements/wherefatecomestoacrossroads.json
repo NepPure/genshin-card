@@ -1,0 +1,16 @@
+{
+	"name": "Перекрёсток судеб",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 5009,
+	"stages": 1,
+	"stage1": {
+		"title": "Перекрёсток судеб",
+		"description": "Сбегите из загадочных руин.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

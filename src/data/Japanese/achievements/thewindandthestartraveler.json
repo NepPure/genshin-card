@@ -1,0 +1,15 @@
+{
+	"name": "風と異邦人",
+	"achievementgroup": "浮世巡遊·1",
+	"sortorder": 1,
+	"stages": 1,
+	"stage1": {
+		"title": "風と異邦人",
+		"description": "風元素で蒲公英を一本吹く。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

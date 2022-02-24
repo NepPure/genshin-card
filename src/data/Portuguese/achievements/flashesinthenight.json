@@ -1,0 +1,15 @@
+{
+	"name": "Clarões na Noite",
+	"achievementgroup": "As Crônicas do Mar de Neblina",
+	"sortorder": 116,
+	"stages": 1,
+	"stage1": {
+		"title": "Clarões na Noite",
+		"description": "Siga 6 Seelies Electro na Ilha Tsurumi.",
+		"progress": 6,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

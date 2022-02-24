@@ -1,0 +1,16 @@
+{
+	"name": "Obrigado, Volte Sempre",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1118,
+	"stages": 1,
+	"stage1": {
+		"title": "Obrigado, Volte Sempre",
+		"description": "Obtenha o grande prêmio no baú de Takashi",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Meski Harapan Bagaikan Embun Pagi ....",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5027,
+	"stages": 1,
+	"stage1": {
+		"title": "Meski Harapan Bagaikan Embun Pagi ....",
+		"description": "Cari pelaku yang menyebarkan Delusion.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

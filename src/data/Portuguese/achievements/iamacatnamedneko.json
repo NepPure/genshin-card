@@ -1,0 +1,16 @@
+{
+	"name": "\"Eu sou uma gata. Meu nome é Neko\".",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1143,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Eu sou uma gata. Meu nome é Neko\".",
+		"description": "Faça uma visita a Sacerdotisa Provisória do Santuário Asase, Neko.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

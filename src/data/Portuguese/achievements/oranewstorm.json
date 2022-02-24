@@ -1,0 +1,16 @@
+{
+	"name": "...Ou uma nova Tempestade?",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4006,
+	"stages": 1,
+	"stage1": {
+		"title": "...Ou uma nova Tempestade?",
+		"description": "Elimine o Dragão que atacou Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

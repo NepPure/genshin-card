@@ -1,0 +1,16 @@
+{
+	"name": "Arcando com as Responsabilidades",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4039,
+	"stages": 1,
+	"stage1": {
+		"title": "Arcando com as Responsabilidades",
+		"description": "Peça desculpa ao Timmie.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

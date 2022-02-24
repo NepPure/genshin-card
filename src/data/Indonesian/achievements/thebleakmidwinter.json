@@ -1,0 +1,16 @@
+{
+	"name": "Puncak dari Musim Dingin",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1034,
+	"stages": 1,
+	"stage1": {
+		"title": "Puncak dari Musim Dingin",
+		"description": "Gugur karena kedinginan...",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

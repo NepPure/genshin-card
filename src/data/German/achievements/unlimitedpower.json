@@ -1,0 +1,16 @@
+{
+	"name": "Grenzenlose Kraft!",
+	"achievementgroup": "Weltreise – Reihe 2",
+	"sortorder": 69,
+	"stages": 1,
+	"stage1": {
+		"title": "Grenzenlose Kraft!",
+		"ps5title": "Elektro: Grenzenlose Kraft!",
+		"description": "Erhalte die Elektro-Kraft.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

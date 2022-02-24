@@ -1,0 +1,15 @@
+{
+	"name": "Văn Bằng Câu Cá Chính Quy",
+	"achievementgroup": "Hướng dẫn câu cá Teyvat - Phần I",
+	"sortorder": 1132,
+	"stages": 1,
+	"stage1": {
+		"title": "Văn Bằng Câu Cá Chính Quy",
+		"description": "Mở khóa 20 loại cá trong Thư Viện.",
+		"progress": 20,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

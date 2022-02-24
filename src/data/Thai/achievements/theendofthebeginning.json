@@ -1,0 +1,17 @@
+{
+	"name": "จุดเริ่มต้นของการเดินทางอันแสนยาวนาน",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 4001,
+	"stages": 1,
+	"stage1": {
+		"title": "จุดเริ่มต้นของการเดินทางอันแสนยาวนาน",
+		"ps5title": "การเดินทาง - จุดเริ่มต้นการเดินทางอันยาวนาน",
+		"description": "ทำเควสต์เทพเจ้าของ Mondstadt ให้สำเร็จ",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

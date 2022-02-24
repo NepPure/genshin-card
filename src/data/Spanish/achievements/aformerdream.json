@@ -1,0 +1,16 @@
+{
+	"name": "Un sueño del pasado",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 5037,
+	"stages": 1,
+	"stage1": {
+		"title": "Un sueño del pasado",
+		"description": "Sé testigo de la verdadera historia de una aldea.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

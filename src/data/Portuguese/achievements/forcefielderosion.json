@@ -1,0 +1,16 @@
+{
+	"name": "Erosão do Campo de Força",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2075,
+	"stages": 1,
+	"stage1": {
+		"title": "Erosão do Campo de Força",
+		"description": "Quebre o Campo de Hypostasis Electro.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

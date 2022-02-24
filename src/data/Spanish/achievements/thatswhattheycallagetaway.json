@@ -1,0 +1,16 @@
+{
+	"name": "¡Esta es mi oportunidad!",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1135,
+	"stages": 1,
+	"stage1": {
+		"title": "¡Esta es mi oportunidad!",
+		"description": "Un pez escapó tras forcejear.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

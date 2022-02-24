@@ -1,0 +1,16 @@
+{
+	"name": "Вопрос диеты",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4057,
+	"stages": 1,
+	"stage1": {
+		"title": "Вопрос диеты",
+		"description": "Помогите Парване проверить рецепты.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

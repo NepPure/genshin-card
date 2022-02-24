@@ -1,0 +1,17 @@
+{
+	"name": "Geisterstunde",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 92,
+	"stages": 1,
+	"stage1": {
+		"title": "Geisterstunde",
+		"ps5title": "Erkundung – Geisterstunde",
+		"description": "Sammle die komplette „Geschichten aus der Tokigasse“-Reihe.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

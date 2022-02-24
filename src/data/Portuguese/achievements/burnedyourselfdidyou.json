@@ -1,0 +1,16 @@
+{
+	"name": "Você Se Queimou, Não É Mesmo?",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2103,
+	"stages": 1,
+	"stage1": {
+		"title": "Você Se Queimou, Não É Mesmo?",
+		"description": "Derrote o Hypostasis Pyro que tenha reinflamado duas vezes.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

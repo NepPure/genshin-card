@@ -1,0 +1,16 @@
+{
+	"name": "Onde o Destino Encontra uma Encruzilhada",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5009,
+	"stages": 1,
+	"stage1": {
+		"title": "Onde o Destino Encontra uma Encruzilhada",
+		"description": "Escape das ruínas estranhas",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

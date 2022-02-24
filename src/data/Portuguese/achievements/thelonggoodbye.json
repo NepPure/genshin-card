@@ -1,0 +1,16 @@
+{
+	"name": "Longa Despedida",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4018,
+	"stages": 1,
+	"stage1": {
+		"title": "Longa Despedida",
+		"description": "Prepare todo o necessário para o Ritual da Ascensão.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

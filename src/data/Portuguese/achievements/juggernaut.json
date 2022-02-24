@@ -1,0 +1,16 @@
+{
+	"name": "Uma Força Imparável",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2008,
+	"stages": 1,
+	"stage1": {
+		"title": "Uma Força Imparável",
+		"description": "Quebre todas os Pilares de Pedra da Ressurreição de Hypostasis Geo antes de se regenerar.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

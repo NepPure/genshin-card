@@ -1,0 +1,16 @@
+{
+	"name": "Rei Dourado dos Hilichurls",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2017,
+	"stages": 1,
+	"stage1": {
+		"title": "Rei Dourado dos Hilichurls",
+		"description": "Derrote um Lawachurl da Pedra Oculta antes que a sua Forma de Demônio expire.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

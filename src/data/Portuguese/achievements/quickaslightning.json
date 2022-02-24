@@ -1,0 +1,16 @@
+{
+	"name": "Rápido como um Raio",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1022,
+	"stages": 1,
+	"stage1": {
+		"title": "Rápido como um Raio",
+		"description": "Corra continuamente ou use uma habilidade para substituir correr e se mova por 15s.",
+		"progress": 15000,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

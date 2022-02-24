@@ -1,0 +1,16 @@
+{
+	"name": "\"Người Hùng Rẽ Sóng\"",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1076,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Người Hùng Rẽ Sóng\"",
+		"description": "Tiếp tục lái \"Thuyền Gió\" đạt thời gian nhất định.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

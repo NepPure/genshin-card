@@ -1,0 +1,16 @@
+{
+	"name": "Le cycle de la vie et de la mort",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1122,
+	"stages": 1,
+	"stage1": {
+		"title": "Le cycle de la vie et de la mort",
+		"description": "Ramenez la paix aux âmes de 10 samouraïs défunts.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "\"É Igual a Ter Asas\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1021,
+	"stages": 1,
+	"stage1": {
+		"title": "\"É Igual a Ter Asas\"",
+		"description": "Plane continuamente por mais de 80 segundos.",
+		"progress": 80000,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

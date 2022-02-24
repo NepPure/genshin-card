@@ -1,0 +1,16 @@
+{
+	"name": "Рундук Дэви Джонса",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1149,
+	"stages": 1,
+	"stage1": {
+		"title": "Рундук Дэви Джонса",
+		"description": "Разблокируйте все механизмы Сэйраймару.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

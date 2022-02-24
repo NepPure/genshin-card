@@ -1,0 +1,16 @@
+{
+	"name": "\"Oh, Então é Assim que Você Pesca...\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1136,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Oh, Então é Assim que Você Pesca...\"",
+		"description": "\"Um Peixe se Assustou com a Sua Vara de Pesca.\"",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

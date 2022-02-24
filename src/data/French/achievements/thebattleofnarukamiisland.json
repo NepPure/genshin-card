@@ -1,0 +1,15 @@
+{
+	"name": "Bataille de l'Île de Narukami",
+	"achievementgroup": "Au défi ! - Partie IV",
+	"sortorder": 2098,
+	"stages": 1,
+	"stage1": {
+		"title": "Bataille de l'Île de Narukami",
+		"description": "Vainquez une Matrice mécanique perpétuelle en état affaibli.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

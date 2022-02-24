@@ -1,0 +1,16 @@
+{
+	"name": "Davy Jones' Locker",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1149,
+	"stages": 1,
+	"stage1": {
+		"title": "Davy Jones' Locker",
+		"description": "Unlock all the mechanisms onboard the \"Seiraimaru.\"",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

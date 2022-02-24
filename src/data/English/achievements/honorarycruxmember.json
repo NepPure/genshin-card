@@ -1,0 +1,15 @@
+{
+	"name": "Honorary Crux Member",
+	"achievementgroup": "Memories of the Heart",
+	"sortorder": 6900,
+	"stages": 1,
+	"stage1": {
+		"title": "Honorary Crux Member",
+		"description": "Complete \"When the Crux Shines Bright\" and unlock all endings.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

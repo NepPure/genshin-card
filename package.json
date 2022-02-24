@@ -1,46 +1,47 @@
 {
   "name": "genshin-db",
-  "version": "3.13.1",
-  "description": "Genshin Impact v2.4 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
+  "version": "4.1.0",
+  "description": "Genshin Impact v2.5 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
   "main": "./src/main.js",
   "types": "./index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "generateindex": "cd src && node ./generate.js",
-    "assemble": "cd src && node ./generate.js && cd ../ && node ./examples.js",
-    "build": "node ./build.js ChineseSimplified"
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "generateindex": "cd src && node ./generate.js",
+  "assemble": "cd src && node ./generate.js && cd ../ && node ./examples/examples.js",
+  "build": "node ./webpack/build.js",
+  "buildcn": "node ./webpack/build.js ChineseSimplified",
+  "buildAllDist": "node ./webpack/buildAllDist.js"
   },
   "keywords": [
-    "genshin-impact",
-    "genshinimpact",
-    "genshin"
+  "genshin-impact",
+  "genshinimpact",
+  "genshin"
   ],
   "author": "thebowja",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theBowja/genshin-db.git"
+  "type": "git",
+  "url": "git+https://github.com/theBowja/genshin-db.git"
   },
   "license": "MIT",
   "dependencies": {
-    "fuzzysort": "^1.1.4",
-    "pako": "^2.0.4"
+  "fuzzysort": "^1.1.4",
+  "pako": "^2.0.4"
   },
   "devDependencies": {
-    "express": "^4.17.1",
-    "puppeteer": "^10.4.0",
-    "webpack": "^5.9.0",
-    "webpack-cli": "^4.2.0"
+  "arraybuffer-loader": "^1.0.8",
+  "webpack": "^5.9.0",
+  "webpack-cli": "^4.2.0"
   },
   "files": [
-    "EXAMPLES.md",
-    "index.d.ts",
-    "src/altnames.js",
-    "src/language.js",
-    "src/folder.js",
-    "src/helper.js",
-    "src/main.js",
-    "src/getdata.js",
-    "src/Options.js",
-    "src/min/*"
+  "EXAMPLES.md",
+  "index.d.ts",
+  "src/altnames.js",
+  "src/language.js",
+  "src/folder.js",
+  "src/helper.js",
+  "src/main.js",
+  "src/getdata.js",
+  "src/Options.js",
+  "src/min/data.min.json"
   ]
-}
+  }

@@ -1,0 +1,16 @@
+{
+	"name": "Die Bestrebungen aller",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 5018,
+	"stages": 1,
+	"stage1": {
+		"title": "Die Bestrebungen aller",
+		"description": "Komme in Kontakt mit der Statue des Allgegenwärtigen, dem Symbol der Ewigkeit.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

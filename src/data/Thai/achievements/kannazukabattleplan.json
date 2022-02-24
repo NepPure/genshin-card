@@ -1,0 +1,16 @@
+{
+	"name": "แผนการต่อสู้ของ Kannazuka",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1114,
+	"stages": 1,
+	"stage1": {
+		"title": "แผนการต่อสู้ของ Kannazuka",
+		"description": "โค่น Electro Hypostasis ที่ฟื้นชีวิต",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

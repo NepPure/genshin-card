@@ -1,0 +1,16 @@
+{
+	"name": "Les clés du destin",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 5007,
+	"stages": 1,
+	"stage1": {
+		"title": "Les clés du destin",
+		"description": "Terminez la quête « Le Gardien du Rameau ».",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "O País no Meio de Monólitos",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4010,
+	"stages": 1,
+	"stage1": {
+		"title": "O País no Meio de Monólitos",
+		"description": "Conclua \"O País no Meio de Monólitos\"",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

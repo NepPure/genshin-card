@@ -1,0 +1,16 @@
+{
+	"name": "Sẽ có khác biệt",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4024,
+	"stages": 1,
+	"stage1": {
+		"title": "Sẽ có khác biệt",
+		"description": "Tham gia \"Điển Lễ Tiễn Tiên\".",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

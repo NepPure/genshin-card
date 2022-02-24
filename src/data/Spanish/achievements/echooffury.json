@@ -1,0 +1,15 @@
+{
+	"name": "Ecos lastimeros",
+	"achievementgroup": "Inazuma: las islas del trueno y la eternidad (I)",
+	"sortorder": 91,
+	"stages": 1,
+	"stage1": {
+		"title": "Ecos lastimeros",
+		"description": "Termina la serie de misiones de «Legado de Orobashi».",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 10
+		}
+	}
+}

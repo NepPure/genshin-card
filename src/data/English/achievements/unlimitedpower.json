@@ -1,0 +1,16 @@
+{
+	"name": "Unlimited Power!",
+	"achievementgroup": "Mortal Travails: Series II",
+	"sortorder": 69,
+	"stages": 1,
+	"stage1": {
+		"title": "Unlimited Power!",
+		"ps5title": "Electro: Unlimited Power!",
+		"description": "Obtain the power of Electro.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

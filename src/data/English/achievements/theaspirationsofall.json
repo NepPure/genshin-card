@@ -1,0 +1,16 @@
+{
+	"name": "The Aspirations of All",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 5018,
+	"stages": 1,
+	"stage1": {
+		"title": "The Aspirations of All",
+		"description": "Come into contact with the Statue of the Omnipresent God, the symbol of Eternity.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

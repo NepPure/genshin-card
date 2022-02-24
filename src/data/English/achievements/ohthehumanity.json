@@ -1,0 +1,16 @@
+{
+	"name": "Oh, the Humanity!",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1108,
+	"stages": 1,
+	"stage1": {
+		"title": "Oh, the Humanity!",
+		"description": "Witness the fate of the Samurai.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

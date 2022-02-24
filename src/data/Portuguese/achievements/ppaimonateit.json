@@ -1,0 +1,16 @@
+{
+	"name": "\"P-Paimon comeu...\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1161,
+	"stages": 1,
+	"stage1": {
+		"title": "\"P-Paimon comeu...\"",
+		"description": "A Maushiro que você tinha desapareceu.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

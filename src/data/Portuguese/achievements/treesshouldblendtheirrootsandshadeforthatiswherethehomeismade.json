@@ -1,0 +1,16 @@
+{
+	"name": "Uma árvore grossa e sólida dá sombra à casa",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5006,
+	"stages": 1,
+	"stage1": {
+		"title": "Uma árvore grossa e sólida dá sombra à casa",
+		"description": "Testemunhe a história da família de Yuanhong.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

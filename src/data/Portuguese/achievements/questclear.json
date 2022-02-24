@@ -1,0 +1,33 @@
+{
+	"name": "MISSÃO CONCLUÍDA",
+	"achievementgroup": "Isso é uma ordem",
+	"sortorder": 1027,
+	"stages": 3,
+	"stage1": {
+		"title": "MISSÃO CONCLUÍDA",
+		"description": "Conclua 10 \"Recompensas de Caça\".",
+		"progress": 10,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "MISSÃO CONCLUÍDA",
+		"description": "Conclua 20 \"Recompensas de Caça\".",
+		"progress": 20,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "MISSÃO CONCLUÍDA",
+		"description": "Conclua 30 \"Recompensas de Caça\".",
+		"progress": 30,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "ศิลปะการต่อสู้ของ Iwakura",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1104,
+	"stages": 1,
+	"stage1": {
+		"title": "ศิลปะการต่อสู้ของ Iwakura",
+		"description": "ร่วมเป็นพยานถึงจุดจบของ Iwakura",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Sie sollen nicht alt werden",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1107,
+	"stages": 1,
+	"stage1": {
+		"title": "Sie sollen nicht alt werden",
+		"description": "Zolle den Toten deinen Respekt.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

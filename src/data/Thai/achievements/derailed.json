@@ -1,0 +1,16 @@
+{
+	"name": "ขจัดเกลียวคลื่น",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 4023,
+	"stages": 1,
+	"stage1": {
+		"title": "ขจัดเกลียวคลื่น",
+		"description": "เอาชนะ \"เทพแห่งกระแสน้ำวน\"",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Ao menos tem um final",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4065,
+	"stages": 1,
+	"stage1": {
+		"title": "Ao menos tem um final",
+		"description": "Escute Junkichi terminar de narrar a estrutura de sua história.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

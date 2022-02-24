@@ -1,0 +1,16 @@
+{
+	"name": "自分を燃やしたの？",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 2103,
+	"stages": 1,
+	"stage1": {
+		"title": "自分を燃やしたの？",
+		"description": "2度再燃した無相の炎を倒す。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

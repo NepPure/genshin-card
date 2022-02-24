@@ -1,0 +1,16 @@
+{
+	"name": "Tempos de Mudança",
+	"achievementgroup": "Memória do Coração",
+	"ishidden": true,
+	"sortorder": 6810,
+	"stages": 1,
+	"stage1": {
+		"title": "Tempos de Mudança",
+		"description": "Tire todos os rolinhos da sorte no Grande Santuário Narukami.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

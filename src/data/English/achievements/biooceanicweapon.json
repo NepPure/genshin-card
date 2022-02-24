@@ -1,0 +1,16 @@
+{
+	"name": "Bio-Oceanic Weapon",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 2111,
+	"stages": 1,
+	"stage1": {
+		"title": "Bio-Oceanic Weapon",
+		"description": "Be hit by a certain animal created by the Hydro Hypostasis...",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

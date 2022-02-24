@@ -1,0 +1,15 @@
+{
+	"name": "Peziarah Kuil: Tsurumi Island",
+	"achievementgroup": "Perjalanan Melalui Kabut",
+	"sortorder": 115,
+	"stages": 1,
+	"stage1": {
+		"title": "Peziarah Kuil: Tsurumi Island",
+		"description": "Buka seluruh Shrine of Depths di Tsurumi Island.",
+		"progress": 2,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

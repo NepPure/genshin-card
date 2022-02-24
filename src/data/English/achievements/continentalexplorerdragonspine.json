@@ -1,0 +1,15 @@
+{
+	"name": "Continental Explorer: Dragonspine",
+	"achievementgroup": "Visitors on the Icy Mountain",
+	"sortorder": 56,
+	"stages": 1,
+	"stage1": {
+		"title": "Continental Explorer: Dragonspine",
+		"description": "Light up the Dragonspine map.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

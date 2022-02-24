@@ -1,0 +1,16 @@
+{
+	"name": "\"... Não indica a qualidade do produto final\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2012,
+	"stages": 1,
+	"stage1": {
+		"title": "\"... Não indica a qualidade do produto final\"",
+		"description": "Derrote um Hypostasis Anemo que passou por quatro tipos de Conversão Elemental",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

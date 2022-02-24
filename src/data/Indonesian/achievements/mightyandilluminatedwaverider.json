@@ -1,0 +1,16 @@
+{
+	"name": "Pengendara Angin yang Perkasa",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1076,
+	"stages": 1,
+	"stage1": {
+		"title": "Pengendara Angin yang Perkasa",
+		"description": "Terus mengendarai Waverider selama jangka waktu tertentu.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

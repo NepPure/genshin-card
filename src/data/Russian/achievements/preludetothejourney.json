@@ -1,0 +1,16 @@
+{
+	"name": "В дальний путь",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 5034,
+	"stages": 1,
+	"stage1": {
+		"title": "В дальний путь",
+		"description": "Юноша готовится к долгому путешествию...",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

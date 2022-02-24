@@ -1,0 +1,16 @@
+{
+	"name": "Lắng nghe tiếng gió",
+	"achievementgroup": "Mondstadt - Thành phố của gió và những bài ca du mục",
+	"sortorder": 32,
+	"stages": 1,
+	"stage1": {
+		"title": "Lắng nghe tiếng gió",
+		"ps5title": "Mondstadt - Lắng Nghe Tiếng Gió",
+		"description": "Hiến tế Thất Thiên Thần Tượng Mondstadt đạt cấp tối đa.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

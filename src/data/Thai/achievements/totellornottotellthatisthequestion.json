@@ -1,0 +1,16 @@
+{
+	"name": "จะพูดหรือไม่พูด ก็คือปัญหาอย่างหนึ่ง",
+	"achievementgroup": "ความทรงจำ ของหัวใจ",
+	"ishidden": true,
+	"sortorder": 6811,
+	"stages": 1,
+	"stage1": {
+		"title": "จะพูดหรือไม่พูด ก็คือปัญหาอย่างหนึ่ง",
+		"description": "ค้นพบตัวตนที่แท้จริงของคุณ Hina ที่สำนักพิมพ์ Yae",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Es gibt keine schlechten Schüler",
+	"achievementgroup": "Erinnerungen des Herzens",
+	"ishidden": true,
+	"sortorder": 7111,
+	"stages": 1,
+	"stage1": {
+		"title": "Es gibt keine schlechten Schüler",
+		"description": "Schließ das Training ab, ohne eine einzige „blaue Vogelscheuche“ zu treffen.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

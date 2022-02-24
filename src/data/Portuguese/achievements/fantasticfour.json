@@ -1,0 +1,16 @@
+{
+	"name": "Quarteto Fantástico",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2052,
+	"stages": 1,
+	"stage1": {
+		"title": "Quarteto Fantástico",
+		"description": "Conclua um Domínio usando 4 personagens do mesmo Tipo Elemental",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

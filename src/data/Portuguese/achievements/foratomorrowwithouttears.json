@@ -1,0 +1,16 @@
+{
+	"name": "Por um Amanhã Sem Lágrimas",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4003,
+	"stages": 1,
+	"stage1": {
+		"title": "Por um Amanhã Sem Lágrimas",
+		"description": "Conclua \"Por um Amanhã sem Lágrimas\"",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

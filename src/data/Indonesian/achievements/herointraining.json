@@ -1,0 +1,33 @@
+{
+	"name": "Pejuang dalam Pelatihan",
+	"achievementgroup": "Keajaiban Dunia",
+	"sortorder": 1030,
+	"stages": 3,
+	"stage1": {
+		"title": "Pejuang dalam Pelatihan",
+		"description": "Selesaikan 10 Permintaan Penduduk.",
+		"progress": 10,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Pejuang dalam Pelatihan",
+		"description": "Selesaikan 20 Permintaan Penduduk.",
+		"progress": 20,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Pejuang dalam Pelatihan",
+		"description": "Selesaikan 30 Permintaan Penduduk.",
+		"progress": 30,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

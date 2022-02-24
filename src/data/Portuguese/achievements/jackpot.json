@@ -1,0 +1,17 @@
+{
+	"name": "Sorte Grande",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1120,
+	"stages": 1,
+	"stage1": {
+		"title": "Sorte Grande",
+		"ps5title": "Inazuma - Sorte Grande",
+		"description": "Use o Canhão Kamuijima para abrir um Local dos Tesouros",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "จงยิ้มเยาะให้กับพลังแห่งทวยเทพ",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 5010,
+	"stages": 1,
+	"stage1": {
+		"title": "จงยิ้มเยาะให้กับพลังแห่งทวยเทพ",
+		"description": "ได้รู้ว่า \"การถักทอแห่งโชคชะตา\" กำลังดำเนินการอยู่...",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

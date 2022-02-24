@@ -1,0 +1,36 @@
+{
+	"name": "磐岩的尋寶者",
+	"achievementgroup": "璃月·岩與契約的海港",
+	"sortorder": 50,
+	"stages": 3,
+	"stage1": {
+		"title": "磐岩的尋寶者",
+		"ps5title": "磐岩的尋寶者·其之一",
+		"description": "在璃月開啟200個寶箱。",
+		"progress": 200,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "磐岩的尋寶者",
+		"ps5title": "磐岩的尋寶者·其之二",
+		"description": "在璃月開啟400個寶箱。",
+		"progress": 400,
+		"reward": {
+			"name": "原石",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "磐岩的尋寶者",
+		"ps5title": "磐岩的尋寶者·其之三",
+		"description": "在璃月開啟800個寶箱。",
+		"progress": 800,
+		"reward": {
+			"name": "原石",
+			"count": 20
+		}
+	}
+}

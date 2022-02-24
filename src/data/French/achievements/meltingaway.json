@@ -1,0 +1,16 @@
+{
+	"name": "« Je... fonds... »",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 2083,
+	"stages": 1,
+	"stage1": {
+		"title": "« Je... fonds... »",
+		"description": "Vainquez un Mage cryoluciole quand toutes ses Cryolucioles sont encore présentes.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

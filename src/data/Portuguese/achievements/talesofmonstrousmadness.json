@@ -1,0 +1,17 @@
+{
+	"name": "Contos de Loucura Monstruosa",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 92,
+	"stages": 1,
+	"stage1": {
+		"title": "Contos de Loucura Monstruosa",
+		"ps5title": "Exploração: Contos de Loucura Monstruosa",
+		"description": "Colete toda a série “Contos da Rua Toki”",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

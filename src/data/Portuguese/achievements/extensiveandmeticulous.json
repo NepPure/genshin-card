@@ -1,0 +1,16 @@
+{
+	"name": "\"Extensivo e Meticuloso\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1173,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Extensivo e Meticuloso\"",
+		"description": "Obtenha o reconhecimento dos Jibashiri",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

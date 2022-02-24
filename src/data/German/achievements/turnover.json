@@ -1,0 +1,15 @@
+{
+	"name": "Waffenlos",
+	"achievementgroup": "Herausforderer – Reihe 3",
+	"sortorder": 2066,
+	"stages": 1,
+	"stage1": {
+		"title": "Waffenlos",
+		"description": "Schlage einen Kryo-Schleim aus den Händen eines Kryo-Hilichurl-Grenadiers.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

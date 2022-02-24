@@ -1,0 +1,15 @@
+{
+	"name": "Reiß das Totem nieder",
+	"achievementgroup": "Herausforderer – Reihe 4",
+	"sortorder": 2094,
+	"stages": 1,
+	"stage1": {
+		"title": "Reiß das Totem nieder",
+		"description": "Besiege einen Elektro-Samachurl, bevor er die Elektro-Totems erschafft.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

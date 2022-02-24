@@ -1,0 +1,15 @@
+{
+	"name": "Proteja-me do Mundo",
+	"achievementgroup": "Desafiante - Série II",
+	"sortorder": 2062,
+	"stages": 1,
+	"stage1": {
+		"title": "Proteja-me do Mundo",
+		"description": "Faça um personagem protegido por três ou mais diferentes escudos ao mesmo tempo.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

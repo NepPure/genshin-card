@@ -1,0 +1,16 @@
+{
+	"name": "Ricocheteou!",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2086,
+	"stages": 1,
+	"stage1": {
+		"title": "Ricocheteou!",
+		"description": "Use um escudo para contra-atacar o ataque Chuva Primordial do Dragarto Primordial.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

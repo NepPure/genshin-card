@@ -1,0 +1,36 @@
+{
+	"name": "Caçador de Tesouros Estável",
+	"achievementgroup": "Liyue: O Porto de Pedra e dos Contratos",
+	"sortorder": 50,
+	"stages": 3,
+	"stage1": {
+		"title": "Caçador de Tesouros Estável",
+		"ps5title": "Caçador de Tesouros Estável (I)",
+		"description": "Abra 200 baús em Liyue.",
+		"progress": 200,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Caçador de Tesouros Estável",
+		"ps5title": "Caçador de Tesouros Estável (II)",
+		"description": "Abra 400 baús em Liyue.",
+		"progress": 400,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Caçador de Tesouros Estável",
+		"ps5title": "Caçador de Tesouros Estável (III)",
+		"description": "Abra 800 baús em Liyue.",
+		"progress": 800,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

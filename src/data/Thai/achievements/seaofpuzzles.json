@@ -1,0 +1,16 @@
+{
+	"name": "ปริศนาแห่งท้องทะเล",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1150,
+	"stages": 1,
+	"stage1": {
+		"title": "ปริศนาแห่งท้องทะเล",
+		"description": "ปลดล็อกกลไกบนเกาะ Seirai หนึ่งชุด",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

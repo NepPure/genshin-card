@@ -1,0 +1,16 @@
+{
+	"name": "Conto Inenarrável",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1040,
+	"stages": 1,
+	"stage1": {
+		"title": "Conto Inenarrável",
+		"description": "Faça uma amizade inesperada em um lugar inesperado.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "风向是会转变的",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 4009,
+	"stages": 1,
+	"stage1": {
+		"title": "风向是会转变的",
+		"description": "被特瓦林所救。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

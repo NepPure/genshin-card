@@ -1,0 +1,16 @@
+{
+	"name": "Destino: Inazuma",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5013,
+	"stages": 1,
+	"stage1": {
+		"title": "Destino: Inazuma",
+		"description": "Obtenha uma chance de viajar até Inazuma a bordo do Alcor.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

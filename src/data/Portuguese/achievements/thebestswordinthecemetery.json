@@ -1,0 +1,16 @@
+{
+	"name": "A Melhor Espada do Cemitério.",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1010,
+	"stages": 1,
+	"stage1": {
+		"title": "A Melhor Espada do Cemitério.",
+		"description": "Desbloqueie o Selo Triplo do Cemitério de Espadas.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

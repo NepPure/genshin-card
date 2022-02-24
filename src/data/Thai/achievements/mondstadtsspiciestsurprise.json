@@ -1,0 +1,16 @@
+{
+	"name": "ตำนานหมาล่าแห่ง Mondstadt",
+	"achievementgroup": "ความทรงจำ ของหัวใจ",
+	"ishidden": true,
+	"sortorder": 6211,
+	"stages": 1,
+	"stage1": {
+		"title": "ตำนานหมาล่าแห่ง Mondstadt",
+		"description": "ลองชิมเครื่องดื่มรสเผ็ดของ Barbara",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

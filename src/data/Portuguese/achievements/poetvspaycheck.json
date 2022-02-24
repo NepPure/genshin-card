@@ -1,0 +1,16 @@
+{
+	"name": "Poema X Pagamento",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4047,
+	"stages": 1,
+	"stage1": {
+		"title": "Poema X Pagamento",
+		"description": "Complete \"trabalho\" e obtenha os poemas de Linling.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Syarat Menjadi Seorang Manusia?",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1108,
+	"stages": 1,
+	"stage1": {
+		"title": "Syarat Menjadi Seorang Manusia?",
+		"description": "Menyaksikan takdir seorang samurai.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

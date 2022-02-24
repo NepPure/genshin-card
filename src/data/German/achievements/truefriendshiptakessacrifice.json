@@ -1,0 +1,15 @@
+{
+	"name": "Der Wert der Freundschaft und Aufopferung",
+	"achievementgroup": "Weltreise – Reihe 2",
+	"sortorder": 71,
+	"stages": 1,
+	"stage1": {
+		"title": "Der Wert der Freundschaft und Aufopferung",
+		"description": "Sammle die komplette Reihe von „Die Wildschweinprinzessin”.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

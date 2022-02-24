@@ -1,0 +1,16 @@
+{
+	"name": "Dia da Sorte de Paimon!",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1100,
+	"stages": 1,
+	"stage1": {
+		"title": "Dia da Sorte de Paimon!",
+		"description": "Tire um rolinho de \"Grande Fortuna\" no Grande Santuário Narukami",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

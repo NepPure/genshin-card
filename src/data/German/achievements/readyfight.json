@@ -1,0 +1,16 @@
+{
+	"name": "Auf in den Kampf!",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 5014,
+	"stages": 1,
+	"stage1": {
+		"title": "Auf in den Kampf!",
+		"description": "Erringe deinen ersten Sieg im Crux-Turnier.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

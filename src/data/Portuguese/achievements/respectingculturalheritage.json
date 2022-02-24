@@ -1,0 +1,16 @@
+{
+	"name": "Protetor de Relíquias",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4017,
+	"stages": 1,
+	"stage1": {
+		"title": "Protetor de Relíquias",
+		"description": "Você não conseguiu encontrar a Cococabra... Mas conseguiu reparar um mecanismo.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

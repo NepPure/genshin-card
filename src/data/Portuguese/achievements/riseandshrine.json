@@ -1,0 +1,16 @@
+{
+	"name": "Guia para uma Ilha Deserta",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1110,
+	"stages": 1,
+	"stage1": {
+		"title": "Guia para uma Ilha Deserta",
+		"description": "Encontre todos os Santuários na Ilha Yashiori",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

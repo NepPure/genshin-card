@@ -1,0 +1,15 @@
+{
+	"name": "Gián đoạn",
+	"achievementgroup": "Hướng dẫn câu cá Teyvat - Phần I",
+	"sortorder": 1133,
+	"stages": 1,
+	"stage1": {
+		"title": "Gián đoạn",
+		"description": "Ở Inazuma câu cá để nhận trang sách bị mất.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

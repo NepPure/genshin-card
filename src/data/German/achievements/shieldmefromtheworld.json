@@ -1,0 +1,15 @@
+{
+	"name": "Nahezu unbesiegbar",
+	"achievementgroup": "Herausforderer – Reihe 2",
+	"sortorder": 2062,
+	"stages": 1,
+	"stage1": {
+		"title": "Nahezu unbesiegbar",
+		"description": "Stelle eine Figur unter den Schutz von mindestens drei verschiedenen Schilden.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

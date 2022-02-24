@@ -1,0 +1,16 @@
+{
+	"name": "Olá-! Alguém aí-?",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4061,
+	"stages": 1,
+	"stage1": {
+		"title": "Olá-! Alguém aí-?",
+		"description": "Descubra uma passagem secreta em Ritou.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

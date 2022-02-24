@@ -1,0 +1,15 @@
+{
+	"name": "A Fish Called Rhodeia",
+	"achievementgroup": "Meetings in Outrealm: Series I",
+	"sortorder": 9012,
+	"stages": 1,
+	"stage1": {
+		"title": "A Fish Called Rhodeia",
+		"description": "Defeat an Oceanid in Co-Op Mode.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

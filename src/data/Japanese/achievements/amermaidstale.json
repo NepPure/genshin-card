@@ -1,0 +1,16 @@
+{
+	"name": "人魚の童話",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 1137,
+	"stages": 1,
+	"stage1": {
+		"title": "人魚の童話",
+		"description": "久美のわだかまりを解く。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

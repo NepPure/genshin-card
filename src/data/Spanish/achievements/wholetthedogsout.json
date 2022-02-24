@@ -1,0 +1,16 @@
+{
+	"name": "Liberen a Toratarou",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1105,
+	"stages": 1,
+	"stage1": {
+		"title": "Liberen a Toratarou",
+		"description": "Consigue liberar a Toratarou.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

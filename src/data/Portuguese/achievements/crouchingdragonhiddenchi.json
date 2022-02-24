@@ -1,0 +1,16 @@
+{
+	"name": "Dragão Agachado, Chi Escondido",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5002,
+	"stages": 1,
+	"stage1": {
+		"title": "Dragão Agachado, Chi Escondido",
+		"description": "Entenda mais sobre o conto de Chi.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

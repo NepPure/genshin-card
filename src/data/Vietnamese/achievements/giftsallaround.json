@@ -1,0 +1,33 @@
+{
+	"name": "Món Quà Quyết Thắng!",
+	"achievementgroup": "Thế Ngoại Đào Viên - Phần II",
+	"sortorder": 1084,
+	"stages": 3,
+	"stage1": {
+		"title": "Món Quà Quyết Thắng!",
+		"description": "Nhận 5 Quà Đồng Hành.",
+		"progress": 5,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Món Quà Quyết Thắng!",
+		"description": "Nhận 10 Quà Đồng Hành.",
+		"progress": 10,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Món Quà Quyết Thắng!",
+		"description": "Nhận 20 Quà Đồng Hành.",
+		"progress": 20,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Сошедший с рельсов",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4023,
+	"stages": 1,
+	"stage1": {
+		"title": "Сошедший с рельсов",
+		"description": "Одолейте Архонта Вихрей.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Seven Letters",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1165,
+	"stages": 1,
+	"stage1": {
+		"title": "Seven Letters",
+		"description": "Try to decipher the Ishine Script.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Siete letras",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1165,
+	"stages": 1,
+	"stage1": {
+		"title": "Siete letras",
+		"description": "Intenta descifrar la inscripción Ishine.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

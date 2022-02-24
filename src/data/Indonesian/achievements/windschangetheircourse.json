@@ -1,0 +1,16 @@
+{
+	"name": "Arah Angin Bisa Berubah",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 4009,
+	"stages": 1,
+	"stage1": {
+		"title": "Arah Angin Bisa Berubah",
+		"description": "Pertolongan Dvalin.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -4,7 +4,7 @@ const language = require('./language.js');
 const Folder = require('./folder.js');
 const altnames = require('./altnames.js');
 const Options = require('./Options.js');
-const { getData, getIndex } = require('./getdata.js');
+const { getData, getIndex, addData } = require('./getdata.js');
 
 // object that will be exported
 const genshin = {};
@@ -28,8 +28,8 @@ function buildQueryDict(querylangs, folder, opts) {
     for (const lang of querylangs) {
         const index = getIndex(lang, folder);
         if (index === undefined) continue;
-        if (opts.matchNames && index.names)
-            dict = dict.concat(Object.keys(index.names));
+        if (opts.matchNames && index.namemap)
+            dict = dict.concat(Object.values(index.namemap));
         if (opts.matchAltNames)
             dict = dict.concat(altnames.getAltNamesList(lang, folder));
         if (opts.matchAliases && index.aliases)
@@ -108,7 +108,7 @@ function retrieveData(query, folder, opts, getfilename) {
             let reslangindex = getIndex(opts.resultLanguage, folder);
             if (reslangindex === undefined) return undefined;
 
-            let tmparr = (queryMatch === 'names') ? Object.values(reslangindex.names) : langindex.categories[queryMatch];
+            let tmparr = (queryMatch === 'names') ? Object.keys(reslangindex.namemap) : langindex.categories[queryMatch];
             // change the array of filenames into an array of data objects or data names. ignores undefined results if any
             let result = tmparr.reduce((accum, filename) => {
                 let res = opts.verboseCategories ? getData(opts.resultLanguage, folder, filename) : reslangindex.namemap[filename];
@@ -178,6 +178,16 @@ genshin.categories = genshin.category = function (query, folder, opts) {
  */
 genshin.characters = genshin.character = function (query, opts) {
     return retrieveData(query, Folder.characters, opts);
+}
+
+/**
+ * Get outfit's information.
+ * @param {string} query - The name of the outfit, or character name, elements, birthday months [, ...] see [possible query inputs for character(s) method](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts) 
+ * @param {object|Options} opts - The library options, see [Valid Options](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts)
+ * @returns {object} - The data found based on the query string and options parameter.
+ */
+genshin.outfits = genshin.outfit = function (query, opts) {
+    return retrieveData(query, Folder.outfits, opts);
 }
 
 /**
@@ -302,13 +312,58 @@ genshin.enemies = genshin.enemy = function (query, opts) {
     return retrieveData(query, Folder.enemies, opts);
 }
 
-// genshin.reactions = function(query, opts={}) {
-//     opts = Object.assign({}, baseoptions, sanitizeOptions(opts));
+/**
+ * Get data about an achievement
+ * @param {string} query - Achievement name, achievement group.
+ * @param {object|Options} opts - The library options, see [Valid Options](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts)
+ * @returns {object} - The data found based on the query string and options parameter.
+ */
+genshin.achievements = genshin.achievement = function (query, opts) {
+    return retrieveData(query, Folder.achievements, opts);
+}
 
-//     const data = getJSON(`./${baselang}/reactions/${query}`);
+/**
+ * Get data about an achievement group
+ * @param {string} query - Achievement group name.
+ * @param {object|Options} opts - The library options, see [Valid Options](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts)
+ * @returns {object} - The data found based on the query string and options parameter.
+ */
+genshin.achievementgroups = genshin.achievementgroup = function (query, opts) {
+    return retrieveData(query, Folder.achievementgroups, opts);
+}
 
-//     return data;
-// }
+/**
+ * Get data about a wind glider
+ * @param {string} query - Wind glider name.
+ * @param {object|Options} opts - The library options, see [Valid Options](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts)
+ * @returns {object} - The data found based on the query string and options parameter.
+ */
+genshin.windgliders = genshin.windglider = function (query, opts) {
+    return retrieveData(query, Folder.windgliders, opts);
+}
+
+/**
+ * Get data about animals
+ * @param {string} query - Animal name.
+ * @param {object|Options} opts - The library options, see [Valid Options](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts)
+ * @returns {object} - The data found based on the query string and options parameter.
+ */
+genshin.animals = genshin.animal = genshin.wildlife = function (query, opts) {
+    return retrieveData(query, Folder.animals, opts);
+}
+
+
+/**
+ * Get data in any specified folder.
+ * @param {string} folder - Folder name. For example: 'characters'.
+ * @param {object|Options} opts - The library options, see [Valid Options](https://github.com/theBowja/genshin-db/blob/main/readme.md#genshindbsetoptionsopts)
+ * @returns {object} - The data found based on the query string and options parameter.
+ */
+genshin.searchFolder = function (folder, query, opts) {
+    if(typeof folder !== 'string') return undefined;
+    return retrieveData(query, folder, opts);
+}
+
 
 genshin.helper = require('./helper.js');
 
@@ -346,5 +401,7 @@ genshin.setAltNameLimits = altnames.setLimit;
 
 //Class Options will serve as a template for the library's options.
 genshin.Options = Options;
+
+genshin.addData = addData;
 
 module.exports = genshin;

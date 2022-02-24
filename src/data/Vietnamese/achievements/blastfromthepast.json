@@ -1,0 +1,15 @@
+{
+	"name": "Dĩ vãng tái hiện",
+	"achievementgroup": "Gặp ở thế giới khác - Phần II",
+	"sortorder": 9016,
+	"stages": 1,
+	"stage1": {
+		"title": "Dĩ vãng tái hiện",
+		"description": "Cùng người chơi khác đánh bại Azhdaha.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Nice boat!",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1077,
+	"stages": 1,
+	"stage1": {
+		"title": "Nice boat!",
+		"description": "Troque de Quebra-mar com outro jogador",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

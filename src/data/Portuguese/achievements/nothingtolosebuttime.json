@@ -1,0 +1,16 @@
+{
+	"name": "Nada a perder, exceto tempo",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5000,
+	"stages": 1,
+	"stage1": {
+		"title": "Nada a perder, exceto tempo",
+		"description": "Desvende os segredos de dois relógios de sol.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

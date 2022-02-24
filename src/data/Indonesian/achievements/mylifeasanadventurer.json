@@ -1,0 +1,16 @@
+{
+	"name": "\"Hidupku Sebagai Seorang Petualang\"",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1159,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Hidupku Sebagai Seorang Petualang\"",
+		"description": "Bantu Roald melengkapi jurnal petualangannya.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

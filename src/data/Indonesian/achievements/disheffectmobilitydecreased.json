@@ -1,0 +1,16 @@
+{
+	"name": "Efek Masakan: Memperlambat Gerakan",
+	"achievementgroup": "Ingatan Hati",
+	"ishidden": true,
+	"sortorder": 6711,
+	"stages": 1,
+	"stage1": {
+		"title": "Efek Masakan: Memperlambat Gerakan",
+		"description": "Gagal mencegah Sayu makan terlalu banyak ....",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

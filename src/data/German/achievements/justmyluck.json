@@ -1,0 +1,16 @@
+{
+	"name": "Vom Regen in die Traufe ...",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1101,
+	"stages": 1,
+	"stage1": {
+		"title": "Vom Regen in die Traufe ...",
+		"description": "Am Großen Narukami-Schrein kann man spezielle Papierstreifen für „großes Unglück“ ziehen.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

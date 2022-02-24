@@ -1,0 +1,16 @@
+{
+	"name": "Tây Phong bảo vệ ta",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4044,
+	"stages": 1,
+	"stage1": {
+		"title": "Tây Phong bảo vệ ta",
+		"description": "Chứng kiến câu chuyện của Jilliana.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

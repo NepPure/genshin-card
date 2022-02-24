@@ -1,0 +1,16 @@
+{
+	"name": "Bayang-Bayang Putih",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1156,
+	"stages": 1,
+	"stage1": {
+		"title": "Bayang-Bayang Putih",
+		"description": "Bertemu dengan bayangan dari masa lampau.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Régicide",
+	"achievementgroup": "Au défi ! - Partie III",
+	"sortorder": 2072,
+	"stages": 1,
+	"stage1": {
+		"title": "Régicide",
+		"description": "Vainquez le vrai seigneur des Monts Dosdragon.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "La grande évasion",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 5021,
+	"stages": 1,
+	"stage1": {
+		"title": "La grande évasion",
+		"description": "Sauvez Masakatsu.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Em Terras Desconhecidas",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4012,
+	"stages": 1,
+	"stage1": {
+		"title": "Em Terras Desconhecidas",
+		"description": "Foi salvo por um forasteiro em um \"lugar turístico para onde os moradores locais nunca vão\"...",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "„Geh mit dem Wind!“",
+	"achievementgroup": "Elementarexperte",
+	"sortorder": 2022,
+	"stages": 3,
+	"stage1": {
+		"title": "„Geh mit dem Wind!“",
+		"description": "1-malig: Löse Kryo-, Hydro-, Pyro- und Elektro-Verwirbelungen innerhalb von 2 Sekunden aus.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "„Geh mit dem Wind!“",
+		"description": "5-malig: Löse Kryo-, Hydro-, Pyro- und Elektro-Verwirbelungen innerhalb von 2 Sekunden aus.",
+		"progress": 5,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "„Geh mit dem Wind!“",
+		"description": "10-malig: Löse Kryo-, Hydro-, Pyro- und Elektro-Verwirbelungen innerhalb von 2 Sekunden aus.",
+		"progress": 10,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

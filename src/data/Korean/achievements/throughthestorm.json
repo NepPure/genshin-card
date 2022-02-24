@@ -1,0 +1,16 @@
+{
+	"name": "천둥번개와 비바람을 향해",
+	"achievementgroup": "천지만물",
+	"ishidden": true,
+	"sortorder": 5016,
+	"stages": 1,
+	"stage1": {
+		"title": "천둥번개와 비바람을 향해",
+		"description": "「외부인 거주지」 도착하기",
+		"progress": 1,
+		"reward": {
+			"name": "원석",
+			"count": 5
+		}
+	}
+}

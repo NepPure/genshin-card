@@ -1,0 +1,16 @@
+{
+	"name": "Moshiri Kara",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1166,
+	"stages": 1,
+	"stage1": {
+		"title": "Moshiri Kara",
+		"description": "Mở khóa Moshiri Kara",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

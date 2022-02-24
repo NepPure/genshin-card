@@ -1,0 +1,16 @@
+{
+	"name": "Nihil Sub Caligine Novum",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1154,
+	"stages": 1,
+	"stage1": {
+		"title": "Nihil Sub Caligine Novum",
+		"description": "Parece que você está de volta ao ponto de partida...",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

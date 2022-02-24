@@ -1,0 +1,16 @@
+{
+	"name": "Exploração Continental: Mondstadt",
+	"achievementgroup": "Mondstadt: A Cidade do Vento e da Poesia",
+	"sortorder": 30,
+	"stages": 1,
+	"stage1": {
+		"title": "Exploração Continental: Mondstadt",
+		"ps5title": "Mondstadt: Explorador Continental",
+		"description": "Descubra todo o mapa de Mondstadt (Exceto a Espinha do Dragão)",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

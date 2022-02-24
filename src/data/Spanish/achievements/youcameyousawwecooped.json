@@ -1,0 +1,33 @@
+{
+	"name": "La unión hace la fuerza",
+	"achievementgroup": "Encuentros fuera de este mundo - Parte 1",
+	"sortorder": 9001,
+	"stages": 3,
+	"stage1": {
+		"title": "La unión hace la fuerza",
+		"description": "Completa dominios junto con otros jugadores 5 veces.",
+		"progress": 5,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "La unión hace la fuerza",
+		"description": "Completa dominios junto con otros jugadores 20 veces.",
+		"progress": 20,
+		"reward": {
+			"name": "Protogema",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "La unión hace la fuerza",
+		"description": "Completa dominios junto con otros jugadores 100 veces.",
+		"progress": 100,
+		"reward": {
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

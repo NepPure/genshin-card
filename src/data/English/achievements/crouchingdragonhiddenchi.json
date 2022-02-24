@@ -1,0 +1,16 @@
+{
+	"name": "Crouching Dragon, Hidden Chi",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 5002,
+	"stages": 1,
+	"stage1": {
+		"title": "Crouching Dragon, Hidden Chi",
+		"description": "Learn about the tale of the Chi.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

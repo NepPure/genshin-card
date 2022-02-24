@@ -1,0 +1,16 @@
+{
+	"name": "Caos do Relâmpago",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1119,
+	"stages": 1,
+	"stage1": {
+		"title": "Caos do Relâmpago",
+		"description": "Seja derrubado pela Tormenta Elétrica",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

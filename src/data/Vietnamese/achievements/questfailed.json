@@ -1,0 +1,16 @@
+{
+	"name": "QUEST FAILED",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1033,
+	"stages": 1,
+	"stage1": {
+		"title": "QUEST FAILED",
+		"description": "Để mất mục tiêu treo thưởng...",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

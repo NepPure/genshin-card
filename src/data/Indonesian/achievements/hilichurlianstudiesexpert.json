@@ -1,0 +1,15 @@
+{
+	"name": "Pakar Studi Hilichurlian",
+	"achievementgroup": "Penderitaan Fana: Seri II",
+	"sortorder": 73,
+	"stages": 1,
+	"stage1": {
+		"title": "Pakar Studi Hilichurlian",
+		"description": "Kumpulkan semua jilid buku \"Adat Istiadat Hilichurl\".",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

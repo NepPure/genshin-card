@@ -1,0 +1,15 @@
+{
+	"name": "誰もかれも大喜び",
+	"achievementgroup": "心弾む記憶",
+	"sortorder": 6600,
+	"stages": 1,
+	"stage1": {
+		"title": "誰もかれも大喜び",
+		"description": "「家司の日頃の業務」をクリアし、全てのエンディングを解放する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 20
+		}
+	}
+}

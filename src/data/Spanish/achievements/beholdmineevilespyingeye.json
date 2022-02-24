@@ -1,0 +1,16 @@
+{
+	"name": "El ojo que todo lo ve",
+	"achievementgroup": "Recuerdos del corazón",
+	"ishidden": true,
+	"sortorder": 6110,
+	"stages": 1,
+	"stage1": {
+		"title": "El ojo que todo lo ve",
+		"description": "Evalúa correctamente toda la información.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

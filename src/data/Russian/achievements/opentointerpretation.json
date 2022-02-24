@@ -1,0 +1,16 @@
+{
+	"name": "Открыто для интерпретации",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4050,
+	"stages": 1,
+	"stage1": {
+		"title": "Открыто для интерпретации",
+		"description": "Испортите 4 знамения неизбежной любви.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

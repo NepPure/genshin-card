@@ -1,0 +1,16 @@
+{
+	"name": "Hentikan Omong Kosongmu",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 5011,
+	"stages": 1,
+	"stage1": {
+		"title": "Hentikan Omong Kosongmu",
+		"description": "Kalahkan Abyss Herald.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

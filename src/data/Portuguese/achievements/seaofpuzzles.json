@@ -1,0 +1,16 @@
+{
+	"name": "Mar de Quebra-Cabeças",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1150,
+	"stages": 1,
+	"stage1": {
+		"title": "Mar de Quebra-Cabeças",
+		"description": "Desbloqueie uma série de mecanismos na Ilha Seirai.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

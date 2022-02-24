@@ -1,0 +1,16 @@
+{
+	"name": "Omamori, Gerechtigkeit, Nummer eins",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 5020,
+	"stages": 1,
+	"stage1": {
+		"title": "Omamori, Gerechtigkeit, Nummer eins",
+		"description": "Schließ die „drei kleinen Wünsche“ ab.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "สอนโลกให้รู้จักกล้าฉบับ Guyun",
+	"achievementgroup": "ความทรงจำ ของหัวใจ",
+	"ishidden": true,
+	"sortorder": 6911,
+	"stages": 1,
+	"stage1": {
+		"title": "สอนโลกให้รู้จักกล้าฉบับ Guyun",
+		"description": "ถาม Beidou เกี่ยวกับเนื้อหาที่แท้จริงของการซื้อขาย",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

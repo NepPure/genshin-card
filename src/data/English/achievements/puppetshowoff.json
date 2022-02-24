@@ -1,0 +1,15 @@
+{
+	"name": "Puppet Show-Off",
+	"achievementgroup": "Challenger: Series IV",
+	"sortorder": 2093,
+	"stages": 1,
+	"stage1": {
+		"title": "Puppet Show-Off",
+		"description": "Defeat the Maguu Kenki while he is taunting you.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

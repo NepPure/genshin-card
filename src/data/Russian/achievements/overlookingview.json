@@ -1,0 +1,16 @@
+{
+	"name": "Всеохватывающий вид",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1000,
+	"stages": 1,
+	"stage1": {
+		"title": "Всеохватывающий вид",
+		"description": "Достигните вершины пика Цинъюнь.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

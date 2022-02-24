@@ -1,0 +1,16 @@
+{
+	"name": "Auch nur eine Eisnebelblume!",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 2063,
+	"stages": 1,
+	"stage1": {
+		"title": "Auch nur eine Eisnebelblume!",
+		"description": "Besiege einen Fluxeisbaum, ohne seinen Schwachpunkt an der Blütenkrone zu zerstören.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	}
+}

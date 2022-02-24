@@ -1,0 +1,15 @@
+{
+	"name": "Pilar Reruntuhan",
+	"achievementgroup": "Penantang: Seri IV",
+	"sortorder": 2094,
+	"stages": 1,
+	"stage1": {
+		"title": "Pilar Reruntuhan",
+		"description": "Kalahkan Electro Samachurl tanpa ada pilar petir di lapangan.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

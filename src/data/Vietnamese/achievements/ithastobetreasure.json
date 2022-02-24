@@ -1,0 +1,16 @@
+{
+	"name": "Kho Báu Khó Tin",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1146,
+	"stages": 1,
+	"stage1": {
+		"title": "Kho Báu Khó Tin",
+		"description": "\"Đã nói là chỉ có một bức tranh thôi mà!\"",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

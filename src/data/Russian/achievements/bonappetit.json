@@ -1,0 +1,16 @@
+{
+	"name": "Приятного аппетита",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 2040,
+	"stages": 1,
+	"stage1": {
+		"title": "Приятного аппетита",
+		"description": "Заставьте наесться всех 4 членов отряда одновременно.",
+		"progress": 4,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 10
+		}
+	}
+}

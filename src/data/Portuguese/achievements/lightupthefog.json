@@ -1,0 +1,16 @@
+{
+	"name": "Ilume a Neblina",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1160,
+	"stages": 1,
+	"stage1": {
+		"title": "Ilume a Neblina",
+		"description": "Ative todas as Pedras do Trovão da Planície Autake.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Nós iremos nos reunir",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5012,
+	"stages": 1,
+	"stage1": {
+		"title": "Nós iremos nos reunir",
+		"description": "Complete \"Nós Iremos nos Reunir\"",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

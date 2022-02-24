@@ -1,0 +1,16 @@
+{
+	"name": "แด่ผู้มีพระคุณ",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1118,
+	"stages": 1,
+	"stage1": {
+		"title": "แด่ผู้มีพระคุณ",
+		"description": "ได้รับรางวัลใหญ่จากหีบสมบัติของ Takashi",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

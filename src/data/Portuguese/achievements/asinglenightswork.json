@@ -1,0 +1,16 @@
+{
+	"name": "\"... Um dia de Inverno\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2089,
+	"stages": 1,
+	"stage1": {
+		"title": "\"... Um dia de Inverno\"",
+		"description": "Derrote Hypostasis Cryo em modo enfraquecido.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

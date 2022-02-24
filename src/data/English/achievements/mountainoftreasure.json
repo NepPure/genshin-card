@@ -1,0 +1,36 @@
+{
+	"name": "Mountain of Treasure",
+	"achievementgroup": "Visitors on the Icy Mountain",
+	"sortorder": 61,
+	"stages": 3,
+	"stage1": {
+		"title": "Mountain of Treasure",
+		"ps5title": "Mountain of Treasure (I)",
+		"description": "Open 40 chests in Dragonspine.",
+		"progress": 40,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Mountain of Treasure",
+		"ps5title": "Mountain of Treasure (II)",
+		"description": "Open 80 chests in Dragonspine.",
+		"progress": 80,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Mountain of Treasure",
+		"ps5title": "Mountain of Treasure (III)",
+		"description": "Open 160 chests in Dragonspine.",
+		"progress": 160,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

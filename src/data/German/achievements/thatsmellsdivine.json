@@ -1,0 +1,16 @@
+{
+	"name": "Nebenbeschäftigung des Frühlingsdufts",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 4014,
+	"stages": 1,
+	"stage1": {
+		"title": "Nebenbeschäftigung des Frühlingsdufts",
+		"description": "Finde heraus, welchen Duft Rex Lapis bevorzugt.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

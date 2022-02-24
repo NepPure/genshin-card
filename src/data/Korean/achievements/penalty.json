@@ -1,0 +1,16 @@
+{
+	"name": "파울",
+	"achievementgroup": "천지만물",
+	"ishidden": true,
+	"sortorder": 2074,
+	"stages": 1,
+	"stage1": {
+		"title": "파울",
+		"description": "화염 슬라임을 파낼 수 없는 곳도 있다…",
+		"progress": 1,
+		"reward": {
+			"name": "원석",
+			"count": 5
+		}
+	}
+}

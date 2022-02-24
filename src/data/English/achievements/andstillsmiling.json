@@ -1,0 +1,15 @@
+{
+	"name": "...And Still Smiling!",
+	"achievementgroup": "Meetings in Outrealm: Series I",
+	"sortorder": 9008,
+	"stages": 1,
+	"stage1": {
+		"title": "...And Still Smiling!",
+		"description": "Defeat an Electro Hypostasis in Co-Op Mode.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "\"Realmente tem alguma diferença...?\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1179,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Realmente tem alguma diferença...?\"",
+		"description": "Sente em cada um dos lugares especiais.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

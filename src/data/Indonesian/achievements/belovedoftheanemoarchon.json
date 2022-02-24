@@ -1,0 +1,17 @@
+{
+	"name": "Kesayangan Archon Anemo",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1005,
+	"stages": 1,
+	"stage1": {
+		"title": "Kesayangan Archon Anemo",
+		"ps5title": "Penjelajah: Kesayangan Archon Anemo",
+		"description": "Duduk di tangan Patung Dewa di Mondstadt.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

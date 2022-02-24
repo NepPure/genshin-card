@@ -1,0 +1,16 @@
+{
+	"name": "Um Sonho do Passado",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5037,
+	"stages": 1,
+	"stage1": {
+		"title": "Um Sonho do Passado",
+		"description": "Testemunhe a verdade da história da vila.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

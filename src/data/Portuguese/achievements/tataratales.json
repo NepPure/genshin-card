@@ -1,0 +1,15 @@
+{
+	"name": "Contos de Tatara",
+	"achievementgroup": "Inazuma: A Ilha dos Trovões e da Eternidade - Parte I",
+	"sortorder": 90,
+	"stages": 1,
+	"stage1": {
+		"title": "Contos de Tatara",
+		"description": "Resolva a situação na Fornalha Mikage.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

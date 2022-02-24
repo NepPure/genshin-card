@@ -1,0 +1,15 @@
+{
+	"name": "Thunderbolting Across the Land (II)",
+	"achievementgroup": "Inazuma: The Islands of Thunder and Eternity - Series II",
+	"sortorder": 97,
+	"stages": 1,
+	"stage1": {
+		"title": "Thunderbolting Across the Land (II)",
+		"description": "Unlock all Teleport Waypoints in the Watatsumi Island and Seirai Island areas of Inazuma.",
+		"progress": 14,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

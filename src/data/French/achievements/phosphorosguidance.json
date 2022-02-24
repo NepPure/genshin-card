@@ -1,0 +1,33 @@
+{
+	"name": "Sous la direction de Phosphoros",
+	"achievementgroup": "À la lumière du jour",
+	"sortorder": 132,
+	"stages": 3,
+	"stage1": {
+		"title": "Sous la direction de Phosphoros",
+		"description": "Suivez 6 Fées à Enkanomiya et activez leur support.",
+		"progress": 6,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Sous la direction de Phosphoros",
+		"description": "Suivez 15 Fées à Enkanomiya et activez leur support.",
+		"progress": 15,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Sous la direction de Phosphoros",
+		"description": "Suivez 30 Fées à Enkanomiya et activez leur support.",
+		"progress": 30,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 20
+		}
+	}
+}

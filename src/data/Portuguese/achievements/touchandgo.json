@@ -1,0 +1,16 @@
+{
+	"name": "Toque e Toque",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2085,
+	"stages": 1,
+	"stage1": {
+		"title": "Toque e Toque",
+		"description": "Use um escudo para contra-atacar um ataque do Dragarto Geo.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

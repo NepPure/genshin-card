@@ -1,0 +1,16 @@
+{
+	"name": "Selama Aku Berlari Cepat...",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 2100,
+	"stages": 1,
+	"stage1": {
+		"title": "Selama Aku Berlari Cepat...",
+		"description": "Kalahkan Maguu Kenki tanpa terkena serangan dari bayangannya.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

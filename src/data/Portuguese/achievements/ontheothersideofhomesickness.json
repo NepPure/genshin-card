@@ -1,0 +1,16 @@
+{
+	"name": "O Outro Lado da Saudade",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1147,
+	"stages": 1,
+	"stage1": {
+		"title": "O Outro Lado da Saudade",
+		"description": "Ajude Oda Tarou a tirar quatro fotos da Ilha Seirai.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

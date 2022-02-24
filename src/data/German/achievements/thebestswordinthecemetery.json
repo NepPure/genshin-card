@@ -1,0 +1,16 @@
+{
+	"name": "Das beste Schwert des Grabs",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1010,
+	"stages": 1,
+	"stage1": {
+		"title": "Das beste Schwert des Grabs",
+		"description": "Löse das dreifache Siegel des Schwertergrabs.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

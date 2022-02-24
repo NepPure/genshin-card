@@ -1,0 +1,16 @@
+{
+	"name": "Eisiges Eisen",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1038,
+	"stages": 1,
+	"stage1": {
+		"title": "Eisiges Eisen",
+		"description": "Erhalte eine antike Waffe aus Sternsilber.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Ira dos Deuses",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1046,
+	"stages": 1,
+	"stage1": {
+		"title": "Ira dos Deuses",
+		"description": "Seja atingido por um raio",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

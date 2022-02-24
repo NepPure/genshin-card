@@ -1,0 +1,16 @@
+{
+	"name": "옛 신령과의 대화",
+	"achievementgroup": "천지만물",
+	"ishidden": true,
+	"sortorder": 5001,
+	"stages": 1,
+	"stage1": {
+		"title": "옛 신령과의 대화",
+		"description": "옛 신령 1명의 스토리 듣기",
+		"progress": 1,
+		"reward": {
+			"name": "원석",
+			"count": 5
+		}
+	}
+}

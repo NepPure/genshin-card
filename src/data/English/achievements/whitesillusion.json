@@ -1,0 +1,16 @@
+{
+	"name": "White's Illusion",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1156,
+	"stages": 1,
+	"stage1": {
+		"title": "White's Illusion",
+		"description": "Encounter the illusions of the ancient past",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

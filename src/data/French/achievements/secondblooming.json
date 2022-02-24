@@ -1,0 +1,17 @@
+{
+	"name": "Seconde floraison",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1117,
+	"stages": 1,
+	"stage1": {
+		"title": "Seconde floraison",
+		"ps5title": "Inazuma - Seconde floraison",
+		"description": "Obtenez le cadeau de Hanayama Kaoru.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

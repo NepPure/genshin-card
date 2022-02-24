@@ -1,0 +1,16 @@
+{
+	"name": "Kisah Putri Duyung",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 1137,
+	"stages": 1,
+	"stage1": {
+		"title": "Kisah Putri Duyung",
+		"description": "Bantu Kumi selesaikan masalahnya.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Avatar Divino",
+	"achievementgroup": "Inazuma: A Ilha dos Trovões e da Eternidade - Parte I",
+	"sortorder": 79,
+	"stages": 1,
+	"stage1": {
+		"title": "Avatar Divino",
+		"ps5title": "Inazuma - Avatar Divino",
+		"description": "Alcance o nível máximo para Graça da Sakura Sagrada.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

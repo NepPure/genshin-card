@@ -1,0 +1,15 @@
+{
+	"name": "Master Sniper",
+	"achievementgroup": "Marksmanship",
+	"sortorder": 2002,
+	"stages": 1,
+	"stage1": {
+		"title": "Master Sniper",
+		"description": "Strike an opponent's weak point from afar with an Aimed Shot.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Moshiri Kara",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1166,
+	"stages": 1,
+	"stage1": {
+		"title": "Moshiri Kara",
+		"description": "Unlock Moshiri Kara.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "วังในสระน้ำ",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1141,
+	"stages": 1,
+	"stage1": {
+		"title": "วังในสระน้ำ",
+		"description": "ปลดล็อก \"วังในสระน้ำ\"",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

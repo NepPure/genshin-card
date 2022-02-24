@@ -1,0 +1,16 @@
+{
+	"name": "Хотя бы заканчивается",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4065,
+	"stages": 1,
+	"stage1": {
+		"title": "Хотя бы заканчивается",
+		"description": "Дослушайте историю Дзюнкити до конца.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Потрясающий роман",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 4049,
+	"stages": 1,
+	"stage1": {
+		"title": "Потрясающий роман",
+		"description": "Подсмотрите в рукопись Чана Девятого.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

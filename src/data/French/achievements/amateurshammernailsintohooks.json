@@ -1,0 +1,15 @@
+{
+	"name": "Mieux vaut apprendre à pêcher...",
+	"achievementgroup": "Guide de pêche en Teyvat - Partie I",
+	"sortorder": 1123,
+	"stages": 1,
+	"stage1": {
+		"title": "Mieux vaut apprendre à pêcher...",
+		"description": "Attrapez votre premier poisson.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

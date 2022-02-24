@@ -1,0 +1,16 @@
+{
+	"name": "\"Tokoyo Ookami Nếu Có Biết...\"",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 1178,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Tokoyo Ookami Nếu Có Biết...\"",
+		"description": "Hoàn trả tất cả sách và...",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

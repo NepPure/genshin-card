@@ -1,0 +1,16 @@
+{
+	"name": "«А какая разница?»",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1179,
+	"stages": 1,
+	"stage1": {
+		"title": "«А какая разница?»",
+		"description": "Посидите в каждом особом месте.",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

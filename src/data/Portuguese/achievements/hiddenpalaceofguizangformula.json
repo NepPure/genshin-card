@@ -1,0 +1,16 @@
+{
+	"name": "Palácio Oculto da Fórmula Guizang",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 1014,
+	"stages": 1,
+	"stage1": {
+		"title": "Palácio Oculto da Fórmula Guizang",
+		"description": "Siga os passos dos imortais e desbloqueie a porta do Domínio.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

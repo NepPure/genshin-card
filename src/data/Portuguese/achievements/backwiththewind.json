@@ -1,0 +1,16 @@
+{
+	"name": "De Volta com o Vento",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 2079,
+	"stages": 1,
+	"stage1": {
+		"title": "De Volta com o Vento",
+		"description": "Absorver no mínimo 10 Orbes Elementais criadas por Hypostasis Anemo em um combate.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Fiesta en la cárcel",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 5021,
+	"stages": 1,
+	"stage1": {
+		"title": "Fiesta en la cárcel",
+		"description": "Rescata al Maestro Masakatsu.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

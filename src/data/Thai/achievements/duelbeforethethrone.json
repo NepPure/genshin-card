@@ -1,0 +1,16 @@
+{
+	"name": "การต่อสู้แห่งความเป็นและความตาย",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 5029,
+	"stages": 1,
+	"stage1": {
+		"title": "การต่อสู้แห่งความเป็นและความตาย",
+		"description": "เอาชนะใน \"การประลองต่อหน้าท่านโชกุน\"",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

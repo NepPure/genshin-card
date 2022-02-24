@@ -1,0 +1,15 @@
+{
+	"name": "La profundidad de las tinieblas de la noche",
+	"achievementgroup": "La claridad del día",
+	"sortorder": 130,
+	"stages": 1,
+	"stage1": {
+		"title": "La profundidad de las tinieblas de la noche",
+		"description": "Descubre el mapa de Enkanomiya.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -64,6 +64,42 @@ const associationToRegion = {
 
 /* ============================================ FUNCTIONS =================================================== */
 
+async function stealWikiaVersion(folder) {
+	const fs = require('fs');
+	async function getWikiaVersion(name) {
+		const https = require('https');
+		return new Promise(resolve => {
+			https.get(`https://genshin-impact.fandom.com/wiki/${name}`, function(res) {
+				let data = '';
+				res.on('data', function(chunk) { data += chunk; });
+				res.on('end', function() {
+					const regex = /<a href="\/wiki\/Version\/(.*?)"/gm;
+					const found = regex.exec(data)
+					if(found) resolve(found[1]);
+					else resolve("");
+				});
+			}).on('error', function() {
+				console.log('error');
+			});
+		});
+	}
+
+	function encodeHTML(str) { return str.replaceAll(' ', '_').replaceAll('&', '%26'); }
+
+	const myversion = require(`./src/data/version/${folder}`);
+	const filenamelist = fs.readdirSync(`./src/data/English/${folder}`);
+	for(let filename of filenamelist) {
+		const mydata = require(`./src/data/English/${folder}/${filename}`);
+		const tmp = await getWikiaVersion(encodeHTML(mydata.name));
+		if(tmp) {
+			myversion[filename.substring(0, filename.indexOf('.'))] = tmp;
+		}
+		console.log(mydata.name + ', ' + tmp);
+	}
+
+	fs.writeFileSync(`./src/data/version/${folder}.json`, JSON.stringify(myversion, null, '\t'));
+}
+
 async function getCharList(region) {
 	const https = require('https');
 	return new Promise(resolve => {
@@ -149,6 +185,13 @@ function updateURLs() {
 	}
 }
 
+function copyPropsIfExist(from, to, props, setdefault) {
+	for(let prop of props) {
+		if(from && from[prop] !== undefined) to[prop] = from[prop];
+		else to[prop] = setdefault;
+	}
+}
+
 function collateCharacter(existing, newdata, lang) {
 	newdata.aliases = existing.aliases;
 	newdata.images = {};
@@ -205,6 +248,17 @@ function collateCharacter(existing, newdata, lang) {
 	existing.costs = newdata.costs;
 	// existing.talentmaterialtype = newdata.talentmaterialtype || '';
 	existing.url = newdata.url;
+}
+
+function collateOutfit(existing, newdata, lang) {
+	clearObject(existing);
+	copyPropsIfExist(newdata, existing, ['name', 'description', 'isdefault', 'character', 'source']);
+	if(lang === 'English') {
+		newdata.images = {};
+		copyPropsIfExist(newdata, newdata.images, ['namecard', 'nameicon', 'namesplash', 'namesideicon']);
+		if(!newdata.url) newdata.url = {};
+		if(!newdata.url.modelviewer) newdata.url.modelviewer = '';
+	}
 }
 
 function collateConstellation(existing, newdata, lang) {
@@ -374,14 +428,43 @@ function collateDomain(existing, newdata, lang) {
 
 function collateEnemy(existing, newdata, lang) {
 	clearObject(existing);
-	const copyover = ['name', 'specialname', 'enemytype', 'category', 'description', 'investigation', 'rewardpreview'];
-	existing.name = newdata.name;
-	for(let prop of copyover) {
-		if(newdata[prop] !== undefined) existing[prop] = newdata[prop];
-	}
+	copyPropsIfExist(newdata, existing, ['name', 'specialname', 'enemytype', 'category', 'description', 'investigation', 'rewardpreview'])
 	if(lang === 'English') {
 		newdata.images = {};
 		if(newdata.imageicon) newdata.images.nameicon = newdata.imageicon;
+	}
+}
+
+function collateAchievement(existing, newdata, lang) {
+	clearObject(existing);
+	copyPropsIfExist(newdata, existing, ['name', 'achievementgroup', 'ishidden', 'sortorder', 'stages', 'stage1', 'stage2', 'stage3']);
+}
+
+function collateAchievementGroup(existing, newdata, lang) {
+	clearObject(existing);
+	copyPropsIfExist(newdata, existing, ['name', 'sortorder', 'reward']);
+	if(lang === 'English') {
+		newdata.images = {};
+		newdata.images.nameicon = newdata.nameicon;
+	}
+}
+
+function collateWindGlider(existing, newdata, lang) {
+	clearObject(existing);
+	copyPropsIfExist(newdata, existing, ['name', 'description', 'rarity', 'sortorder', 'ishidden', 'source']);
+	if(lang === 'English') {
+		newdata.images = {};
+		newdata.images.nameicon = newdata.nameicon;
+		newdata.images.namegacha = newdata.namegacha;
+	}
+}
+
+function collateAnimal(existing, newdata, lang) {
+	clearObject(existing);
+	copyPropsIfExist(newdata, existing, ['name', 'description', 'category', 'capturable', 'sortorder']);
+	if(lang === 'English') {
+		newdata.images = {};
+		newdata.images.nameicon = newdata.nameicon;
 	}
 }
 
@@ -404,16 +487,53 @@ function applyPatch(folder, data, langC, filename) {
 	}
 }
 
+let gameVersion = "";
+function updateVersions(filenames, folder) {
+	let existing = {};
+	let myversions = {};
+	try { existing = require(`./src/data/version/${folder}.json`); } catch(e) {}
+
+	for(const filename of filenames) {
+		myversions[filename] = existing[filename] ? JSON.parse(JSON.stringify(existing[filename])) : gameVersion;
+	}
+	writeFileIfDifferent(`./src/data/version/${folder}.json`, myversions);
+}
+
+function addURLsEmpty(filenames, folder, props) {
+	if(fs.existsSync(`./src/data/English/${folder}`)) {
+		let existing = {}
+		let myurls = {};
+		try { existing = require(`./src/data/url/${folder}.json`); } catch(e) {};
+
+		for(const filename of filenames) {
+			myurls[filename] = existing[filename] ? JSON.parse(JSON.stringify(existing[filename])) : {};
+
+			copyPropsIfExist(existing[filename], myurls[filename], props, '')
+		}
+		writeFileIfDifferent(`./src/data/url/${folder}.json`, myurls);
+	}
+}
+
+function writeFileIfDifferent(path, data) {
+	let existing = {};
+	try { existing = require(path); } catch {};
+	if(JSON.stringify(existing) !== JSON.stringify(data)) {
+		if(path.lastIndexOf('/') !== -1)
+			fs.mkdirSync(path.substring(0, path.lastIndexOf('/')), { recursive: true });
+		fs.writeFileSync(path, JSON.stringify(data, null, '\t'));
+	}
+}
+
 function importData(folder, collateFunc, dontwrite, deleteexisting, skipimageredirect) {
 	language.languageCodes.forEach(async (langC) => {
 		if(dontwrite && langC !== 'EN') return; 
 		// if(langC !== 'EN') return;
-		let newaggregateddata = require(`./import/${langC}/${folder}.json`);
+		let newaggregateddata = JSON.parse(JSON.stringify(require(`./import/${langC}/${folder}.json`)));
 		let myimages = {}; // only do this once
 		let mystats = {}; // only do this once
 		if(langC === 'EN') {
 			try {
-				myimages = require(`./src/data/image/${folder}.json`)
+				myimages = JSON.parse(JSON.stringify(require(`./src/data/image/${folder}.json`)));
 			} catch(e) {}
 		}
 
@@ -422,7 +542,9 @@ function importData(folder, collateFunc, dontwrite, deleteexisting, skipimagered
 			fs.rmdirSync(`./src/data/${basepath}`, { recursive: true });
 		}
 
+		const filenamelist = [];
 		for(const [filename, newdata] of Object.entries(newaggregateddata)) {
+			filenamelist.push(filename);
 			let existing = getJSON(`${basepath}/${filename}.json`);
 			if(existing === undefined) existing = {};
 			newdata.aliases = existing.aliases;
@@ -445,20 +567,31 @@ function importData(folder, collateFunc, dontwrite, deleteexisting, skipimagered
 			fs.writeFileSync(`./src/data/${basepath}/${filename}.json`, JSON.stringify(existing, null, '\t'));
 		}
 
-		if(langC === 'EN') {
-			fs.mkdirSync(`./src/data/image`, { recursive: true });
-			fs.writeFileSync(`./src/data/image/${folder}.json`, JSON.stringify(myimages, null, '\t'));
-			if(['characters', 'weapons', 'talents', 'enemies'].includes(folder)) {
-				fs.mkdirSync(`./src/data/stats`, { recursive: true });
-				fs.writeFileSync(`./src/data/stats/${folder}.json`, JSON.stringify(mystats, null, '\t'));
+		// remove unused files
+		fs.readdirSync(`./src/data/${language.languageMap[langC]}/${folder}`).forEach(file => {
+			if(!filenamelist.includes(file.substring(0, file.indexOf('.')))) {
+				try { fs.unlinkSync(`./src/data/${language.languageMap[langC]}/${folder}/${file}`); } catch(e) {}
+				console.log(`removed unused ${file}`);
 			}
+		})
+
+		if(langC === 'EN') {
+			if(folder !== 'achievements')
+				writeFileIfDifferent(`./src/data/image/${folder}.json`, myimages);
+			updateVersions(filenamelist, folder);
+			if(folder === 'outfits')
+				addURLsEmpty(filenamelist, folder, ['modelviewer']);
+			if(['characters', 'weapons', 'talents', 'enemies'].includes(folder))
+				writeFileIfDifferent(`./src/data/stats/${folder}.json`, mystats);
+
 		}
 	});
 }
 
-
+gameVersion = ""; // new data will use this as added version
 // importData('characters', collateCharacter);
 // importCurve('characters');
+// importData('outfits', collateOutfit);
 // importData('constellations', collateConstellation);
 // importData('talents', collateTalent);
 // importData('weapons', collateWeapon)
@@ -470,5 +603,12 @@ function importData(folder, collateFunc, dontwrite, deleteexisting, skipimagered
 // importData('enemies', collateEnemy);
 // importCurve('enemies');
 
-getUpperBodyImages(); // must be separate // cover1, cover2
+// importData('achievements', collateAchievement);
+// importData('achievementgroups', collateAchievementGroup);
+importData('windgliders', collateWindGlider);
+importData('animals', collateAnimal);
+
+// getUpperBodyImages(); // must be separate // cover1, cover2
 // updateURLs(); // must be separate
+
+// stealWikiaVersion('animals');

@@ -1,0 +1,36 @@
+{
+	"name": "Thợ Săn Kho Báu Bàn Nham",
+	"achievementgroup": "Liyue - Bến cảng của đá và khế ước",
+	"sortorder": 50,
+	"stages": 3,
+	"stage1": {
+		"title": "Thợ Săn Kho Báu Bàn Nham",
+		"ps5title": "Thợ Săn Kho Báu Bàn Nham (I)",
+		"description": "Mở 200 rương báu ở Liyue.",
+		"progress": 200,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Thợ Săn Kho Báu Bàn Nham",
+		"ps5title": "Thợ Săn Kho Báu Bàn Nham (II)",
+		"description": "Mở 400 rương báu ở Liyue.",
+		"progress": 400,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Thợ Săn Kho Báu Bàn Nham",
+		"ps5title": "Thợ Săn Kho Báu Bàn Nham (III)",
+		"description": "Mở 800 rương báu ở Liyue.",
+		"progress": 800,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 20
+		}
+	}
+}

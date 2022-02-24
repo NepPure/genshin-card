@@ -1,0 +1,16 @@
+{
+	"name": "El último adiós",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 4024,
+	"stages": 1,
+	"stage1": {
+		"title": "El último adiós",
+		"description": "Participa en el Rito del Ascenso.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

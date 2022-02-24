@@ -1,0 +1,16 @@
+{
+	"name": "Movimentos do Destino",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5007,
+	"stages": 1,
+	"stage1": {
+		"title": "Movimentos do Destino",
+		"description": "Concluir missão \"Buscador da Verdade·Dainsleif\".",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Skyfrost Nail",
+	"achievementgroup": "Visitors on the Icy Mountain",
+	"sortorder": 67,
+	"stages": 1,
+	"stage1": {
+		"title": "Skyfrost Nail",
+		"ps5title": "Dragonspine: Skyfrost Nail",
+		"description": "Raise the strange column.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

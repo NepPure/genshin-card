@@ -1,0 +1,16 @@
+{
+	"name": "Novel ini Luar Biasa!",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 4049,
+	"stages": 1,
+	"stage1": {
+		"title": "Novel ini Luar Biasa!",
+		"description": "Intip naskah Chang the Ninth.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

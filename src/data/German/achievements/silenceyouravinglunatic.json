@@ -1,0 +1,16 @@
+{
+	"name": "Schweig, du rasender Verrückter",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 5011,
+	"stages": 1,
+	"stage1": {
+		"title": "Schweig, du rasender Verrückter",
+		"description": "Besiege den Abgrundboten.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

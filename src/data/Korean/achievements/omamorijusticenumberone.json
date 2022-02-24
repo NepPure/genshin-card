@@ -1,0 +1,16 @@
+{
+	"name": "부적, 인의, 천하",
+	"achievementgroup": "천지만물",
+	"ishidden": true,
+	"sortorder": 5020,
+	"stages": 1,
+	"stage1": {
+		"title": "부적, 인의, 천하",
+		"description": "「세 개의 소원」 완료하기",
+		"progress": 1,
+		"reward": {
+			"name": "원석",
+			"count": 5
+		}
+	}
+}

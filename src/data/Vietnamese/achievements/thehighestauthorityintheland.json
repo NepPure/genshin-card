@@ -1,0 +1,15 @@
+{
+	"name": "Quyền Năng Tokoyo",
+	"achievementgroup": "Ánh Sáng Ban Trưa",
+	"sortorder": 131,
+	"stages": 1,
+	"stage1": {
+		"title": "Quyền Năng Tokoyo",
+		"description": "Mở khóa toàn bộ điểm dịch chuyển ở Enkanomiya.",
+		"progress": 24,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

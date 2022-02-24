@@ -1,0 +1,15 @@
+{
+	"name": "Pemburu Badai Seirai",
+	"achievementgroup": "Inazuma: Pulau Petir dan Keabadian (II)",
+	"sortorder": 111,
+	"stages": 1,
+	"stage1": {
+		"title": "Pemburu Badai Seirai",
+		"description": "Menyelesaikan \"Pemburu Badai Seirai\".",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	}
+}

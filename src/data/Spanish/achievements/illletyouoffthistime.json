@@ -1,0 +1,16 @@
+{
+	"name": "Esta vez te dejaré ir",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 4022,
+	"stages": 1,
+	"stage1": {
+		"title": "Esta vez te dejaré ir",
+		"description": "Derrota a Nobile.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Tiupan Seribu Angin",
+	"achievementgroup": "Mondstadt: Kota Angin dan Lagu",
+	"sortorder": 31,
+	"stages": 1,
+	"stage1": {
+		"title": "Tiupan Seribu Angin",
+		"ps5title": "Mondstadt: Tiupan Seribu Angin",
+		"description": "Buka seluruh Teleport Waypoint Mondstadt (tidak termasuk di area Dragonspine).",
+		"progress": 22,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Fog's Edge",
+	"achievementgroup": "The Chronicles of the Sea of Fog",
+	"sortorder": 114,
+	"stages": 1,
+	"stage1": {
+		"title": "Fog's Edge",
+		"description": "Unlock all Teleport Waypoints in Tsurumi Island.",
+		"progress": 7,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

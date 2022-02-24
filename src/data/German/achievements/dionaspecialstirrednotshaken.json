@@ -1,0 +1,15 @@
+{
+	"name": "Dionas Spezialmischung, gerührt, nicht geschüttelt",
+	"achievementgroup": "Erinnerungen des Herzens",
+	"sortorder": 6500,
+	"stages": 1,
+	"stage1": {
+		"title": "Dionas Spezialmischung, gerührt, nicht geschüttelt",
+		"description": "Schließe „Kätzchen mit Spezialgetränk“ ab und schalte alle Ausgänge frei.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

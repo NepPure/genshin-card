@@ -1,0 +1,16 @@
+{
+	"name": "Дом у пруда",
+	"achievementgroup": "Чудеса света",
+	"ishidden": true,
+	"sortorder": 1141,
+	"stages": 1,
+	"stage1": {
+		"title": "Дом у пруда",
+		"description": "Откройте «Дом у пруда».",
+		"progress": 1,
+		"reward": {
+			"name": "Камень Истока",
+			"count": 5
+		}
+	}
+}

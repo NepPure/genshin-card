@@ -1,0 +1,16 @@
+{
+	"name": "Ewiger Donner",
+	"achievementgroup": "Inazuma: Die Inseln des Donners und der Ewigkeit – Teil 1",
+	"sortorder": 78,
+	"stages": 1,
+	"stage1": {
+		"title": "Ewiger Donner",
+		"ps5title": "Inazuma – Ewiger Donner",
+		"description": "Opfere einer Statue der Sieben im Gebiet von Inazuma und erreiche die Höchststufe dabei.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

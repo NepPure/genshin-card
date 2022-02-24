@@ -1,0 +1,36 @@
+{
+	"name": "Stets nach vorn",
+	"achievementgroup": "Reise eines Helden",
+	"sortorder": 14,
+	"stages": 3,
+	"stage1": {
+		"title": "Stets nach vorn",
+		"ps5title": "Stets nach vorn I",
+		"description": "Erreiche das erste Mal Durchbruchsstufe 2 für eine Figur.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Stets nach vorn",
+		"ps5title": "Stets nach vorn II",
+		"description": "Erreiche das erste Mal Durchbruchsstufe 4 für eine Figur.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Stets nach vorn",
+		"ps5title": "Stets nach vorn III",
+		"description": "Erreiche das erste Mal Durchbruchsstufe 6 für eine Figur.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 20
+		}
+	}
+}

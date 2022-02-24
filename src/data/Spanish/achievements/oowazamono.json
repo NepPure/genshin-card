@@ -1,0 +1,16 @@
+{
+	"name": "Oowazamono",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 1116,
+	"stages": 1,
+	"stage1": {
+		"title": "Oowazamono",
+		"description": "Derrota con facilidad a Masanori.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 5
+		}
+	}
+}

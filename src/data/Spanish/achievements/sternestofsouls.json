@@ -1,0 +1,16 @@
+{
+	"name": "Espíritu perseverante",
+	"achievementgroup": "Maravillas del mundo",
+	"ishidden": true,
+	"sortorder": 2088,
+	"stages": 1,
+	"stage1": {
+		"title": "Espíritu perseverante",
+		"description": "Derrota a Azhdaha en todas sus formas.",
+		"progress": 1,
+		"reward": {
+			"name": "Protogema",
+			"count": 20
+		}
+	}
+}

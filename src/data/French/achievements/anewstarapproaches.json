@@ -1,0 +1,17 @@
+{
+	"name": "Une étoile en approche",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 4025,
+	"stages": 1,
+	"stage1": {
+		"title": "Une étoile en approche",
+		"ps5title": "Voyage - Une étoile en approche",
+		"description": "Terminez « Une étoile en approche ».",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

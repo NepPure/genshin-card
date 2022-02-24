@@ -1,0 +1,16 @@
+{
+	"name": "Love and Non-Communication",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 2112,
+	"stages": 1,
+	"stage1": {
+		"title": "Love and Non-Communication",
+		"description": "Defeat a Thunder Manifestation without ever being locked onto.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Pélerinage sacré : Inazuma (2)",
+	"achievementgroup": "Inazuma : Archipel de la foudre éternelle - II",
+	"sortorder": 98,
+	"stages": 1,
+	"stage1": {
+		"title": "Pélerinage sacré : Inazuma (2)",
+		"description": "Débloquez tous les Sanctuaires des profondeurs de l'Île de Watatsumi et de l'Île de Seirai dans la région d'Inazuma.",
+		"progress": 2,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 10
+		}
+	}
+}

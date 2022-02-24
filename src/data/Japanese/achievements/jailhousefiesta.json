@@ -1,0 +1,16 @@
+{
+	"name": "牢屋敷の花火大会",
+	"achievementgroup": "天地万象",
+	"ishidden": true,
+	"sortorder": 5021,
+	"stages": 1,
+	"stage1": {
+		"title": "牢屋敷の花火大会",
+		"description": "正勝先生を救出する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	}
+}

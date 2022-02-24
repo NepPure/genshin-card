@@ -1,0 +1,16 @@
+{
+	"name": "Contre vents et marées",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 5016,
+	"stages": 1,
+	"stage1": {
+		"title": "Contre vents et marées",
+		"description": "Atteignez la colonie d'étrangers.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

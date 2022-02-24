@@ -1,0 +1,16 @@
+{
+	"name": "\"Aberto para Interpretação\"",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4050,
+	"stages": 1,
+	"stage1": {
+		"title": "\"Aberto para Interpretação\"",
+		"description": "Destrua 4 sinais de um romance iminente.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

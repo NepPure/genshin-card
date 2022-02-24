@@ -1,0 +1,15 @@
+{
+	"name": "Le roi maudit",
+	"achievementgroup": "Au défi ! - Partie IV",
+	"sortorder": 2095,
+	"stages": 1,
+	"stage1": {
+		"title": "Le roi maudit",
+		"description": "Vainquez un Chef Brutoélectrique lorsqu'il est renforcé.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

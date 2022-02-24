@@ -1,0 +1,16 @@
+{
+	"name": "Montanha Imóvel",
+	"achievementgroup": "Liyue: O Porto de Pedra e dos Contratos",
+	"sortorder": 45,
+	"stages": 1,
+	"stage1": {
+		"title": "Montanha Imóvel",
+		"ps5title": "Liyue: Montanha Imóvel",
+		"description": "Fortaleça as Estátuas dos Sete em Liyue até Nv.Máximo.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

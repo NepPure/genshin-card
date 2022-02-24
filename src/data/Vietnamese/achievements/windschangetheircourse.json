@@ -1,0 +1,16 @@
+{
+	"name": "Hướng gió sẽ thay đổi",
+	"achievementgroup": "Thế giới muôn màu",
+	"ishidden": true,
+	"sortorder": 4009,
+	"stages": 1,
+	"stage1": {
+		"title": "Hướng gió sẽ thay đổi",
+		"description": "Được Dvalin cứu giúp.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 5
+		}
+	}
+}

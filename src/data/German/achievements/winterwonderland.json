@@ -1,0 +1,16 @@
+{
+	"name": "Eine winterliche Geschichte",
+	"achievementgroup": "Wunder der Welt",
+	"ishidden": true,
+	"sortorder": 1042,
+	"stages": 1,
+	"stage1": {
+		"title": "Eine winterliche Geschichte",
+		"description": "Entdecke einen Kryo-Kristallschmetterling unter einem Haufen Schnee.",
+		"progress": 1,
+		"reward": {
+			"name": "Urgestein",
+			"count": 5
+		}
+	}
+}

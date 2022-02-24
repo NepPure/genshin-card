@@ -1,0 +1,36 @@
+{
+	"name": "赤の新芽",
+	"achievementgroup": "雪山の来客",
+	"sortorder": 64,
+	"stages": 3,
+	"stage1": {
+		"title": "赤の新芽",
+		"ps5title": "赤の新芽·1",
+		"description": "冬忍びの樹をLv.4まで奉納する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "赤の新芽",
+		"ps5title": "赤の新芽·2",
+		"description": "冬忍びの樹をLv.8まで奉納する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "赤の新芽",
+		"ps5title": "赤の新芽·3",
+		"description": "冬忍びの樹をLv.12まで奉納する。",
+		"progress": 1,
+		"reward": {
+			"name": "原石",
+			"count": 20
+		}
+	}
+}

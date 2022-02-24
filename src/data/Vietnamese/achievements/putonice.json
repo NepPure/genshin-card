@@ -1,0 +1,15 @@
+{
+	"name": "Kế hoạch phá băng tương lai",
+	"achievementgroup": "Gặp ở thế giới khác - Phần II",
+	"sortorder": 9017,
+	"stages": 1,
+	"stage1": {
+		"title": "Kế hoạch phá băng tương lai",
+		"description": "Cùng người chơi khác chiến thắng Băng Nguyên Bản.",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

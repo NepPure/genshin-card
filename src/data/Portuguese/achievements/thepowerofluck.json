@@ -1,0 +1,16 @@
+{
+	"name": "O Poder da Sorte!",
+	"achievementgroup": "Memória do Coração",
+	"ishidden": true,
+	"sortorder": 6011,
+	"stages": 1,
+	"stage1": {
+		"title": "O Poder da Sorte!",
+		"description": "Ative os mecanismos e obtenha o tesouro sem cometer erros.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

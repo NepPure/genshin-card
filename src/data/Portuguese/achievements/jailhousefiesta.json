@@ -1,0 +1,16 @@
+{
+	"name": "Festa na Prisão",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5021,
+	"stages": 1,
+	"stage1": {
+		"title": "Festa na Prisão",
+		"description": "Resgate Masakatsu com sucesso.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

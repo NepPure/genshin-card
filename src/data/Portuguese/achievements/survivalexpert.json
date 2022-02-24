@@ -1,0 +1,33 @@
+{
+	"name": "Especialista em Sobrevivência",
+	"achievementgroup": "A Arte da Aventura",
+	"sortorder": 8,
+	"stages": 3,
+	"stage1": {
+		"title": "Especialista em Sobrevivência",
+		"description": "Aprenda 10 Receitas.",
+		"progress": 10,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Especialista em Sobrevivência",
+		"description": "Aprenda 20 receitas.",
+		"progress": 20,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Especialista em Sobrevivência",
+		"description": "Aprenda 40 receitas.",
+		"progress": 40,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 20
+		}
+	}
+}

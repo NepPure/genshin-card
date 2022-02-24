@@ -1,0 +1,16 @@
+{
+	"name": "Onipresença Sobre os Mortais",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 5031,
+	"stages": 1,
+	"stage1": {
+		"title": "Onipresença Sobre os Mortais",
+		"description": "Conclua \"Onipresença Sobre os Mortais\"",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 10
+		}
+	}
+}

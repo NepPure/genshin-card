@@ -1,0 +1,33 @@
+{
+	"name": "Petualang Penunggang Petir (I)",
+	"achievementgroup": "Inazuma: Pulau Petir dan Keabadian (I)",
+	"sortorder": 93,
+	"stages": 3,
+	"stage1": {
+		"title": "Petualang Penunggang Petir (I)",
+		"description": "Menyelesaikan 6 tantangan waktu terbatas di Narukami Island, Kannazuka, dan Yashiori Island di wilayah Inazuma.",
+		"progress": 6,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	},
+	"stage2": {
+		"title": "Petualang Penunggang Petir (I)",
+		"description": "Menyelesaikan 12 tantangan waktu terbatas di Narukami Island, Kannazuka, dan Yashiori Island di wilayah Inazuma.",
+		"progress": 12,
+		"reward": {
+			"name": "Primogem",
+			"count": 10
+		}
+	},
+	"stage3": {
+		"title": "Petualang Penunggang Petir (I)",
+		"description": "Menyelesaikan 24 tantangan waktu terbatas di Narukami Island, Kannazuka, dan Yashiori Island di wilayah Inazuma.",
+		"progress": 24,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

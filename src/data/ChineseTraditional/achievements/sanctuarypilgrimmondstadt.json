@@ -1,0 +1,15 @@
+{
+	"name": "聖龕巡禮·蒙德",
+	"achievementgroup": "蒙德·風與牧歌的城邦",
+	"sortorder": 33,
+	"stages": 1,
+	"stage1": {
+		"title": "聖龕巡禮·蒙德",
+		"description": "解除蒙德所有地靈龕的封印。",
+		"progress": 10,
+		"reward": {
+			"name": "原石",
+			"count": 10
+		}
+	}
+}

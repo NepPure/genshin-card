@@ -1,0 +1,16 @@
+{
+	"name": "Pemandangan di Dalam Poci...",
+	"achievementgroup": "Alam Lain: Seri I",
+	"ishidden": true,
+	"sortorder": 1050,
+	"stages": 1,
+	"stage1": {
+		"title": "Pemandangan di Dalam Poci...",
+		"description": "Gunakan Serenitea Pot untuk masuk ke dalam Alam Poci.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

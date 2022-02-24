@@ -1,0 +1,15 @@
+{
+	"name": "คนสวนต้องไม่กลัวหนาว",
+	"achievementgroup": "ผู้ท้าทาย - ชุดที่ 2",
+	"sortorder": 2058,
+	"stages": 1,
+	"stage1": {
+		"title": "คนสวนต้องไม่กลัวหนาว",
+		"description": "ทำให้ Cryo Regisvine เป็นอัมพาต ด้วยการโจมตีจุดอ่อน",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

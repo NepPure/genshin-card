@@ -1,0 +1,16 @@
+{
+	"name": "วิญญาณในที่ไร้วิญญาณ",
+	"achievementgroup": "สิ่งมหัศจรรย์บนโลก",
+	"ishidden": true,
+	"sortorder": 1109,
+	"stages": 1,
+	"stage1": {
+		"title": "วิญญาณในที่ไร้วิญญาณ",
+		"description": "พบข้าวของของ Washizu",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

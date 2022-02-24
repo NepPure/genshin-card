@@ -1,0 +1,16 @@
+{
+	"name": "Uma Questão de Dieta",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4057,
+	"stages": 1,
+	"stage1": {
+		"title": "Uma Questão de Dieta",
+		"description": "Ajude Parvaneh a revisar todas as receitas.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

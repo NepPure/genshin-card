@@ -1,0 +1,16 @@
+{
+	"name": "Opinião Editorial",
+	"achievementgroup": "Isso é uma ordem",
+	"ishidden": true,
+	"sortorder": 4062,
+	"stages": 1,
+	"stage1": {
+		"title": "Opinião Editorial",
+		"description": "Ajude Shigeru e Junkichi a retornar ao caminho certo do artista.",
+		"progress": 1,
+		"reward": {
+			"name": "Gema Essencial",
+			"count": 5
+		}
+	}
+}

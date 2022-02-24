@@ -1,0 +1,16 @@
+{
+	"name": "Anna's Adventures",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 5033,
+	"stages": 1,
+	"stage1": {
+		"title": "Anna's Adventures",
+		"description": "Help Anna become an adventurer.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

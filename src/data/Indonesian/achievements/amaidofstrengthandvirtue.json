@@ -1,0 +1,15 @@
+{
+	"name": "Pelayan Paling Sempurna dan Tangguh",
+	"achievementgroup": "Ingatan Hati",
+	"sortorder": 6300,
+	"stages": 1,
+	"stage1": {
+		"title": "Pelayan Paling Sempurna dan Tangguh",
+		"description": "Selesaikan quest \"Pelatihan Knight\" dan buka semua akhir cerita.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 20
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Traverse the Fog Door",
+	"achievementgroup": "Wonders of the World",
+	"ishidden": true,
+	"sortorder": 1153,
+	"stages": 1,
+	"stage1": {
+		"title": "Traverse the Fog Door",
+		"description": "Get used to Tsurumi Island's odd weather.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

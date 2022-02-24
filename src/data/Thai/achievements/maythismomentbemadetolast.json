@@ -1,0 +1,16 @@
+{
+	"name": "ขอให้ช่วงเวลานี้คงอยู่ตลอดไป",
+	"achievementgroup": "ความทรงจำ ของหัวใจ",
+	"ishidden": true,
+	"sortorder": 7110,
+	"stages": 1,
+	"stage1": {
+		"title": "ขอให้ช่วงเวลานี้คงอยู่ตลอดไป",
+		"description": "ถ่ายรูปคู่กับ Yun Jin เพื่อเก็บไว้เป็นที่ระลึก",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

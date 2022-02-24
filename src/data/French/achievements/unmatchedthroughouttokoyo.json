@@ -1,0 +1,16 @@
+{
+	"name": "« Sans pareil dans tout Tokoyo »",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 1175,
+	"stages": 1,
+	"stage1": {
+		"title": "« Sans pareil dans tout Tokoyo »",
+		"description": "Obtenez la reconnaissance des jibashiri.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

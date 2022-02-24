@@ -1,0 +1,17 @@
+{
+	"name": "Seratus Kisah Para Monster",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 92,
+	"stages": 1,
+	"stage1": {
+		"title": "Seratus Kisah Para Monster",
+		"ps5title": "Eksplorasi: Seratus Kisah Para Monster",
+		"description": "Mengumpulkan semua jilid buku \"Kisah Gang Toki\".",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

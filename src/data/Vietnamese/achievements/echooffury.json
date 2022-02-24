@@ -1,0 +1,15 @@
+{
+	"name": "Tiếng Vọng Oán Hận",
+	"achievementgroup": "Inazuma - Quần Đảo Sét Và Vĩnh Hằng (I)",
+	"sortorder": 91,
+	"stages": 1,
+	"stage1": {
+		"title": "Tiếng Vọng Oán Hận",
+		"description": "Hoàn thành chuỗi nhiệm vụ \"Di Sản Orobashi\".",
+		"progress": 1,
+		"reward": {
+			"name": "Nguyên Thạch",
+			"count": 10
+		}
+	}
+}

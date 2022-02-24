@@ -1,0 +1,15 @@
+{
+	"name": "สำรวจโลกกว้าง - Dragonspine",
+	"achievementgroup": "แขกผู้มาเยือนภูเขาหิมะ",
+	"sortorder": 56,
+	"stages": 1,
+	"stage1": {
+		"title": "สำรวจโลกกว้าง - Dragonspine",
+		"description": "เปิดแผนที่ของ Dragonspine",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}

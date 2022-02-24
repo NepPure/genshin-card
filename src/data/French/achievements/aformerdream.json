@@ -1,0 +1,16 @@
+{
+	"name": "Un rêve d'antan",
+	"achievementgroup": "Merveilles du monde",
+	"ishidden": true,
+	"sortorder": 5037,
+	"stages": 1,
+	"stage1": {
+		"title": "Un rêve d'antan",
+		"description": "Soyez témoin de la vérité de l'histoire du village.",
+		"progress": 1,
+		"reward": {
+			"name": "Primo-gemme",
+			"count": 5
+		}
+	}
+}

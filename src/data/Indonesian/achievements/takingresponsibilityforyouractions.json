@@ -1,0 +1,16 @@
+{
+	"name": "Bertanggung Jawab",
+	"achievementgroup": "Keajaiban Dunia",
+	"ishidden": true,
+	"sortorder": 4039,
+	"stages": 1,
+	"stage1": {
+		"title": "Bertanggung Jawab",
+		"description": "Minta maaf ke Timmie.",
+		"progress": 1,
+		"reward": {
+			"name": "Primogem",
+			"count": 5
+		}
+	}
+}
