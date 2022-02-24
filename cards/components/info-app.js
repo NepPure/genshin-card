@@ -78,12 +78,12 @@ export default Vue.defineComponent({
 			talent = 10;
 		}
 
-		let data = GenshinDB.character(name);
+		let data = GenshinDb.character(name);
 
 		if (data) {
 			data.type = 'character';
 		} else {
-			data = GenshinDB.weapon(name);
+			data = GenshinDb.weapon(name);
 			if (data) {
 				data.type = 'weapon';
 			}
@@ -110,8 +110,8 @@ export default Vue.defineComponent({
 		data.baseATK = parseInt(stats.attack.toFixed(0));
 
 		if (data.type === 'character') {
-			const talents = GenshinDB.talents(name);
-			const constellation = GenshinDB.constellations(name);
+			const talents = GenshinDb.talents(name);
+			const constellation = GenshinDb.constellations(name);
 
 			//处理基础信息
 			if (data.images.cover1) {

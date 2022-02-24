@@ -151,7 +151,7 @@ export default Vue.defineComponent({
 				for (const itemCost of cost) {
 					const itemName = itemCost.name;
 					const itemCount = itemCost.count;
-					const itemInfo = GenshinDB.materials(itemName)
+					const itemInfo = GenshinDb.materials(itemName)
 					if (res.time === null && itemInfo.daysofweek) {
 						res.time = `【${itemInfo.daysofweek.join("/")}】`
 					}
@@ -207,7 +207,7 @@ export default Vue.defineComponent({
 				for (const itemCost of cost) {
 					const itemName = itemCost.name;
 					const itemCount = itemCost.count;
-					const itemInfo = GenshinDB.materials(itemName)
+					const itemInfo = GenshinDb.materials(itemName)
 					if (res.time === null && itemInfo.daysofweek) {
 						res.time = `【${itemInfo.daysofweek.join("/")}】`
 					}
