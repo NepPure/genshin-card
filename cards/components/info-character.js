@@ -217,7 +217,11 @@ export default Vue.defineComponent({
 					}
 
 					res.costs[itemInfo.name].rarity = itemInfo.rarity || 1;
-					res.costs[itemInfo.name].image = itemInfo.images.fandom.replace('https://static.wikia.nocookie.net/', 'https://genshindb.neppure.vip/')
+					if (itemInfo.images.fandom) {
+						res.costs[itemInfo.name].image = itemInfo.images.fandom.replace('https://static.wikia.nocookie.net/', 'https://genshindb.neppure.vip/')
+					} else {
+						res.costs[itemInfo.name].image = itemInfo.images.redirect
+					}
 					res.costs[itemInfo.name].count += itemCount * 3;
 
 					indexItem[index] = indexItem[index] || [];
