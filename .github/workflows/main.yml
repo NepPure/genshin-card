@@ -1,0 +1,35 @@
+name: Node.js CI
+
+on:
+  push:
+    # branches: [ main ]
+    paths:
+      - 'package.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: johnnybenson/package-json-versioned-action@v1.0.5
+        id: package-json
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - run: echo "has-updated -- ${{ steps.package-json.outputs.has-updated }}"
+
+      - name: Build gzips and webpacks
+        if: ${{ steps.package-json.outputs.has-updated == 'true'}}
+        run: |
+          npm ci
+          npm run buildAllDist --if-present
