@@ -44,22 +44,13 @@ const genderTranslations = {
 	'MALE': {
 		ChineseSimplified: '男', ChineseTraditional: '男', German: 'Männlich', English: 'Male', Spanish: 'Masculino',
 		French: 'Homme', Indonesian: 'Pria', Japanese: '男', Korean: '남성', Portuguese: 'Masculino',
-		Russian: 'мужчина', Thai: 'ชาย', Vietnamese: 'nam'
+		Russian: 'Мужской', Thai: 'ชาย', Vietnamese: 'nam'
 	},
 	'FEMALE': {
 		ChineseSimplified: '女', ChineseTraditional: '女', German: 'Weiblich', English: 'Female', Spanish: 'Femenino',
 		French: 'Femme', Indonesian: 'Perempuan', Japanese: '女', Korean: '여성', Portuguese: 'Feminino',
-		Russian: 'женский', Thai: 'ผู้หญิง', Vietnamese: 'nữ'
+		Russian: 'Женский', Thai: 'ผู้หญิง', Vietnamese: 'nữ'
 	}
-}
-
-const associationToRegion = {
-	'LIYUE': 'Liyue',
-	'MONDSTADT': 'Mondstadt',
-	'FATUI': 'Snezhnaya',
-	'INAZUMA': 'Inazuma',
-	'MAINACTOR': '',
-	'RANGER': '',
 }
 
 /* ============================================ FUNCTIONS =================================================== */
@@ -228,7 +219,7 @@ function collateCharacter(existing, newdata, lang) {
 	else if(existing.gender === 'MALE') existing
 	existing.body = newdata.body;
 	existing.association = newdata.association;
-	existing.region = associationToRegion[newdata.association];
+	existing.region = newdata.region;
 	if(existing.region === undefined) console.log('NO REGION FROM ASSOCIATION ' + newdata.association);
 	existing.affiliation = newdata.affiliation;
 
@@ -461,7 +452,7 @@ function collateWindGlider(existing, newdata, lang) {
 
 function collateAnimal(existing, newdata, lang) {
 	clearObject(existing);
-	copyPropsIfExist(newdata, existing, ['name', 'description', 'category', 'capturable', 'sortorder']);
+	copyPropsIfExist(newdata, existing, ['name', 'description', 'category', 'counttype', 'sortorder']);
 	if(lang === 'English') {
 		newdata.images = {};
 		newdata.images.nameicon = newdata.nameicon;
@@ -481,11 +472,16 @@ function collateNamecard(existing, newdata, lang) {
 
 function collateGeography(existing, newdata, lang) {
 	clearObject(existing);
-	copyPropsIfExist(newdata, existing, ['name', 'area', 'description', 'region', 'hiddenactive', 'sortorder']);
+	copyPropsIfExist(newdata, existing, ['name', 'area', 'description', 'region', 'showonlyunlocked', 'sortorder']);
 	if(lang === 'English') {
 		newdata.images = {};
 		newdata.images.nameimage = newdata.nameimage;
 	}
+}
+
+function collateAdventureRank(existing, newdata, lang) {
+	clearObject(existing);
+	copyPropsIfExist(newdata, existing, ['name', 'exp', 'unlockdescription', 'reward']);
 }
 
 function importCurve(folder) {
@@ -608,7 +604,7 @@ function importData(folder, collateFunc, dontwrite, deleteexisting, skipimagered
 	});
 }
 
-gameVersion = ""; // new data will use this as added version
+gameVersion = "2.7"; // new data will use this as added version
 // importData('characters', collateCharacter);
 // importCurve('characters');
 // importData('constellations', collateConstellation);
@@ -619,7 +615,7 @@ gameVersion = ""; // new data will use this as added version
 // importData('foods', collateFood);
 // importData('materials', collateMaterial, undefined, false, true); // don't forget to remove sort first // don't forget change last bool param
 // importData('domains', collateDomain);
-importData('enemies', collateEnemy);
+// importData('enemies', collateEnemy);
 // importCurve('enemies');
 
 // importData('outfits', collateOutfit);
@@ -629,7 +625,7 @@ importData('enemies', collateEnemy);
 // importData('geographies', collateGeography);
 // importData('achievements', collateAchievement);
 // importData('achievementgroups', collateAchievementGroup);
-
+// importData('adventureranks', collateAdventureRank); // max 60
 
 // getUpperBodyImages(); // must be separate // cover1, cover2
 // updateURLs(); // must be separate
