@@ -167,6 +167,11 @@ export interface Artifact {
     goblet?: ArtifactDetail;
     circlet: ArtifactDetail;
     images: {
+        nameflower?: string;
+        nameplume?: string;
+        namesands?: string;
+        namegoblet?: string;
+        namecirclet: string;
         flower?: string;
         plume?: string;
         sands?: string;
@@ -240,7 +245,7 @@ export interface Character {
     gender: string; // manually translated
     body: string; // untranslated
     association: string; // untranslated
-    region: string; // manual untranslated. empty string if player character or crossover (aloy)
+    region: string; // empty string if player character or crossover (aloy)
     affiliation: string; // empty string if player character
     birthdaymmdd: string; // empty string if player character
     birthday: string; // empty string if player character
@@ -758,7 +763,7 @@ export interface Animal {
     name: string;
     description: string;
     category: string;
-    capturable?: true;
+    counttype : string;
     sortorder: number;
     
     images: {
@@ -786,12 +791,25 @@ export interface Geography {
     area: string;
     description :string;
     region: string;
-    hiddenactive?: true;
+    showonlyunlocked?: true;
     sortorder: number;
     images: {
         nameimage: string;
     };
     version: string;
+}
+
+export interface AdventureRank {
+    name: string;
+    exp: number;
+    unlockdescription: string;
+    reward: AdventureRankReward[];
+}
+
+export interface AdventureRankReward {
+    name: string;
+    count: number;
+    type: string; // MATERIAL, ARTIFACT, WEAPON
 }
 
 export interface Commission {

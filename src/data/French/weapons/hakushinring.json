@@ -7,7 +7,7 @@
 	"substat": "Recharge d'énergie",
 	"subvalue": "6.7",
 	"effectname": "Palais des cerisiers",
-	"effect": "Lorsqu'un personnage équipé de cette arme déclenche une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de {0} pendant 6 s. Les bonus de DGT élémentaire obtenus de cette manière ne se cumulent pas.",
+	"effect": "Lorsqu'un personnage équipé de cette arme a déclenché une réaction liée à l'élément Électro, tous les personnages de l'équipe à proximité dont l'élément est impliqué dans cette réaction élémentaire obtiennent un bonus de DGT de leur élément de {0} pendant 6 s. Les bonus de DGT élémentaire obtenus de cette manière ne se cumulent pas.",
 	"r1": [
 		"10 %"
 	],
