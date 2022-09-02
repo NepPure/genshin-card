@@ -18,7 +18,7 @@
 	},
 	"combat2": {
 		"name": "Défense intégrale d'Inuzaka",
-		"info": "Inflige des DGT Géo de zone et érige une bannière de général.\n\n**Bannière de général**\nAccorde les effets suivants aux personnages déployés dans la zone d'effet en fonction de la quantité de personnages de type Géo dans l'équipe au moment de l'utilisation :\n· Avoir 1 personnage Géo accorde un effet de pied ferme : bonus de DÉF.\n· Avoir 2 personnages Géo accorde un effet d'imprenabilité : effet précédent + bonus de RÉS à l'interruption.\n· Avoir 3 personnages Géo accorde un effet de fracas : effets précédents + bonus de DGT Géo.\n\nGorou ne peut générer qu'une bannière de général à la fois, et les personnages ne peuvent bénéficier des effets que d'une seule bannière de général à la fois. Lorsque le personnage quitte la zone, les effets continuent pendant 2 s.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée.",
+		"info": "Inflige des DGT Géo de zone et érige une bannière de général.\n\n**Bannière de général**\nAccorde les effets suivants aux personnages déployés dans la zone d'effet en fonction de la quantité de personnages de type Géo dans l'équipe au moment de l'utilisation :\n· Avoir 1 personnage Géo accorde un effet de Pied ferme : bonus de DÉF.\n· Avoir 2 personnages Géo accorde un effet d'Imprenabilité : effet précédent + bonus de RÉS à l'interruption.\n· Avoir 3 personnages Géo accorde un effet de Fracas : effets précédents + bonus de DGT Géo.\n\nGorou ne peut générer qu'une bannière de général à la fois, et les personnages ne peuvent bénéficier des effets que d'une seule bannière de général à la fois. Lorsque le personnage quitte la zone, les effets continuent pendant 2 s.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée.",
 		"description": "« Adoptez cette formation et nous serons en sécurité, je vous le garantis ! » En tant que général et chef des troupes, la dernière chose que Gorou veut, c'est de voir ses soldats blessés.",
 		"attributes": {
 			"labels": [
@@ -63,7 +63,7 @@
 				"count": 12500
 			},
 			{
-				"name": "Enseignement de la lumière",
+				"name": "Enseignement de la Lumière",
 				"count": 3
 			},
 			{
@@ -133,7 +133,7 @@
 				"count": 120000
 			},
 			{
-				"name": "Philosophie de la lumière",
+				"name": "Philosophie de la Lumière",
 				"count": 4
 			},
 			{
@@ -151,7 +151,7 @@
 				"count": 260000
 			},
 			{
-				"name": "Philosophie de la lumière",
+				"name": "Philosophie de la Lumière",
 				"count": 6
 			},
 			{
@@ -169,7 +169,7 @@
 				"count": 450000
 			},
 			{
-				"name": "Philosophie de la lumière",
+				"name": "Philosophie de la Lumière",
 				"count": 12
 			},
 			{
@@ -187,7 +187,7 @@
 				"count": 700000
 			},
 			{
-				"name": "Philosophie de la lumière",
+				"name": "Philosophie de la Lumière",
 				"count": 16
 			},
 			{

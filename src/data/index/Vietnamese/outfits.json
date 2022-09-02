@@ -1,5 +1,6 @@
 {
 	"namemap": {
+		"anewleaf": "Lá Mới",
 		"aratakisdemonicdeputy": "Phụ Tá Oni Bang Arataki",
 		"ardentsoul": "Linh Hồn Mong Mỏi",
 		"armoredrose": "Hoa Hồng Sắt",
@@ -9,6 +10,7 @@
 		"darknightblaze": "Dạ Hành Ám Hỏa",
 		"dunkelnachtsakrament": "Thánh Lễ Đêm Kỳ Ảo",
 		"eccentriconi": "Vua Quỷ Siêu Ngầu",
+		"einimmernachtstraum": "Giấc Mộng Đêm Khuya",
 		"endurerofeons": "Thiên Thu Tuế",
 		"executorsthorns": "Gai Góc Kết Án",
 		"fallingleaves": "Chân Trời Lá Đỏ",
@@ -24,6 +26,7 @@
 		"gunnhildrslegacy": "Thừa Kế Của Gunnhildr",
 		"hermitofmortallife": "Cuộc Sống Nhân Gian",
 		"icyfeatherflight": "Cánh Lướt Trên Băng",
+		"ilovemora": "Cực Yêu Mora",
 		"innocentlonging": "Mong Đợi Ngây Thơ",
 		"machinehunter": "Thợ Săn Cơ Động",
 		"mikosinstruction": "Chỉ Dụ Của Miko",
@@ -40,6 +43,7 @@
 		"plumblossombouquet": "Hoa Mận Lưu Hương",
 		"purespirit": "Thanh Tẩy Tâm Hồn",
 		"purplerose": "Tường Vi Tím Đỏ",
+		"reddeadofnight": "Màn Đêm Đỏ Thẫm",
 		"redpepperandturmeric": "Đỏ Tiêu Vàng Nghệ",
 		"risingstaraether": "Ngôi Sao Mới Lên",
 		"risingstarlumine": "Ngôi Sao Mới Lên",
@@ -49,6 +53,7 @@
 		"silksplendor": "Lụa Là Gấm Vóc",
 		"solemnpurity": "Tịnh Y",
 		"sparklingcoralbone": "Nhánh San Hô Lấp Lánh",
+		"spiritedvalor": "Võ Thuật Vũ Bão",
 		"staroutrider": "\"Kỵ Sĩ Trinh Thám Điểm Tuyệt Đối\"",
 		"sugarybrew": "Kẹo Ngọt Ủ Đường",
 		"summerchilldreams": "Giấc Mộng Băng Hè",
@@ -58,9 +63,11 @@
 		"tothechurchsfreespirit": "Tu Nữ Tự Do",
 		"warriorofflame": "Võ Phục Hỏa Diệm",
 		"wavecrestwaltz": "Vũ Điệu Ngọn Sóng",
-		"wildsprint": "Du Hành Thảo Nguyên"
+		"wildsprint": "Du Hành Thảo Nguyên",
+		"woodlandsong": "Bài Ca Rừng Rậm"
 	},
 	"names": {
+		"Lá Mới": "anewleaf",
 		"Phụ Tá Oni Bang Arataki": "aratakisdemonicdeputy",
 		"Linh Hồn Mong Mỏi": "ardentsoul",
 		"Hoa Hồng Sắt": "armoredrose",
@@ -70,6 +77,7 @@
 		"Dạ Hành Ám Hỏa": "darknightblaze",
 		"Thánh Lễ Đêm Kỳ Ảo": "dunkelnachtsakrament",
 		"Vua Quỷ Siêu Ngầu": "eccentriconi",
+		"Giấc Mộng Đêm Khuya": "einimmernachtstraum",
 		"Thiên Thu Tuế": "endurerofeons",
 		"Gai Góc Kết Án": "executorsthorns",
 		"Chân Trời Lá Đỏ": "fallingleaves",
@@ -85,6 +93,7 @@
 		"Thừa Kế Của Gunnhildr": "gunnhildrslegacy",
 		"Cuộc Sống Nhân Gian": "hermitofmortallife",
 		"Cánh Lướt Trên Băng": "icyfeatherflight",
+		"Cực Yêu Mora": "ilovemora",
 		"Mong Đợi Ngây Thơ": "innocentlonging",
 		"Thợ Săn Cơ Động": "machinehunter",
 		"Chỉ Dụ Của Miko": "mikosinstruction",
@@ -101,6 +110,7 @@
 		"Hoa Mận Lưu Hương": "plumblossombouquet",
 		"Thanh Tẩy Tâm Hồn": "purespirit",
 		"Tường Vi Tím Đỏ": "purplerose",
+		"Màn Đêm Đỏ Thẫm": "reddeadofnight",
 		"Đỏ Tiêu Vàng Nghệ": "redpepperandturmeric",
 		"Ngôi Sao Mới Lên": "risingstarlumine",
 		"Sóng Đào Hiển Hách": "rollingwaves",
@@ -109,6 +119,7 @@
 		"Lụa Là Gấm Vóc": "silksplendor",
 		"Tịnh Y": "solemnpurity",
 		"Nhánh San Hô Lấp Lánh": "sparklingcoralbone",
+		"Võ Thuật Vũ Bão": "spiritedvalor",
 		"\"Kỵ Sĩ Trinh Thám Điểm Tuyệt Đối\"": "staroutrider",
 		"Kẹo Ngọt Ủ Đường": "sugarybrew",
 		"Giấc Mộng Băng Hè": "summerchilldreams",
@@ -118,10 +129,14 @@
 		"Tu Nữ Tự Do": "tothechurchsfreespirit",
 		"Võ Phục Hỏa Diệm": "warriorofflame",
 		"Vũ Điệu Ngọn Sóng": "wavecrestwaltz",
-		"Du Hành Thảo Nguyên": "wildsprint"
+		"Du Hành Thảo Nguyên": "wildsprint",
+		"Bài Ca Rừng Rậm": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
+		"Collei": [
+			"anewleaf"
+		],
 		"Kuki Shinobu": [
 			"aratakisdemonicdeputy"
 		],
@@ -141,10 +156,12 @@
 			"breezyode"
 		],
 		"Diluc": [
-			"darknightblaze"
+			"darknightblaze",
+			"reddeadofnight"
 		],
 		"Fischl": [
-			"dunkelnachtsakrament"
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
 		],
 		"Arataki Itto": [
 			"eccentriconi"
@@ -195,6 +212,9 @@
 		],
 		"Kaeya": [
 			"icyfeatherflight"
+		],
+		"Dori": [
+			"ilovemora"
 		],
 		"Barbara": [
 			"innocentlonging",
@@ -262,6 +282,9 @@
 		"Sangonomiya Kokomi": [
 			"sparklingcoralbone"
 		],
+		"Shikanoin Heizou": [
+			"spiritedvalor"
+		],
 		"Diona": [
 			"sugarybrew"
 		],
@@ -282,10 +305,14 @@
 		],
 		"Razor": [
 			"wildsprint"
+		],
+		"Tighnari": [
+			"woodlandsong"
 		]
 	},
 	"properties": {
 		"character": [
+			"Collei",
 			"Kuki Shinobu",
 			"Xinyan",
 			"Noelle",
@@ -309,6 +336,7 @@
 			"Ningguang",
 			"Zhongli",
 			"Kaeya",
+			"Dori",
 			"Barbara",
 			"Aloy",
 			"Yae Miko",
@@ -330,13 +358,15 @@
 			"Kamisato Ayato",
 			"Kujou Sara",
 			"Sangonomiya Kokomi",
+			"Shikanoin Heizou",
 			"Diona",
 			"Qiqi",
 			"Yelan",
 			"Shenhe",
 			"Thoma",
 			"Eula",
-			"Razor"
+			"Razor",
+			"Tighnari"
 		]
 	}
 }

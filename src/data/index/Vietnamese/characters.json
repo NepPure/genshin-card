@@ -9,8 +9,10 @@
 		"beidou": "Beidou",
 		"bennett": "Bennett",
 		"chongyun": "Chongyun",
+		"collei": "Collei",
 		"diluc": "Diluc",
 		"diona": "Diona",
+		"dori": "Dori",
 		"eula": "Eula",
 		"fischl": "Fischl",
 		"ganyu": "Ganyu",
@@ -37,9 +39,11 @@
 		"sangonomiyakokomi": "Sangonomiya Kokomi",
 		"sayu": "Sayu",
 		"shenhe": "Shenhe",
+		"shikanoinheizou": "Shikanoin Heizou",
 		"sucrose": "Sucrose",
 		"tartaglia": "Tartaglia",
 		"thoma": "Thoma",
+		"tighnari": "Tighnari",
 		"venti": "Venti",
 		"xiangling": "Xiangling",
 		"xiao": "Xiao",
@@ -62,8 +66,10 @@
 		"Beidou": "beidou",
 		"Bennett": "bennett",
 		"Chongyun": "chongyun",
+		"Collei": "collei",
 		"Diluc": "diluc",
 		"Diona": "diona",
+		"Dori": "dori",
 		"Eula": "eula",
 		"Fischl": "fischl",
 		"Ganyu": "ganyu",
@@ -90,9 +96,11 @@
 		"Sangonomiya Kokomi": "sangonomiyakokomi",
 		"Sayu": "sayu",
 		"Shenhe": "shenhe",
+		"Shikanoin Heizou": "shikanoinheizou",
 		"Sucrose": "sucrose",
 		"Tartaglia": "tartaglia",
 		"Thoma": "thoma",
+		"Tighnari": "tighnari",
 		"Venti": "venti",
 		"Xiangling": "xiangling",
 		"Xiao": "xiao",
@@ -106,43 +114,47 @@
 		"Zhongli": "zhongli"
 	},
 	"aliases": {
-		"Lữ Khách": "lumine",
+		"Cung Lữ Khách": "lumine",
 		"Kreideprinz": "albedo",
 		"Cung Đứa Con Vôi Trắng": "albedo",
 		"Vị Cứu Tinh Dị Giới": "aloy",
 		"Cung Nora": "aloy",
 		"Quán Quân Bay Lượn": "amber",
-		"Tiểu Thố": "amber",
+		"Cung Tiểu Thố": "amber",
 		"Quái Kiệt Hanamizaka": "aratakiitto",
 		"Cung Thiên Ngưu": "aratakiitto",
 		"Thần Tượng Tỏa Sáng": "barbara",
-		"Kim Bôi": "barbara",
+		"Cung Kim Bôi": "barbara",
 		"Long Vương Không Vương Miện": "beidou",
-		"Nam Thiên Hải Sơn": "beidou",
+		"Cung Nam Thiên Hải Sơn": "beidou",
 		"Thử Thách Của Vận Mệnh": "bennett",
-		"Hiểm Lộ": "bennett",
+		"Cung Hiểm Lộ": "bennett",
 		"Bóng Hình Băng Giá": "chongyun",
-		"Càn Khôn Phong": "chongyun",
+		"Cung Càn Khôn Phong": "chongyun",
+		"Mầm Non Tái Sinh": "collei",
+		"Cung Tẩu Miêu": "collei",
 		"Mặt Tối Của Bình Minh": "diluc",
 		"Cung Dạ Hiêu": "diluc",
 		"Đặc Chế Quán Rượu Đuôi Mèo": "diona",
-		"Tiểu Miêu": "diona",
+		"Cung Tiểu Miêu": "diona",
+		"Kho Báu Vườn Mơ": "dori",
+		"Cung Thần Đăng": "dori",
 		"Vũ Điệu Bọt Biển": "eula",
 		"Cung Lãng Mạt": "eula",
 		"Công Chúa Định Tội!!": "fischl",
-		"Hoan Áp": "fischl",
+		"Cung Hoan Áp": "fischl",
 		"Người Bảo Vệ Tận Tâm": "ganyu",
-		"Cung Tiên Lân": "ganyu",
+		"Cung Cung Tiên Lân": "ganyu",
 		"Chiến Khuyển Nanh Nhọn": "gorou",
 		"Cung Sài Khuyển": "gorou",
 		"Tuyết Tễ Mai Hương": "hutao",
 		"Cung Dẫn Điệp": "hutao",
 		"Kỵ Sĩ Bồ Công Anh": "jean",
-		"Ấu Sư": "jean",
+		"Cung Ấu Sư": "jean",
 		"Lá Đỏ Đuổi Sóng": "kaedeharakazuha",
 		"Cung Phong Đỏ": "kaedeharakazuha",
 		"Hàn Phong Kiếm Sĩ": "kaeya",
-		"Khổng Tước Vũ": "kaeya",
+		"Cung Khổng Tước Vũ": "kaeya",
 		"Bạch Hạc Sương Hoa": "kamisatoayaka",
 		"Cung Tuyết Hạc": "kamisatoayaka",
 		"Trụ Cột Vững Vàng": "kamisatoayato",
@@ -150,25 +162,25 @@
 		"Sấm Chớp Trước Cơn Mưa": "keqing",
 		"Kim Tử Định Thùy": "keqing",
 		"Mặt Trời Chạy Trốn": "klee",
-		"Tứ Diệp Thảo": "klee",
+		"Cung Tứ Diệp Thảo": "klee",
 		"Hắc Vũ Tiễn": "kujousara",
 		"Cung Vũ Phiến": "kujousara",
 		"Gạt Bỏ Phiền Não": "kukishinobu",
 		"Cung Phiền Não Ngải": "kukishinobu",
 		"Ma Nữ Tường Vi": "lisa",
-		"Sa Lậu": "lisa",
+		"Cung Sa Lậu": "lisa",
 		"Thủy Kính Thiên Tinh": "mona",
-		"Ánh Thiên": "mona",
+		"Cung Ánh Thiên": "mona",
 		"Yểm Nguyệt Thiên Quyền": "ningguang",
-		"Cơ Hoành Nghi": "ningguang",
+		"Cung Cơ Hoành Nghi": "ningguang",
 		"Đóa Hoa Chưa Vinh Danh": "noelle",
-		"Hộ Tâm": "noelle",
+		"Cung Hộ Tâm": "noelle",
 		"Đêm Hồn Về Lạnh Giá": "qiqi",
-		"Tam Thanh Linh": "qiqi",
+		"Cung Tam Thanh Linh": "qiqi",
 		"Nhất Tâm Tịnh Thổ": "raidenshogun",
 		"Cung Thiên Hạ Nhân": "raidenshogun",
 		"Thiếu Niên Sói": "razor",
-		"Tiểu Lang": "razor",
+		"Cung Tiểu Lang": "razor",
 		"Ân Điển Mũ Gai": "rosaria",
 		"Cung Kinh Quán": "rosaria",
 		"Trí Tuệ Trân Châu": "sangonomiyakokomi",
@@ -177,20 +189,24 @@
 		"Cung Tiểu Lạc": "sayu",
 		"Thiên Thể Cô Độc": "shenhe",
 		"Cung Ưu Sầu": "shenhe",
+		"Con Tim Giao Hòa": "shikanoinheizou",
+		"Cung Ấu Lộc": "shikanoinheizou",
 		"Độ Ngọt Vô Hại": "sucrose",
-		"Thiêu Bình": "sucrose",
+		"Cung Thiêu Bình": "sucrose",
 		"Childe": "tartaglia",
-		"Kình Thiên": "tartaglia",
+		"Cung Kình Thiên": "tartaglia",
 		"Người Bảo Vệ Phương Xa": "thoma",
 		"Cung Xích Thuẫn": "thoma",
+		"Dạo Bước Rừng Xanh": "tighnari",
+		"Cung Quách Hồ": "tighnari",
 		"Nhà Thơ Có Màu Của Gió": "venti",
 		"Cung Ca Tiên": "venti",
 		"Vạn Dân Bách Vị": "xiangling",
-		"Trường Tiêu": "xiangling",
+		"Cung Trường Tiêu": "xiangling",
 		"Hộ Pháp Dạ Xoa": "xiao",
 		"Cung Kim Sí Bằng Vương": "xiao",
 		"Tuổi Trẻ Tài Cao": "xingqiu",
-		"Cẩm Chức": "xingqiu",
+		"Cung Cẩm Chức": "xingqiu",
 		"Giai Điệu Nóng Bỏng": "xinyan",
 		"Hồng Đàn Tứ Huyền": "xinyan",
 		"Tiếu Ngạo Thế Gian": "yaemiko",
@@ -213,7 +229,9 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diona",
+			"dori",
 			"fischl",
 			"gorou",
 			"kaeya",
@@ -225,6 +243,7 @@
 			"razor",
 			"rosaria",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"thoma",
 			"xiangling",
@@ -255,6 +274,7 @@
 			"sangonomiyakokomi",
 			"shenhe",
 			"tartaglia",
+			"tighnari",
 			"venti",
 			"xiao",
 			"yaemiko",
@@ -285,6 +305,7 @@
 			"aether",
 			"amber",
 			"chongyun",
+			"collei",
 			"fischl",
 			"kujousara",
 			"lumine",
@@ -306,8 +327,10 @@
 			"kaeya",
 			"kamisatoayato",
 			"razor",
+			"shikanoinheizou",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"venti",
 			"xiao",
 			"xingqiu",
@@ -323,8 +346,10 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diluc",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -351,9 +376,11 @@
 			"sangonomiyakokomi",
 			"sayu",
 			"shenhe",
+			"shikanoinheizou",
 			"sucrose",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"venti",
 			"xiangling",
 			"xiao",
@@ -547,12 +574,14 @@
 		"Cung": [
 			"aloy",
 			"amber",
+			"collei",
 			"diona",
 			"fischl",
 			"ganyu",
 			"gorou",
 			"kujousara",
 			"tartaglia",
+			"tighnari",
 			"venti",
 			"yelan",
 			"yoimiya"
@@ -566,7 +595,9 @@
 			"amber",
 			"barbara",
 			"beidou",
+			"collei",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -713,6 +744,7 @@
 		],
 		"Mũi Tên Chắc Chắn": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -738,6 +770,7 @@
 		],
 		"Mũi Tên Sắc Bén": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -755,6 +788,7 @@
 		],
 		"Mũi Tên Thiện Chiến": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -775,6 +809,7 @@
 			"beidou",
 			"chongyun",
 			"diluc",
+			"dori",
 			"eula",
 			"noelle",
 			"razor",
@@ -800,6 +835,7 @@
 			"raidenshogun",
 			"sangonomiyakokomi",
 			"sayu",
+			"shikanoinheizou",
 			"thoma",
 			"yaemiko",
 			"yoimiya"
@@ -813,7 +849,8 @@
 			"yoimiya"
 		],
 		"Onikabuto": [
-			"aratakiitto"
+			"aratakiitto",
+			"shikanoinheizou"
 		],
 		"Dịch Slime": [
 			"aratakiitto",
@@ -859,12 +896,14 @@
 			"mona",
 			"ningguang",
 			"sangonomiyakokomi",
+			"shikanoinheizou",
 			"sucrose",
 			"yaemiko",
 			"yanfei"
 		],
 		"HP": [
 			"barbara",
+			"dori",
 			"kukishinobu"
 		],
 		"Tháng 7": [
@@ -873,6 +912,7 @@
 			"klee",
 			"kujousara",
 			"kukishinobu",
+			"shikanoinheizou",
 			"tartaglia",
 			"yanfei"
 		],
@@ -925,6 +965,7 @@
 		],
 		"Lôi": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -962,6 +1003,7 @@
 		],
 		"Vụn Tử Tinh Thắng Lợi": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -980,12 +1022,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"Mảnh Tử Tinh Thắng Lợi": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1007,12 +1051,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"Miếng Tử Tinh Thắng Lợi": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1027,12 +1073,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"Tử Tinh Thắng Lợi": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1062,6 +1110,44 @@
 			"kaeya",
 			"qiqi",
 			"rosaria"
+		],
+		"Thảo": [
+			"collei",
+			"tighnari"
+		],
+		"Sumeru": [
+			"collei",
+			"dori",
+			"tighnari"
+		],
+		"Tháng 5": [
+			"collei",
+			"fischl",
+			"gorou",
+			"yunjin"
+		],
+		"Vụn Ngọc Bích Sinh Trưởng": [
+			"collei",
+			"tighnari"
+		],
+		"Nấm Thánh Rukkhashava": [
+			"collei"
+		],
+		"Mảnh Ngọc Bích Sinh Trưởng": [
+			"collei",
+			"tighnari"
+		],
+		"Mỏ Vua Nấm": [
+			"collei",
+			"tighnari"
+		],
+		"Miếng Ngọc Bích Sinh Trưởng": [
+			"collei",
+			"tighnari"
+		],
+		"Ngọc Bích Sinh Trưởng": [
+			"collei",
+			"tighnari"
 		],
 		"Phù Hiệu Tân Binh": [
 			"diluc",
@@ -1093,6 +1179,27 @@
 			"diona",
 			"kaeya"
 		],
+		"Tháng 12": [
+			"dori",
+			"ganyu",
+			"tighnari",
+			"zhongli"
+		],
+		"Sen Kalpalata": [
+			"dori"
+		],
+		"Băng Đỏ Phai Màu": [
+			"dori"
+		],
+		"Hạt Tụ Sấm": [
+			"dori"
+		],
+		"Băng Đỏ Viền Vàng": [
+			"dori"
+		],
+		"Băng Đỏ Ánh Vàng": [
+			"dori"
+		],
 		"ST Bạo Kích": [
 			"eula",
 			"ganyu",
@@ -1111,15 +1218,6 @@
 		"Hạt Bồ Công Anh": [
 			"eula",
 			"jean"
-		],
-		"Tháng 5": [
-			"fischl",
-			"gorou",
-			"yunjin"
-		],
-		"Tháng 12": [
-			"ganyu",
-			"zhongli"
 		],
 		"Thanh Tâm": [
 			"ganyu",
@@ -1185,6 +1283,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1204,6 +1303,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1212,6 +1312,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1225,6 +1326,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1233,6 +1335,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1300,6 +1403,7 @@
 		],
 		"Bánh Răng Ấn Ký": [
 			"kukishinobu",
+			"shikanoinheizou",
 			"yelan"
 		],
 		"Quả Dâu Đỏ": [
@@ -1336,6 +1440,7 @@
 			"yaemiko"
 		],
 		"Tăng ST Nguyên Tố Phong": [
+			"shikanoinheizou",
 			"sucrose"
 		],
 		"Snezhnaya": [
@@ -1351,6 +1456,21 @@
 		"Ngọc Lửa Âm Ỉ": [
 			"thoma",
 			"yoimiya"
+		],
+		"Tăng ST Nguyên Tố Thảo": [
+			"tighnari"
+		],
+		"Sen Nilotpala": [
+			"tighnari"
+		],
+		"Bào Tử Nấm Quỷ": [
+			"tighnari"
+		],
+		"Bột Huỳnh Quang": [
+			"tighnari"
+		],
+		"Bụi Tinh Thể": [
+			"tighnari"
 		],
 		"Ớt Tuyệt Vân": [
 			"xiangling"
@@ -1368,6 +1488,7 @@
 			"Hỏa",
 			"Thủy",
 			"Lôi",
+			"Thảo",
 			"Phong"
 		],
 		"weapontype": [
@@ -1392,7 +1513,8 @@
 			"Phòng Ngự",
 			"Tăng Sát Thương Vật Lý",
 			"Tăng ST Nguyên Tố Thủy",
-			"Tăng ST Nguyên Tố Phong"
+			"Tăng ST Nguyên Tố Phong",
+			"Tăng ST Nguyên Tố Thảo"
 		],
 		"gender": [
 			"nam",
@@ -1457,10 +1579,21 @@
 			"Tử Tinh Thắng Lợi",
 			"Thạch Phách",
 			"Hạt Nhân Cực Hàn",
+			"Vụn Ngọc Bích Sinh Trưởng",
+			"Nấm Thánh Rukkhashava",
+			"Mảnh Ngọc Bích Sinh Trưởng",
+			"Mỏ Vua Nấm",
+			"Miếng Ngọc Bích Sinh Trưởng",
+			"Ngọc Bích Sinh Trưởng",
 			"Phù Hiệu Tân Binh",
 			"Phù Hiệu Sĩ Quan",
 			"Phù Hiệu Hiệu Úy",
 			"Hoa Calla Lily",
+			"Sen Kalpalata",
+			"Băng Đỏ Phai Màu",
+			"Hạt Tụ Sấm",
+			"Băng Đỏ Viền Vàng",
+			"Băng Đỏ Ánh Vàng",
 			"Hạt Bồ Công Anh",
 			"Thanh Tâm",
 			"Mật Hoa Lừa Dối",
@@ -1495,12 +1628,17 @@
 			"Ốc Sao",
 			"Nấm U Ám",
 			"Ngọc Lửa Âm Ỉ",
+			"Sen Nilotpala",
+			"Bào Tử Nấm Quỷ",
+			"Bột Huỳnh Quang",
+			"Bụi Tinh Thể",
 			"Ớt Tuyệt Vân"
 		],
 		"region": [
 			"Mondstadt",
 			"Inazuma",
 			"Liyue",
+			"Sumeru",
 			"Snezhnaya"
 		],
 		"birthday": [
@@ -1510,10 +1648,10 @@
 			"Tháng 6",
 			"Tháng 7",
 			"Tháng 2",
-			"Tháng 1",
-			"Tháng 10",
 			"Tháng 5",
+			"Tháng 1",
 			"Tháng 12",
+			"Tháng 10",
 			"Tháng 3",
 			"Tháng 11"
 		]

@@ -1,11 +1,12 @@
 {
 	"name": "生長碧翡斷片",
-	"description": "角色突破素材。\n「生命最後放開了手…」",
-	"sortorder": 2084,
+	"description": "角色突破素材。\n「我做了一個很長很長的夢…」",
+	"sortorder": 2433,
 	"rarity": "3",
 	"category": "AVATAR_MATERIAL",
 	"materialtype": "角色培養素材",
 	"source": [
+		"40級以上翠翎恐蕈掉落",
 		"合成獲得"
 	]
 }

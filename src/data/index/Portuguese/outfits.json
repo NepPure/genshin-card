@@ -1,5 +1,6 @@
 {
 	"namemap": {
+		"anewleaf": "Folha Nova",
 		"aratakisdemonicdeputy": "Vice-líder demoníaca de Arataki",
 		"ardentsoul": "Alma Ambiciosa",
 		"armoredrose": "Rosa de Aço",
@@ -9,6 +10,7 @@
 		"darknightblaze": "Chamas Noturnas",
 		"dunkelnachtsakrament": "Sacramento Belo da Noite",
 		"eccentriconi": "Oni Excêntrico",
+		"einimmernachtstraum": "Sonho da Noite Eterna",
 		"endurerofeons": "Lutas Milenares",
 		"executorsthorns": "Sentença Espinhosa",
 		"fallingleaves": "Folhas Caídas",
@@ -24,6 +26,7 @@
 		"gunnhildrslegacy": "Legado de Gunnhildr",
 		"hermitofmortallife": "Corpo Elegante Mortal",
 		"icyfeatherflight": "Plumas sobre o Gelo",
+		"ilovemora": "Eu Amo Mora",
 		"innocentlonging": "Expectativas Inocentes",
 		"machinehunter": "Caçadora de Máquinas",
 		"mikosinstruction": "Instrução de Miko",
@@ -40,6 +43,7 @@
 		"plumblossombouquet": "Fragrância das Ameixeiras Quebradas",
 		"purespirit": "Espírito Puro",
 		"purplerose": "Rosa Púrpura",
+		"reddeadofnight": "Vermelho Escarlate da Noite",
 		"redpepperandturmeric": "Pimenta Vermelho-Cúrcuma",
 		"risingstaraether": "Estrela Ascendente",
 		"risingstarlumine": "Estrela Ascendente",
@@ -49,6 +53,7 @@
 		"silksplendor": "Beleza Sedosa",
 		"solemnpurity": "Pureza Solene",
 		"sparklingcoralbone": "Coral Cristalino",
+		"spiritedvalor": "Ar Marcial",
 		"staroutrider": "\"Marcas da Aventureira\"",
 		"sugarybrew": "Coquetel Adocicado",
 		"summerchilldreams": "Sonhos Gelados de Verão",
@@ -58,9 +63,11 @@
 		"tothechurchsfreespirit": "Aos Libertos da Igreja",
 		"warriorofflame": "Guerreiro das Chamas",
 		"wavecrestwaltz": "Valsa das Ondas",
-		"wildsprint": "Correndo na Floresta"
+		"wildsprint": "Correndo na Floresta",
+		"woodlandsong": "Melodia da Floresta"
 	},
 	"names": {
+		"Folha Nova": "anewleaf",
 		"Vice-líder demoníaca de Arataki": "aratakisdemonicdeputy",
 		"Alma Ambiciosa": "ardentsoul",
 		"Rosa de Aço": "armoredrose",
@@ -70,6 +77,7 @@
 		"Chamas Noturnas": "darknightblaze",
 		"Sacramento Belo da Noite": "dunkelnachtsakrament",
 		"Oni Excêntrico": "eccentriconi",
+		"Sonho da Noite Eterna": "einimmernachtstraum",
 		"Lutas Milenares": "endurerofeons",
 		"Sentença Espinhosa": "executorsthorns",
 		"Folhas Caídas": "fallingleaves",
@@ -85,6 +93,7 @@
 		"Legado de Gunnhildr": "gunnhildrslegacy",
 		"Corpo Elegante Mortal": "hermitofmortallife",
 		"Plumas sobre o Gelo": "icyfeatherflight",
+		"Eu Amo Mora": "ilovemora",
 		"Expectativas Inocentes": "innocentlonging",
 		"Caçadora de Máquinas": "machinehunter",
 		"Instrução de Miko": "mikosinstruction",
@@ -101,6 +110,7 @@
 		"Fragrância das Ameixeiras Quebradas": "plumblossombouquet",
 		"Espírito Puro": "purespirit",
 		"Rosa Púrpura": "purplerose",
+		"Vermelho Escarlate da Noite": "reddeadofnight",
 		"Pimenta Vermelho-Cúrcuma": "redpepperandturmeric",
 		"Estrela Ascendente": "risingstarlumine",
 		"Ondas Temerosas": "rollingwaves",
@@ -109,6 +119,7 @@
 		"Beleza Sedosa": "silksplendor",
 		"Pureza Solene": "solemnpurity",
 		"Coral Cristalino": "sparklingcoralbone",
+		"Ar Marcial": "spiritedvalor",
 		"\"Marcas da Aventureira\"": "staroutrider",
 		"Coquetel Adocicado": "sugarybrew",
 		"Sonhos Gelados de Verão": "summerchilldreams",
@@ -118,10 +129,14 @@
 		"Aos Libertos da Igreja": "tothechurchsfreespirit",
 		"Guerreiro das Chamas": "warriorofflame",
 		"Valsa das Ondas": "wavecrestwaltz",
-		"Correndo na Floresta": "wildsprint"
+		"Correndo na Floresta": "wildsprint",
+		"Melodia da Floresta": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
+		"Collei": [
+			"anewleaf"
+		],
 		"Kuki Shinobu": [
 			"aratakisdemonicdeputy"
 		],
@@ -141,10 +156,12 @@
 			"breezyode"
 		],
 		"Diluc": [
-			"darknightblaze"
+			"darknightblaze",
+			"reddeadofnight"
 		],
 		"Fischl": [
-			"dunkelnachtsakrament"
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
 		],
 		"Arataki Itto": [
 			"eccentriconi"
@@ -195,6 +212,9 @@
 		],
 		"Kaeya": [
 			"icyfeatherflight"
+		],
+		"Dori": [
+			"ilovemora"
 		],
 		"Barbara": [
 			"innocentlonging",
@@ -262,6 +282,9 @@
 		"Sangonomiya Kokomi": [
 			"sparklingcoralbone"
 		],
+		"Shikanoin Heizou": [
+			"spiritedvalor"
+		],
 		"Diona": [
 			"sugarybrew"
 		],
@@ -282,10 +305,14 @@
 		],
 		"Razor": [
 			"wildsprint"
+		],
+		"Tighnari": [
+			"woodlandsong"
 		]
 	},
 	"properties": {
 		"character": [
+			"Collei",
 			"Kuki Shinobu",
 			"Xinyan",
 			"Noelle",
@@ -309,6 +336,7 @@
 			"Ningguang",
 			"Zhongli",
 			"Kaeya",
+			"Dori",
 			"Barbara",
 			"Aloy",
 			"Yae Miko",
@@ -330,13 +358,15 @@
 			"Kamisato Ayato",
 			"Kujou Sara",
 			"Sangonomiya Kokomi",
+			"Shikanoin Heizou",
 			"Diona",
 			"Qiqi",
 			"Yelan",
 			"Shenhe",
 			"Thoma",
 			"Eula",
-			"Razor"
+			"Razor",
+			"Tighnari"
 		]
 	}
 }
