@@ -9,8 +9,10 @@
 		"beidou": "북두",
 		"bennett": "베넷",
 		"chongyun": "중운",
+		"collei": "콜레이",
 		"diluc": "다이루크",
 		"diona": "디오나",
+		"dori": "도리",
 		"eula": "유라",
 		"fischl": "피슬",
 		"ganyu": "감우",
@@ -37,9 +39,11 @@
 		"sangonomiyakokomi": "산고노미야 코코미",
 		"sayu": "사유",
 		"shenhe": "신학",
+		"shikanoinheizou": "시카노인 헤이조",
 		"sucrose": "설탕",
 		"tartaglia": "타르탈리아",
 		"thoma": "토마",
+		"tighnari": "타이나리",
 		"venti": "벤티",
 		"xiangling": "향릉",
 		"xiao": "소",
@@ -62,8 +66,10 @@
 		"북두": "beidou",
 		"베넷": "bennett",
 		"중운": "chongyun",
+		"콜레이": "collei",
 		"다이루크": "diluc",
 		"디오나": "diona",
+		"도리": "dori",
 		"유라": "eula",
 		"피슬": "fischl",
 		"감우": "ganyu",
@@ -90,9 +96,11 @@
 		"산고노미야 코코미": "sangonomiyakokomi",
 		"사유": "sayu",
 		"신학": "shenhe",
+		"시카노인 헤이조": "shikanoinheizou",
 		"설탕": "sucrose",
 		"타르탈리아": "tartaglia",
 		"토마": "thoma",
+		"타이나리": "tighnari",
 		"벤티": "venti",
 		"향릉": "xiangling",
 		"소": "xiao",
@@ -123,10 +131,14 @@
 		"험로자리": "bennett",
 		"얼어붙은 열정": "chongyun",
 		"건곤봉자리": "chongyun",
+		"다시 움튼 새싹": "collei",
+		"서발자리": "collei",
 		"새벽의 어둠": "diluc",
 		"밤올빼미자리": "diluc",
 		"캐츠라인 칵테일": "diona",
 		"고양이자리": "diona",
+		"꿈의 정원에 감춰진 보물": "dori",
+		"요술램프자리": "dori",
 		"물보라의 춤": "eula",
 		"물보라자리": "eula",
 		"단죄의 황녀!!": "fischl",
@@ -177,11 +189,15 @@
 		"너구리자리": "sayu",
 		"고독한 액신": "shenhe",
 		"고독한 깃장식자리": "shenhe",
+		"태평을 향한 마음": "shikanoinheizou",
+		"새끼사슴자리": "shikanoinheizou",
 		"무해한 달콤함": "sucrose",
 		"플라스크자리": "sucrose",
 		"경천자리": "tartaglia",
 		"바다 건너온 수호자": "thoma",
 		"붉은 방패자리": "thoma",
+		"신록의 발걸음": "tighnari",
+		"사막여우자리": "tighnari",
 		"바람의 시인": "venti",
 		"가선자리": "venti",
 		"만민백미": "xiangling",
@@ -212,7 +228,9 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diona",
+			"dori",
 			"fischl",
 			"gorou",
 			"kaeya",
@@ -224,6 +242,7 @@
 			"razor",
 			"rosaria",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"thoma",
 			"xiangling",
@@ -254,6 +273,7 @@
 			"sangonomiyakokomi",
 			"shenhe",
 			"tartaglia",
+			"tighnari",
 			"venti",
 			"xiao",
 			"yaemiko",
@@ -284,6 +304,7 @@
 			"aether",
 			"amber",
 			"chongyun",
+			"collei",
 			"fischl",
 			"kujousara",
 			"lumine",
@@ -305,8 +326,10 @@
 			"kaeya",
 			"kamisatoayato",
 			"razor",
+			"shikanoinheizou",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"venti",
 			"xiao",
 			"xingqiu",
@@ -322,8 +345,10 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diluc",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -350,9 +375,11 @@
 			"sangonomiyakokomi",
 			"sayu",
 			"shenhe",
+			"shikanoinheizou",
 			"sucrose",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"venti",
 			"xiangling",
 			"xiao",
@@ -546,12 +573,14 @@
 		"활": [
 			"aloy",
 			"amber",
+			"collei",
 			"diona",
 			"fischl",
 			"ganyu",
 			"gorou",
 			"kujousara",
 			"tartaglia",
+			"tighnari",
 			"venti",
 			"yelan",
 			"yoimiya"
@@ -565,7 +594,9 @@
 			"amber",
 			"barbara",
 			"beidou",
+			"collei",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -712,6 +743,7 @@
 		],
 		"견고한 화살촉": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -737,6 +769,7 @@
 		],
 		"날카로운 화살촉": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -754,6 +787,7 @@
 		],
 		"역전의 화살촉": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -774,6 +808,7 @@
 			"beidou",
 			"chongyun",
 			"diluc",
+			"dori",
 			"eula",
 			"noelle",
 			"razor",
@@ -799,6 +834,7 @@
 			"raidenshogun",
 			"sangonomiyakokomi",
 			"sayu",
+			"shikanoinheizou",
 			"thoma",
 			"yaemiko",
 			"yoimiya"
@@ -812,7 +848,8 @@
 			"yoimiya"
 		],
 		"귀신풍뎅이": [
-			"aratakiitto"
+			"aratakiitto",
+			"shikanoinheizou"
 		],
 		"슬라임 응축액": [
 			"aratakiitto",
@@ -858,12 +895,14 @@
 			"mona",
 			"ningguang",
 			"sangonomiyakokomi",
+			"shikanoinheizou",
 			"sucrose",
 			"yaemiko",
 			"yanfei"
 		],
 		"HP": [
 			"barbara",
+			"dori",
 			"kukishinobu"
 		],
 		"7월": [
@@ -872,6 +911,7 @@
 			"klee",
 			"kujousara",
 			"kukishinobu",
+			"shikanoinheizou",
 			"tartaglia",
 			"yanfei"
 		],
@@ -924,6 +964,7 @@
 		],
 		"번개": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -961,6 +1002,7 @@
 		],
 		"승리의 자수정 가루": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -979,12 +1021,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"승리의 자수정 조각": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1006,12 +1050,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"승리의 자수정 덩이": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1026,12 +1072,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"승리의 자수정": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1061,6 +1109,44 @@
 			"kaeya",
 			"qiqi",
 			"rosaria"
+		],
+		"풀": [
+			"collei",
+			"tighnari"
+		],
+		"수메르": [
+			"collei",
+			"dori",
+			"tighnari"
+		],
+		"5월": [
+			"collei",
+			"fischl",
+			"gorou",
+			"yunjin"
+		],
+		"자라나는 비취 가루": [
+			"collei",
+			"tighnari"
+		],
+		"룩카데바타 성체 버섯": [
+			"collei"
+		],
+		"자라나는 비취 조각": [
+			"collei",
+			"tighnari"
+		],
+		"버섯왕의 뾰족한 부리": [
+			"collei",
+			"tighnari"
+		],
+		"자라나는 비취 덩이": [
+			"collei",
+			"tighnari"
+		],
+		"자라나는 비취": [
+			"collei",
+			"tighnari"
 		],
 		"신병의 휘장": [
 			"diluc",
@@ -1092,6 +1178,27 @@
 			"diona",
 			"kaeya"
 		],
+		"12월": [
+			"dori",
+			"ganyu",
+			"tighnari",
+			"zhongli"
+		],
+		"겁의 연꽃": [
+			"dori"
+		],
+		"빛바랜 붉은 비단": [
+			"dori"
+		],
+		"번개를 품은 야생 열매": [
+			"dori"
+		],
+		"장식된 붉은 비단": [
+			"dori"
+		],
+		"금자수 붉은 비단": [
+			"dori"
+		],
 		"치명타 피해": [
 			"eula",
 			"ganyu",
@@ -1110,15 +1217,6 @@
 		"민들레 씨앗": [
 			"eula",
 			"jean"
-		],
-		"5월": [
-			"fischl",
-			"gorou",
-			"yunjin"
-		],
-		"12월": [
-			"ganyu",
-			"zhongli"
 		],
 		"청심": [
 			"ganyu",
@@ -1184,6 +1282,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1203,6 +1302,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1211,6 +1311,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1224,6 +1325,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1232,6 +1334,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1299,6 +1402,7 @@
 		],
 		"룬 무늬 이빨": [
 			"kukishinobu",
+			"shikanoinheizou",
 			"yelan"
 		],
 		"낙락베리": [
@@ -1335,6 +1439,7 @@
 			"yaemiko"
 		],
 		"바람 원소 피해 보너스": [
+			"shikanoinheizou",
 			"sucrose"
 		],
 		"스네즈나야": [
@@ -1350,6 +1455,21 @@
 		"무형의 불 구슬": [
 			"thoma",
 			"yoimiya"
+		],
+		"풀 원소 피해 보너스": [
+			"tighnari"
+		],
+		"달 연꽃": [
+			"tighnari"
+		],
+		"버섯몬 포자": [
+			"tighnari"
+		],
+		"형광 포자 분말": [
+			"tighnari"
+		],
+		"포낭 결정 가루": [
+			"tighnari"
 		],
 		"절운고추": [
 			"xiangling"
@@ -1367,6 +1487,7 @@
 			"불",
 			"물",
 			"번개",
+			"풀",
 			"바람"
 		],
 		"weapontype": [
@@ -1391,7 +1512,8 @@
 			"방어력",
 			"물리 피해 보너스",
 			"물 원소 피해 보너스",
-			"바람 원소 피해 보너스"
+			"바람 원소 피해 보너스",
+			"풀 원소 피해 보너스"
 		],
 		"gender": [
 			"남성",
@@ -1456,10 +1578,21 @@
 			"승리의 자수정",
 			"콜 라피스",
 			"서리의 핵",
+			"자라나는 비취 가루",
+			"룩카데바타 성체 버섯",
+			"자라나는 비취 조각",
+			"버섯왕의 뾰족한 부리",
+			"자라나는 비취 덩이",
+			"자라나는 비취",
 			"신병의 휘장",
 			"사관의 휘장",
 			"위관의 휘장",
 			"통통 연꽃",
+			"겁의 연꽃",
+			"빛바랜 붉은 비단",
+			"번개를 품은 야생 열매",
+			"장식된 붉은 비단",
+			"금자수 붉은 비단",
 			"민들레 씨앗",
 			"청심",
 			"구라구라 꽃꿀",
@@ -1494,12 +1627,17 @@
 			"별소라",
 			"형광 버섯",
 			"무형의 불 구슬",
+			"달 연꽃",
+			"버섯몬 포자",
+			"형광 포자 분말",
+			"포낭 결정 가루",
 			"절운고추"
 		],
 		"region": [
 			"몬드",
 			"이나즈마",
 			"리월",
+			"수메르",
 			"스네즈나야"
 		],
 		"birthday": [
@@ -1509,10 +1647,10 @@
 			"6월",
 			"7월",
 			"2월",
-			"1월",
-			"10월",
 			"5월",
+			"1월",
 			"12월",
+			"10월",
 			"3월",
 			"11월"
 		]

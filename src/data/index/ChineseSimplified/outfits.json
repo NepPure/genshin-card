@@ -1,5 +1,6 @@
 {
 	"namemap": {
+		"anewleaf": "一叶新生",
 		"aratakisdemonicdeputy": "荒泷鬼副手",
 		"ardentsoul": "灵魂热望",
 		"armoredrose": "甲铁玫瑰",
@@ -9,6 +10,7 @@
 		"darknightblaze": "夜行暗火",
 		"dunkelnachtsakrament": "绮夜圣礼",
 		"eccentriconi": "倾奇狂鬼",
+		"einimmernachtstraum": "极夜真梦",
 		"endurerofeons": "千秋竞岁",
 		"executorsthorns": "处刑棘刺",
 		"fallingleaves": "叶落天涯",
@@ -24,6 +26,7 @@
 		"gunnhildrslegacy": "古恩希尔德的传承",
 		"hermitofmortallife": "凡世致身",
 		"icyfeatherflight": "冰上飞羽",
+		"ilovemora": "我爱摩拉",
 		"innocentlonging": "纯真期待",
 		"machinehunter": "机动猎手",
 		"mikosinstruction": "御子之谕",
@@ -40,6 +43,7 @@
 		"plumblossombouquet": "折梅留芳",
 		"purespirit": "清正灵台",
 		"purplerose": "绀紫蔷薇",
+		"reddeadofnight": "殷红终夜",
 		"redpepperandturmeric": "椒红姜黄",
 		"risingstaraether": "初升之星",
 		"risingstarlumine": "初升之星",
@@ -49,6 +53,7 @@
 		"silksplendor": "绫罗锦绣",
 		"solemnpurity": "严正净衣",
 		"sparklingcoralbone": "珊骨粼波",
+		"spiritedvalor": "弁武朝风",
 		"staroutrider": "「满分的侦察骑士」",
 		"sugarybrew": "粉糖青酿",
 		"summerchilldreams": "夏冰梦身",
@@ -58,9 +63,11 @@
 		"tothechurchsfreespirit": "致教会自由人",
 		"warriorofflame": "焰之赤武",
 		"wavecrestwaltz": "浪尖之舞",
-		"wildsprint": "奔行原野"
+		"wildsprint": "奔行原野",
+		"woodlandsong": "森林之歌"
 	},
 	"names": {
+		"一叶新生": "anewleaf",
 		"荒泷鬼副手": "aratakisdemonicdeputy",
 		"灵魂热望": "ardentsoul",
 		"甲铁玫瑰": "armoredrose",
@@ -70,6 +77,7 @@
 		"夜行暗火": "darknightblaze",
 		"绮夜圣礼": "dunkelnachtsakrament",
 		"倾奇狂鬼": "eccentriconi",
+		"极夜真梦": "einimmernachtstraum",
 		"千秋竞岁": "endurerofeons",
 		"处刑棘刺": "executorsthorns",
 		"叶落天涯": "fallingleaves",
@@ -85,6 +93,7 @@
 		"古恩希尔德的传承": "gunnhildrslegacy",
 		"凡世致身": "hermitofmortallife",
 		"冰上飞羽": "icyfeatherflight",
+		"我爱摩拉": "ilovemora",
 		"纯真期待": "innocentlonging",
 		"机动猎手": "machinehunter",
 		"御子之谕": "mikosinstruction",
@@ -101,6 +110,7 @@
 		"折梅留芳": "plumblossombouquet",
 		"清正灵台": "purespirit",
 		"绀紫蔷薇": "purplerose",
+		"殷红终夜": "reddeadofnight",
 		"椒红姜黄": "redpepperandturmeric",
 		"初升之星": "risingstarlumine",
 		"赫浪连涛": "rollingwaves",
@@ -109,6 +119,7 @@
 		"绫罗锦绣": "silksplendor",
 		"严正净衣": "solemnpurity",
 		"珊骨粼波": "sparklingcoralbone",
+		"弁武朝风": "spiritedvalor",
 		"「满分的侦察骑士」": "staroutrider",
 		"粉糖青酿": "sugarybrew",
 		"夏冰梦身": "summerchilldreams",
@@ -118,10 +129,14 @@
 		"致教会自由人": "tothechurchsfreespirit",
 		"焰之赤武": "warriorofflame",
 		"浪尖之舞": "wavecrestwaltz",
-		"奔行原野": "wildsprint"
+		"奔行原野": "wildsprint",
+		"森林之歌": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
+		"柯莱": [
+			"anewleaf"
+		],
 		"久岐忍": [
 			"aratakisdemonicdeputy"
 		],
@@ -141,10 +156,12 @@
 			"breezyode"
 		],
 		"迪卢克": [
-			"darknightblaze"
+			"darknightblaze",
+			"reddeadofnight"
 		],
 		"菲谢尔": [
-			"dunkelnachtsakrament"
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
 		],
 		"荒泷一斗": [
 			"eccentriconi"
@@ -195,6 +212,9 @@
 		],
 		"凯亚": [
 			"icyfeatherflight"
+		],
+		"多莉": [
+			"ilovemora"
 		],
 		"芭芭拉": [
 			"innocentlonging",
@@ -262,6 +282,9 @@
 		"珊瑚宫心海": [
 			"sparklingcoralbone"
 		],
+		"鹿野院平藏": [
+			"spiritedvalor"
+		],
 		"迪奥娜": [
 			"sugarybrew"
 		],
@@ -282,10 +305,14 @@
 		],
 		"雷泽": [
 			"wildsprint"
+		],
+		"提纳里": [
+			"woodlandsong"
 		]
 	},
 	"properties": {
 		"character": [
+			"柯莱",
 			"久岐忍",
 			"辛焱",
 			"诺艾尔",
@@ -309,6 +336,7 @@
 			"凝光",
 			"钟离",
 			"凯亚",
+			"多莉",
 			"芭芭拉",
 			"埃洛伊",
 			"八重神子",
@@ -330,13 +358,15 @@
 			"神里绫人",
 			"九条裟罗",
 			"珊瑚宫心海",
+			"鹿野院平藏",
 			"迪奥娜",
 			"七七",
 			"夜兰",
 			"申鹤",
 			"托马",
 			"优菈",
-			"雷泽"
+			"雷泽",
+			"提纳里"
 		]
 	}
 }

@@ -9,8 +9,10 @@
 		"beidou": "Beidou",
 		"bennett": "Bennett",
 		"chongyun": "Chongyun",
+		"collei": "Collei",
 		"diluc": "Diluc",
 		"diona": "Diona",
+		"dori": "Dori",
 		"eula": "Eula",
 		"fischl": "Fischl",
 		"ganyu": "Ganyu",
@@ -37,9 +39,11 @@
 		"sangonomiyakokomi": "Sangonomiya Kokomi",
 		"sayu": "Sayu",
 		"shenhe": "Shenhe",
+		"shikanoinheizou": "Shikanoin Heizou",
 		"sucrose": "Sucrose",
 		"tartaglia": "Tartaglia",
 		"thoma": "Thomas",
+		"tighnari": "Tighnari",
 		"venti": "Venti",
 		"xiangling": "Xiangling",
 		"xiao": "Xiao",
@@ -62,8 +66,10 @@
 		"Beidou": "beidou",
 		"Bennett": "bennett",
 		"Chongyun": "chongyun",
+		"Collei": "collei",
 		"Diluc": "diluc",
 		"Diona": "diona",
+		"Dori": "dori",
 		"Eula": "eula",
 		"Fischl": "fischl",
 		"Ganyu": "ganyu",
@@ -90,9 +96,11 @@
 		"Sangonomiya Kokomi": "sangonomiyakokomi",
 		"Sayu": "sayu",
 		"Shenhe": "shenhe",
+		"Shikanoin Heizou": "shikanoinheizou",
 		"Sucrose": "sucrose",
 		"Tartaglia": "tartaglia",
 		"Thomas": "thoma",
+		"Tighnari": "tighnari",
 		"Venti": "venti",
 		"Xiangling": "xiangling",
 		"Xiao": "xiao",
@@ -123,10 +131,14 @@
 		"Rota Calamitas": "bennett",
 		"Corps de glace et cœur de feu": "chongyun",
 		"Nubis Caesor": "chongyun",
+		"Germe de renaissance": "collei",
+		"Leptailurus Cervarius": "collei",
 		"Ombre de l'Aurore": "diluc",
 		"Noctua": "diluc",
 		"Cocktail façon Queue de Chat": "diona",
 		"Feles": "diona",
+		"Trésor du jardin onirique": "dori",
+		"Magicae Lucerna": "dori",
 		"Vague déferlante": "eula",
 		"Aphros Delos": "eula",
 		"Princesse du châtiment !": "fischl",
@@ -178,16 +190,20 @@
 		"Nyctereutes Minor": "sayu",
 		"Transcendance solitaire": "shenhe",
 		"Crista Doloris": "shenhe",
+		"Harmonie analytique": "shikanoinheizou",
+		"Cervus Minor": "shikanoinheizou",
 		"Alchimiste 100 % naturelle": "sucrose",
 		"Ampulla": "sucrose",
 		"Jeune Sire": "tartaglia",
 		"Monoceros Caeli": "tartaglia",
 		"Protecteur venu de loin": "thoma",
 		"Rubeum Scutum": "thoma",
+		"Marcheur verdoyant": "tighnari",
+		"Vulpes Zerda": "tighnari",
 		"Barde itinérant": "venti",
 		"Carmen Dei": "venti",
 		"Cordon-bleu du peuple": "xiangling",
-		"Ladle": "xiangling",
+		"Trulla": "xiangling",
 		"Gardien Yaksha": "xiao",
 		"Alatus Nemeseos": "xiao",
 		"Jeune galant": "xingqiu",
@@ -214,7 +230,9 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diona",
+			"dori",
 			"fischl",
 			"gorou",
 			"kaeya",
@@ -226,6 +244,7 @@
 			"razor",
 			"rosaria",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"thoma",
 			"xiangling",
@@ -256,6 +275,7 @@
 			"sangonomiyakokomi",
 			"shenhe",
 			"tartaglia",
+			"tighnari",
 			"venti",
 			"xiao",
 			"yaemiko",
@@ -286,6 +306,7 @@
 			"aether",
 			"amber",
 			"chongyun",
+			"collei",
 			"fischl",
 			"kujousara",
 			"lumine",
@@ -307,8 +328,10 @@
 			"kaeya",
 			"kamisatoayato",
 			"razor",
+			"shikanoinheizou",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"venti",
 			"xiao",
 			"xingqiu",
@@ -324,8 +347,10 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diluc",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -352,9 +377,11 @@
 			"sangonomiyakokomi",
 			"sayu",
 			"shenhe",
+			"shikanoinheizou",
 			"sucrose",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"venti",
 			"xiangling",
 			"xiao",
@@ -548,12 +575,14 @@
 		"Arc": [
 			"aloy",
 			"amber",
+			"collei",
 			"diona",
 			"fischl",
 			"ganyu",
 			"gorou",
 			"kujousara",
 			"tartaglia",
+			"tighnari",
 			"venti",
 			"yelan",
 			"yoimiya"
@@ -567,7 +596,9 @@
 			"amber",
 			"barbara",
 			"beidou",
+			"collei",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -714,6 +745,7 @@
 		],
 		"Pointe de flèche robuste": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -739,6 +771,7 @@
 		],
 		"Pointe de flèche aiguisée": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -756,6 +789,7 @@
 		],
 		"Pointe de flèche usée": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl"
 		],
@@ -776,6 +810,7 @@
 			"beidou",
 			"chongyun",
 			"diluc",
+			"dori",
 			"eula",
 			"noelle",
 			"razor",
@@ -801,6 +836,7 @@
 			"raidenshogun",
 			"sangonomiyakokomi",
 			"sayu",
+			"shikanoinheizou",
 			"thoma",
 			"yaemiko",
 			"yoimiya"
@@ -814,7 +850,8 @@
 			"yoimiya"
 		],
 		"Scarabuto": [
-			"aratakiitto"
+			"aratakiitto",
+			"shikanoinheizou"
 		],
 		"Bave de Blob": [
 			"aratakiitto",
@@ -860,12 +897,14 @@
 			"mona",
 			"ningguang",
 			"sangonomiyakokomi",
+			"shikanoinheizou",
 			"sucrose",
 			"yaemiko",
 			"yanfei"
 		],
 		"PV": [
 			"barbara",
+			"dori",
 			"kukishinobu"
 		],
 		"juillet": [
@@ -874,6 +913,7 @@
 			"klee",
 			"kujousara",
 			"kukishinobu",
+			"shikanoinheizou",
 			"tartaglia",
 			"yanfei"
 		],
@@ -926,6 +966,7 @@
 		],
 		"Électro": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -963,6 +1004,7 @@
 		],
 		"Éclat d'améthyste vajrada": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -976,17 +1018,19 @@
 			"beidou",
 			"yanfei"
 		],
-		"Insigne du Pilleur": [
+		"Insigne des Pilleurs": [
 			"beidou",
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"Fragment d'améthyste vajrada": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1008,12 +1052,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"Morceau d'améthyste vajrada": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1028,12 +1074,14 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
 		],
 		"Pierre d'améthyste vajrada": [
 			"beidou",
+			"dori",
 			"fischl",
 			"keqing",
 			"kujousara",
@@ -1063,6 +1111,44 @@
 			"kaeya",
 			"qiqi",
 			"rosaria"
+		],
+		"Dendro": [
+			"collei",
+			"tighnari"
+		],
+		"Sumeru": [
+			"collei",
+			"dori",
+			"tighnari"
+		],
+		"mai": [
+			"collei",
+			"fischl",
+			"gorou",
+			"yunjin"
+		],
+		"Éclat d'émeraude nagadus": [
+			"collei",
+			"tighnari"
+		],
+		"Champignon sacramental": [
+			"collei"
+		],
+		"Fragment d'émeraude nagadus": [
+			"collei",
+			"tighnari"
+		],
+		"Bec crochu majestueux": [
+			"collei",
+			"tighnari"
+		],
+		"Morceau d'émeraude nagadus": [
+			"collei",
+			"tighnari"
+		],
+		"Pierre d'émeraude nagadus": [
+			"collei",
+			"tighnari"
 		],
 		"Insigne de nouvelle recrue": [
 			"diluc",
@@ -1094,6 +1180,27 @@
 			"diona",
 			"kaeya"
 		],
+		"décembre": [
+			"dori",
+			"ganyu",
+			"tighnari",
+			"zhongli"
+		],
+		"Kalpalotus": [
+			"dori"
+		],
+		"Satin rouge délavé": [
+			"dori"
+		],
+		"Fruit du tonnerre": [
+			"dori"
+		],
+		"Soie rouge brodée": [
+			"dori"
+		],
+		"Brocart rouge luxueux": [
+			"dori"
+		],
 		"DGT CRIT": [
 			"eula",
 			"ganyu",
@@ -1112,15 +1219,6 @@
 		"Graines de pissenlit": [
 			"eula",
 			"jean"
-		],
-		"mai": [
-			"fischl",
-			"gorou",
-			"yunjin"
-		],
-		"décembre": [
-			"ganyu",
-			"zhongli"
 		],
 		"Fleur de Qingxin": [
 			"ganyu",
@@ -1186,6 +1284,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1205,6 +1304,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1213,6 +1313,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1226,6 +1327,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1234,6 +1336,7 @@
 			"jean",
 			"kaedeharakazuha",
 			"sayu",
+			"shikanoinheizou",
 			"sucrose",
 			"venti",
 			"xiao"
@@ -1301,6 +1404,7 @@
 		],
 		"Croc runique": [
 			"kukishinobu",
+			"shikanoinheizou",
 			"yelan"
 		],
 		"Tombaie": [
@@ -1337,6 +1441,7 @@
 			"yaemiko"
 		],
 		"Bonus de DGT Anémo": [
+			"shikanoinheizou",
 			"sucrose"
 		],
 		"Snezhnaya": [
@@ -1352,6 +1457,21 @@
 		"Perle brûlante": [
 			"thoma",
 			"yoimiya"
+		],
+		"Bonus de DGT Dendro": [
+			"tighnari"
+		],
+		"Nilotpalotus": [
+			"tighnari"
+		],
+		"Spores de Fongus": [
+			"tighnari"
+		],
+		"Pollen fluorescent": [
+			"tighnari"
+		],
+		"Poussière cristalline de sporange": [
+			"tighnari"
 		],
 		"Piment de Jueyun": [
 			"xiangling"
@@ -1369,6 +1489,7 @@
 			"Pyro",
 			"Hydro",
 			"Électro",
+			"Dendro",
 			"Anémo"
 		],
 		"weapontype": [
@@ -1393,7 +1514,8 @@
 			"DÉF",
 			"Bonus de DGT physiques",
 			"Bonus de DGT Hydro",
-			"Bonus de DGT Anémo"
+			"Bonus de DGT Anémo",
+			"Bonus de DGT Dendro"
 		],
 		"gender": [
 			"Homme",
@@ -1449,7 +1571,7 @@
 			"Pierre de lazurite varunada",
 			"Éclat d'améthyste vajrada",
 			"Jade noctiluque",
-			"Insigne du Pilleur",
+			"Insigne des Pilleurs",
 			"Fragment d'améthyste vajrada",
 			"Prisme d'éclair",
 			"Insigne de corbeau en argent",
@@ -1458,10 +1580,21 @@
 			"Pierre d'améthyste vajrada",
 			"Cœur de lapis",
 			"Duramen de glace",
+			"Éclat d'émeraude nagadus",
+			"Champignon sacramental",
+			"Fragment d'émeraude nagadus",
+			"Bec crochu majestueux",
+			"Morceau d'émeraude nagadus",
+			"Pierre d'émeraude nagadus",
 			"Insigne de nouvelle recrue",
 			"Insigne de sergent",
 			"Insigne d'officier",
 			"Lys calla",
+			"Kalpalotus",
+			"Satin rouge délavé",
+			"Fruit du tonnerre",
+			"Soie rouge brodée",
+			"Brocart rouge luxueux",
 			"Graines de pissenlit",
 			"Fleur de Qingxin",
 			"Nectar de Fleur mensongère",
@@ -1496,12 +1629,17 @@
 			"Conque d'étoile",
 			"Champignon fluorescent",
 			"Perle brûlante",
+			"Nilotpalotus",
+			"Spores de Fongus",
+			"Pollen fluorescent",
+			"Poussière cristalline de sporange",
 			"Piment de Jueyun"
 		],
 		"region": [
 			"Mondstadt",
 			"Inazuma",
 			"Liyue",
+			"Sumeru",
 			"Snezhnaya"
 		],
 		"birthday": [
@@ -1511,10 +1649,10 @@
 			"juin",
 			"juillet",
 			"février",
-			"janvier",
-			"octobre",
 			"mai",
+			"janvier",
 			"décembre",
+			"octobre",
 			"mars",
 			"novembre"
 		]

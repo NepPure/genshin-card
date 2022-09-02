@@ -1,5 +1,6 @@
 {
 	"namemap": {
+		"anewleaf": "ニューリーフ",
 		"aratakisdemonicdeputy": "荒瀧·鬼の副手",
 		"ardentsoul": "熱烈な魂",
 		"armoredrose": "甲鉄のバラ",
@@ -9,6 +10,7 @@
 		"darknightblaze": "闇夜の灯火",
 		"dunkelnachtsakrament": "幽夜の聖礼",
 		"eccentriconi": "傾奇の狂鬼",
+		"einimmernachtstraum": "極夜の真夢",
 		"endurerofeons": "千年の歳月",
 		"executorsthorns": "棘の処刑",
 		"fallingleaves": "天涯に落ちゆく葉",
@@ -24,6 +26,7 @@
 		"gunnhildrslegacy": "グンヒルドの伝承",
 		"hermitofmortallife": "俗世の知見",
 		"icyfeatherflight": "氷上の飛翼",
+		"ilovemora": "アイ·ラブ·モラ",
 		"innocentlonging": "ピュアな期待",
 		"machinehunter": "機動狩人",
 		"mikosinstruction": "御子之説諭",
@@ -40,6 +43,7 @@
 		"plumblossombouquet": "梅の残り香",
 		"purespirit": "清浄霊台",
 		"purplerose": "紫の薔薇",
+		"reddeadofnight": "レッドデッド·オブ·ナイト",
 		"redpepperandturmeric": "赤唐辛子と黄生姜",
 		"risingstaraether": "昇りゆく星",
 		"risingstarlumine": "昇りゆく星",
@@ -49,6 +53,7 @@
 		"silksplendor": "綾羅錦繡",
 		"solemnpurity": "厳正浄衣",
 		"sparklingcoralbone": "珊骨の白波",
+		"spiritedvalor": "武弁爽風",
 		"staroutrider": "「満点の偵察騎士」",
 		"sugarybrew": "シュガー醸造",
 		"summerchilldreams": "夏氷の夢",
@@ -58,9 +63,11 @@
 		"tothechurchsfreespirit": "教会の自由人へ",
 		"warriorofflame": "焔の赤武",
 		"wavecrestwaltz": "高らかな波の舞い",
-		"wildsprint": "荒野に駆ける"
+		"wildsprint": "荒野に駆ける",
+		"woodlandsong": "森林の歌"
 	},
 	"names": {
+		"ニューリーフ": "anewleaf",
 		"荒瀧·鬼の副手": "aratakisdemonicdeputy",
 		"熱烈な魂": "ardentsoul",
 		"甲鉄のバラ": "armoredrose",
@@ -70,6 +77,7 @@
 		"闇夜の灯火": "darknightblaze",
 		"幽夜の聖礼": "dunkelnachtsakrament",
 		"傾奇の狂鬼": "eccentriconi",
+		"極夜の真夢": "einimmernachtstraum",
 		"千年の歳月": "endurerofeons",
 		"棘の処刑": "executorsthorns",
 		"天涯に落ちゆく葉": "fallingleaves",
@@ -85,6 +93,7 @@
 		"グンヒルドの伝承": "gunnhildrslegacy",
 		"俗世の知見": "hermitofmortallife",
 		"氷上の飛翼": "icyfeatherflight",
+		"アイ·ラブ·モラ": "ilovemora",
 		"ピュアな期待": "innocentlonging",
 		"機動狩人": "machinehunter",
 		"御子之説諭": "mikosinstruction",
@@ -101,6 +110,7 @@
 		"梅の残り香": "plumblossombouquet",
 		"清浄霊台": "purespirit",
 		"紫の薔薇": "purplerose",
+		"レッドデッド·オブ·ナイト": "reddeadofnight",
 		"赤唐辛子と黄生姜": "redpepperandturmeric",
 		"昇りゆく星": "risingstarlumine",
 		"怒涛の荒波": "rollingwaves",
@@ -109,6 +119,7 @@
 		"綾羅錦繡": "silksplendor",
 		"厳正浄衣": "solemnpurity",
 		"珊骨の白波": "sparklingcoralbone",
+		"武弁爽風": "spiritedvalor",
 		"「満点の偵察騎士」": "staroutrider",
 		"シュガー醸造": "sugarybrew",
 		"夏氷の夢": "summerchilldreams",
@@ -118,10 +129,14 @@
 		"教会の自由人へ": "tothechurchsfreespirit",
 		"焔の赤武": "warriorofflame",
 		"高らかな波の舞い": "wavecrestwaltz",
-		"荒野に駆ける": "wildsprint"
+		"荒野に駆ける": "wildsprint",
+		"森林の歌": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
+		"コレイ": [
+			"anewleaf"
+		],
 		"久岐忍": [
 			"aratakisdemonicdeputy"
 		],
@@ -141,10 +156,12 @@
 			"breezyode"
 		],
 		"ディルック": [
-			"darknightblaze"
+			"darknightblaze",
+			"reddeadofnight"
 		],
 		"フィッシュル": [
-			"dunkelnachtsakrament"
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
 		],
 		"荒瀧一斗": [
 			"eccentriconi"
@@ -195,6 +212,9 @@
 		],
 		"ガイア": [
 			"icyfeatherflight"
+		],
+		"ドリー": [
+			"ilovemora"
 		],
 		"バーバラ": [
 			"innocentlonging",
@@ -262,6 +282,9 @@
 		"珊瑚宮心海": [
 			"sparklingcoralbone"
 		],
+		"鹿野院平蔵": [
+			"spiritedvalor"
+		],
 		"ディオナ": [
 			"sugarybrew"
 		],
@@ -282,10 +305,14 @@
 		],
 		"レザー": [
 			"wildsprint"
+		],
+		"ティナリ": [
+			"woodlandsong"
 		]
 	},
 	"properties": {
 		"character": [
+			"コレイ",
 			"久岐忍",
 			"辛炎",
 			"ノエル",
@@ -309,6 +336,7 @@
 			"凝光",
 			"鍾離",
 			"ガイア",
+			"ドリー",
 			"バーバラ",
 			"アーロイ",
 			"八重神子",
@@ -330,13 +358,15 @@
 			"神里綾人",
 			"九条裟羅",
 			"珊瑚宮心海",
+			"鹿野院平蔵",
 			"ディオナ",
 			"七七",
 			"夜蘭",
 			"申鶴",
 			"トーマ",
 			"エウルア",
-			"レザー"
+			"レザー",
+			"ティナリ"
 		]
 	}
 }

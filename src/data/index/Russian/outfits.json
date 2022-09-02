@@ -1,5 +1,6 @@
 {
 	"namemap": {
+		"anewleaf": "Листок новой жизни",
 		"aratakisdemonicdeputy": "Демоническая помощница Аратаки",
 		"ardentsoul": "Пламенная душа",
 		"armoredrose": "Железная роза",
@@ -9,6 +10,7 @@
 		"darknightblaze": "Огонь во тьме",
 		"dunkelnachtsakrament": "Таинство ночи",
 		"eccentriconi": "Эксцентричный óни",
+		"einimmernachtstraum": "Сон вечной ночи",
 		"endurerofeons": "Тысячелетняя схватка",
 		"executorsthorns": "Шипы наказания",
 		"fallingleaves": "Листопад",
@@ -24,6 +26,7 @@
 		"gunnhildrslegacy": "Наследие Гуннхильдр",
 		"hermitofmortallife": "Смертная жизнь",
 		"icyfeatherflight": "Ледяное перо",
+		"ilovemora": "Я люблю мору",
 		"innocentlonging": "Невинные надежды",
 		"machinehunter": "Охотница на машины",
 		"mikosinstruction": "Наставление жрицы",
@@ -40,6 +43,7 @@
 		"plumblossombouquet": "Тягучий аромат",
 		"purespirit": "Чистый дух",
 		"purplerose": "Пурпурная роза",
+		"reddeadofnight": "Алая ночь",
 		"redpepperandturmeric": "Острый перец и куркума",
 		"risingstaraether": "Восходящая звезда",
 		"risingstarlumine": "Восходящая звезда",
@@ -49,6 +53,7 @@
 		"silksplendor": "Шёлковое великолепие",
 		"solemnpurity": "Платье справедливости",
 		"sparklingcoralbone": "Коралловая волна",
+		"spiritedvalor": "Боевой порыв",
 		"staroutrider": "Лучший скаут",
 		"sugarybrew": "Сахарный коктейль",
 		"summerchilldreams": "Грёзы морозного лета",
@@ -58,9 +63,11 @@
 		"tothechurchsfreespirit": "За вольный дух церкви",
 		"warriorofflame": "Воин пламени",
 		"wavecrestwaltz": "Танец волн",
-		"wildsprint": "Дикий бег"
+		"wildsprint": "Дикий бег",
+		"woodlandsong": "Песнь леса"
 	},
 	"names": {
+		"Листок новой жизни": "anewleaf",
 		"Демоническая помощница Аратаки": "aratakisdemonicdeputy",
 		"Пламенная душа": "ardentsoul",
 		"Железная роза": "armoredrose",
@@ -70,6 +77,7 @@
 		"Огонь во тьме": "darknightblaze",
 		"Таинство ночи": "dunkelnachtsakrament",
 		"Эксцентричный óни": "eccentriconi",
+		"Сон вечной ночи": "einimmernachtstraum",
 		"Тысячелетняя схватка": "endurerofeons",
 		"Шипы наказания": "executorsthorns",
 		"Листопад": "fallingleaves",
@@ -85,6 +93,7 @@
 		"Наследие Гуннхильдр": "gunnhildrslegacy",
 		"Смертная жизнь": "hermitofmortallife",
 		"Ледяное перо": "icyfeatherflight",
+		"Я люблю мору": "ilovemora",
 		"Невинные надежды": "innocentlonging",
 		"Охотница на машины": "machinehunter",
 		"Наставление жрицы": "mikosinstruction",
@@ -101,6 +110,7 @@
 		"Тягучий аромат": "plumblossombouquet",
 		"Чистый дух": "purespirit",
 		"Пурпурная роза": "purplerose",
+		"Алая ночь": "reddeadofnight",
 		"Острый перец и куркума": "redpepperandturmeric",
 		"Восходящая звезда": "risingstarlumine",
 		"Багровые волны": "rollingwaves",
@@ -109,6 +119,7 @@
 		"Шёлковое великолепие": "silksplendor",
 		"Платье справедливости": "solemnpurity",
 		"Коралловая волна": "sparklingcoralbone",
+		"Боевой порыв": "spiritedvalor",
 		"Лучший скаут": "staroutrider",
 		"Сахарный коктейль": "sugarybrew",
 		"Грёзы морозного лета": "summerchilldreams",
@@ -118,11 +129,15 @@
 		"За вольный дух церкви": "tothechurchsfreespirit",
 		"Воин пламени": "warriorofflame",
 		"Танец волн": "wavecrestwaltz",
-		"Дикий бег": "wildsprint"
+		"Дикий бег": "wildsprint",
+		"Песнь леса": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
-		"Куки Синобу": [
+		"Коллеи": [
+			"anewleaf"
+		],
+		"Синобу": [
 			"aratakisdemonicdeputy"
 		],
 		"Синь Янь": [
@@ -141,10 +156,12 @@
 			"breezyode"
 		],
 		"Дилюк": [
-			"darknightblaze"
+			"darknightblaze",
+			"reddeadofnight"
 		],
 		"Фишль": [
-			"dunkelnachtsakrament"
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
 		],
 		"Итто": [
 			"eccentriconi"
@@ -195,6 +212,9 @@
 		],
 		"Кэйа": [
 			"icyfeatherflight"
+		],
+		"Дори": [
+			"ilovemora"
 		],
 		"Барбара": [
 			"innocentlonging",
@@ -262,6 +282,9 @@
 		"Кокоми": [
 			"sparklingcoralbone"
 		],
+		"Хэйдзо": [
+			"spiritedvalor"
+		],
 		"Диона": [
 			"sugarybrew"
 		],
@@ -282,11 +305,15 @@
 		],
 		"Рэйзор": [
 			"wildsprint"
+		],
+		"Тигнари": [
+			"woodlandsong"
 		]
 	},
 	"properties": {
 		"character": [
-			"Куки Синобу",
+			"Коллеи",
+			"Синобу",
 			"Синь Янь",
 			"Ноэлль",
 			"Син Цю",
@@ -309,6 +336,7 @@
 			"Нин Гуан",
 			"Чжун Ли",
 			"Кэйа",
+			"Дори",
 			"Барбара",
 			"Элой",
 			"Яэ Мико",
@@ -330,13 +358,15 @@
 			"Аято",
 			"Сара",
 			"Кокоми",
+			"Хэйдзо",
 			"Диона",
 			"Ци Ци",
 			"Е Лань",
 			"Шэнь Хэ",
 			"Тома",
 			"Эола",
-			"Рэйзор"
+			"Рэйзор",
+			"Тигнари"
 		]
 	}
 }

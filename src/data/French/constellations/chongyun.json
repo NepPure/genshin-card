@@ -14,14 +14,14 @@
 	},
 	"c4": {
 		"name": "Cieux givrés",
-		"effect": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par Cryo.\nCet effet peut être déclenché toutes les 2 s."
+		"effect": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par Cryo.\nCet effet peut être déclenché une fois toutes les 2 s."
 	},
 	"c5": {
 		"name": "La Voie",
 		"effect": "Niveau d'aptitude **Lame de l'esprit : Givre superposé** +3.\nNiveau max : 15"
 	},
 	"c6": {
-		"name": "Rassemblement des Quatres lames",
+		"name": "Rassemblement des quatre lames",
 		"effect": "**Lame de l'esprit : Chute d'étoiles** inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à ceux de Chongyun.\nDe plus, une lame supplémentaire est générée à l'activation de la compétence."
 	}
 }

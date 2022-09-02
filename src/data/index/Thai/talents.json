@@ -8,8 +8,10 @@
 		"beidou": "Beidou",
 		"bennett": "Bennett",
 		"chongyun": "Chongyun",
+		"collei": "Collei",
 		"diluc": "Diluc",
 		"diona": "Diona",
+		"dori": "Dori",
 		"eula": "Eula",
 		"fischl": "Fischl",
 		"ganyu": "Ganyu",
@@ -35,10 +37,13 @@
 		"sangonomiyakokomi": "Sangonomiya Kokomi",
 		"sayu": "Sayu",
 		"shenhe": "Shenhe",
+		"shikanoinheizou": "Shikanoin Heizou",
 		"sucrose": "Sucrose",
 		"tartaglia": "Tartaglia",
 		"thoma": "Thoma",
+		"tighnari": "Tighnari",
 		"traveleranemo": "นักเดินทาง (ลม)",
+		"travelerdendro": "นักเดินทาง (ไม้)",
 		"travelerelectro": "นักเดินทาง (ไฟฟ้า)",
 		"travelergeo": "นักเดินทาง (หิน)",
 		"venti": "Venti",
@@ -62,8 +67,10 @@
 		"Beidou": "beidou",
 		"Bennett": "bennett",
 		"Chongyun": "chongyun",
+		"Collei": "collei",
 		"Diluc": "diluc",
 		"Diona": "diona",
+		"Dori": "dori",
 		"Eula": "eula",
 		"Fischl": "fischl",
 		"Ganyu": "ganyu",
@@ -89,10 +96,13 @@
 		"Sangonomiya Kokomi": "sangonomiyakokomi",
 		"Sayu": "sayu",
 		"Shenhe": "shenhe",
+		"Shikanoin Heizou": "shikanoinheizou",
 		"Sucrose": "sucrose",
 		"Tartaglia": "tartaglia",
 		"Thoma": "thoma",
+		"Tighnari": "tighnari",
 		"นักเดินทาง (ลม)": "traveleranemo",
+		"นักเดินทาง (ไม้)": "travelerdendro",
 		"นักเดินทาง (ไฟฟ้า)": "travelerelectro",
 		"นักเดินทาง (หิน)": "travelergeo",
 		"Venti": "venti",
@@ -118,8 +128,10 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diluc",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -145,10 +157,13 @@
 			"sangonomiyakokomi",
 			"sayu",
 			"shenhe",
+			"shikanoinheizou",
 			"sucrose",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"traveleranemo",
+			"travelerdendro",
 			"travelerelectro",
 			"travelergeo",
 			"venti",
@@ -227,8 +242,10 @@
 			"beidou",
 			"bennett",
 			"chongyun",
+			"collei",
 			"diluc",
 			"diona",
+			"dori",
 			"eula",
 			"fischl",
 			"ganyu",
@@ -254,10 +271,13 @@
 			"sangonomiyakokomi",
 			"sayu",
 			"shenhe",
+			"shikanoinheizou",
 			"sucrose",
 			"tartaglia",
 			"thoma",
+			"tighnari",
 			"traveleranemo",
+			"travelerdendro",
 			"travelerelectro",
 			"travelergeo",
 			"venti",
@@ -327,18 +347,21 @@
 		],
 		"Firm Arrowhead": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl",
 			"travelergeo"
 		],
 		"Sharp Arrowhead": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl",
 			"travelergeo"
 		],
 		"Historic Arrowhead": [
 			"amber",
+			"collei",
 			"diona",
 			"fischl",
 			"travelergeo"
@@ -419,6 +442,7 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
@@ -436,6 +460,7 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
@@ -453,6 +478,7 @@
 			"bennett",
 			"kaedeharakazuha",
 			"kaeya",
+			"shikanoinheizou",
 			"thoma",
 			"xinyan",
 			"yanfei"
@@ -547,6 +573,21 @@
 			"xingqiu",
 			"yunjin"
 		],
+		"Teachings of Praxis": [
+			"collei"
+		],
+		"Guide to Praxis": [
+			"collei",
+			"travelerdendro"
+		],
+		"Philosophies of Praxis": [
+			"collei",
+			"travelerdendro"
+		],
+		"Tears of the Calamitous God": [
+			"collei",
+			"kukishinobu"
+		],
 		"Recruit's Insignia": [
 			"diluc",
 			"ningguang",
@@ -572,6 +613,31 @@
 			"diona",
 			"hutao",
 			"tartaglia"
+		],
+		"Teachings of Ingenuity": [
+			"dori"
+		],
+		"Faded Red Satin": [
+			"dori"
+		],
+		"Guide to Ingenuity": [
+			"dori",
+			"travelerdendro"
+		],
+		"Trimmed Red Silk": [
+			"dori"
+		],
+		"Philosophies of Ingenuity": [
+			"dori",
+			"travelerdendro"
+		],
+		"Rich Red Brocade": [
+			"dori"
+		],
+		"Bloodpearl Branch": [
+			"dori",
+			"kamisatoayaka",
+			"yanfei"
 		],
 		"Dragon Lord's Crown": [
 			"eula",
@@ -662,12 +728,9 @@
 			"travelerelectro",
 			"yaemiko"
 		],
-		"Bloodpearl Branch": [
-			"kamisatoayaka",
-			"yanfei"
-		],
 		"Mudra of the Malefic General": [
-			"kamisatoayato"
+			"kamisatoayato",
+			"travelerdendro"
 		],
 		"Teachings of Prosperity": [
 			"keqing",
@@ -696,9 +759,6 @@
 			"xiao",
 			"yelan"
 		],
-		"Tears of the Calamitous God": [
-			"kukishinobu"
-		],
 		"Dvalin's Claw": [
 			"lisa",
 			"noelle",
@@ -713,18 +773,21 @@
 		],
 		"Teachings of Transience": [
 			"sangonomiyakokomi",
+			"shikanoinheizou",
 			"thoma",
 			"travelerelectro",
 			"yoimiya"
 		],
 		"Guide to Transience": [
 			"sangonomiyakokomi",
+			"shikanoinheizou",
 			"thoma",
 			"travelerelectro",
 			"yoimiya"
 		],
 		"Philosophies of Transience": [
 			"sangonomiyakokomi",
+			"shikanoinheizou",
 			"thoma",
 			"travelerelectro",
 			"yoimiya"
@@ -735,7 +798,33 @@
 			"thoma"
 		],
 		"The Meaning of Aeons": [
+			"shikanoinheizou",
+			"tighnari",
 			"yaemiko"
+		],
+		"Teachings of Admonition": [
+			"tighnari",
+			"travelerdendro"
+		],
+		"Fungal Spore": [
+			"tighnari",
+			"travelerdendro"
+		],
+		"Guide to Admonition": [
+			"tighnari",
+			"travelerdendro"
+		],
+		"Luminescent Pollen": [
+			"tighnari",
+			"travelerdendro"
+		],
+		"Philosophies of Admonition": [
+			"tighnari",
+			"travelerdendro"
+		],
+		"Crystalline Cyst Dust": [
+			"tighnari",
+			"travelerdendro"
 		]
 	},
 	"properties": {
@@ -784,10 +873,21 @@
 			"Stained Mask",
 			"Philosophies of Diligence",
 			"Ominous Mask",
+			"Teachings of Praxis",
+			"Guide to Praxis",
+			"Philosophies of Praxis",
+			"Tears of the Calamitous God",
 			"Recruit's Insignia",
 			"Sergeant's Insignia",
 			"Officer's Insignia",
 			"Shard of a Foul Legacy",
+			"Teachings of Ingenuity",
+			"Faded Red Satin",
+			"Guide to Ingenuity",
+			"Trimmed Red Silk",
+			"Philosophies of Ingenuity",
+			"Rich Red Brocade",
+			"Bloodpearl Branch",
 			"Dragon Lord's Crown",
 			"Spirit Locket of Boreas",
 			"Whopperflower Nectar",
@@ -801,19 +901,23 @@
 			"Old Handguard",
 			"Kageuchi Handguard",
 			"Famed Handguard",
-			"Bloodpearl Branch",
 			"Mudra of the Malefic General",
 			"Teachings of Prosperity",
 			"Guide to Prosperity",
 			"Philosophies of Prosperity",
-			"Tears of the Calamitous God",
 			"Dvalin's Claw",
 			"Tail of Boreas",
 			"Teachings of Transience",
 			"Guide to Transience",
 			"Philosophies of Transience",
 			"Hellfire Butterfly",
-			"The Meaning of Aeons"
+			"The Meaning of Aeons",
+			"Teachings of Admonition",
+			"Fungal Spore",
+			"Guide to Admonition",
+			"Luminescent Pollen",
+			"Philosophies of Admonition",
+			"Crystalline Cyst Dust"
 		]
 	}
 }

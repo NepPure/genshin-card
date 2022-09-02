@@ -1,0 +1,17 @@
+{
+	"name": "Guide to Praxis",
+	"description": "Material Penguatan Talenta.\n\"Praxis\" adalah sistem akar bangsa kebijaksanaan.\nPelaksanaan membuktikan ucapan yang jujur. Semua yang dipikirkan dan dilakukan adalah baik, ini saja masih belum cukup untuk dikatakan bijaksana. Kebijaksanaan terkandung dalam tindakan, dan menjadi segel atas integritas kata-kata.",
+	"sortorder": 2486,
+	"rarity": "3",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Material Penguatan Talenta",
+	"dropdomain": "Domain of Mastery: Hukum dan Aturan",
+	"daysofweek": [
+		"Rabu",
+		"Sabtu",
+		"Minggu"
+	],
+	"source": [
+		"Didapatkan melalui Craft"
+	]
+}

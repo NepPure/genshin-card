@@ -1,5 +1,6 @@
 {
 	"namemap": {
+		"anewleaf": "A New Leaf",
 		"aratakisdemonicdeputy": "Arataki's Demonic Deputy",
 		"ardentsoul": "Ardent Soul",
 		"armoredrose": "Armored Rose",
@@ -9,6 +10,7 @@
 		"darknightblaze": "Darknight Blaze",
 		"dunkelnachtsakrament": "Dunkelnacht Sakrament",
 		"eccentriconi": "Eccentric Oni",
+		"einimmernachtstraum": "Ein Immernachtstraum",
 		"endurerofeons": "Endurer of Eons",
 		"executorsthorns": "Executor's Thorns",
 		"fallingleaves": "Falling Leaves",
@@ -24,6 +26,7 @@
 		"gunnhildrslegacy": "Gunnhildr's Legacy",
 		"hermitofmortallife": "Hermit of Mortal Life",
 		"icyfeatherflight": "Icy Featherflight",
+		"ilovemora": "I Love Mora",
 		"innocentlonging": "Innocent Longing",
 		"machinehunter": "Machine Hunter",
 		"mikosinstruction": "Miko's Instruction",
@@ -40,6 +43,7 @@
 		"plumblossombouquet": "Plum Blossom Bouquet",
 		"purespirit": "Pure Spirit",
 		"purplerose": "Purple Rose",
+		"reddeadofnight": "Red Dead of Night",
 		"redpepperandturmeric": "Red Pepper and Turmeric",
 		"risingstaraether": "Rising Star",
 		"risingstarlumine": "Rising Star",
@@ -49,6 +53,7 @@
 		"silksplendor": "Silk Splendor",
 		"solemnpurity": "Solemn Purity",
 		"sparklingcoralbone": "Sparkling Coralbone",
+		"spiritedvalor": "Spirited Valor",
 		"staroutrider": "5-Star Outrider",
 		"sugarybrew": "Sugary Brew",
 		"summerchilldreams": "Summerchill Dreams",
@@ -58,9 +63,11 @@
 		"tothechurchsfreespirit": "To the Church's Free Spirit",
 		"warriorofflame": "Warrior of Flame",
 		"wavecrestwaltz": "Wavecrest Waltz",
-		"wildsprint": "Wild Sprint"
+		"wildsprint": "Wild Sprint",
+		"woodlandsong": "Woodland Song"
 	},
 	"names": {
+		"A New Leaf": "anewleaf",
 		"Arataki's Demonic Deputy": "aratakisdemonicdeputy",
 		"Ardent Soul": "ardentsoul",
 		"Armored Rose": "armoredrose",
@@ -70,6 +77,7 @@
 		"Darknight Blaze": "darknightblaze",
 		"Dunkelnacht Sakrament": "dunkelnachtsakrament",
 		"Eccentric Oni": "eccentriconi",
+		"Ein Immernachtstraum": "einimmernachtstraum",
 		"Endurer of Eons": "endurerofeons",
 		"Executor's Thorns": "executorsthorns",
 		"Falling Leaves": "fallingleaves",
@@ -85,6 +93,7 @@
 		"Gunnhildr's Legacy": "gunnhildrslegacy",
 		"Hermit of Mortal Life": "hermitofmortallife",
 		"Icy Featherflight": "icyfeatherflight",
+		"I Love Mora": "ilovemora",
 		"Innocent Longing": "innocentlonging",
 		"Machine Hunter": "machinehunter",
 		"Miko's Instruction": "mikosinstruction",
@@ -101,6 +110,7 @@
 		"Plum Blossom Bouquet": "plumblossombouquet",
 		"Pure Spirit": "purespirit",
 		"Purple Rose": "purplerose",
+		"Red Dead of Night": "reddeadofnight",
 		"Red Pepper and Turmeric": "redpepperandturmeric",
 		"Rising Star": "risingstarlumine",
 		"Rolling Waves": "rollingwaves",
@@ -109,6 +119,7 @@
 		"Silk Splendor": "silksplendor",
 		"Solemn Purity": "solemnpurity",
 		"Sparkling Coralbone": "sparklingcoralbone",
+		"Spirited Valor": "spiritedvalor",
 		"5-Star Outrider": "staroutrider",
 		"Sugary Brew": "sugarybrew",
 		"Summerchill Dreams": "summerchilldreams",
@@ -118,10 +129,14 @@
 		"To the Church's Free Spirit": "tothechurchsfreespirit",
 		"Warrior of Flame": "warriorofflame",
 		"Wavecrest Waltz": "wavecrestwaltz",
-		"Wild Sprint": "wildsprint"
+		"Wild Sprint": "wildsprint",
+		"Woodland Song": "woodlandsong"
 	},
 	"aliases": {},
 	"categories": {
+		"Collei": [
+			"anewleaf"
+		],
 		"Kuki Shinobu": [
 			"aratakisdemonicdeputy"
 		],
@@ -141,10 +156,12 @@
 			"breezyode"
 		],
 		"Diluc": [
-			"darknightblaze"
+			"darknightblaze",
+			"reddeadofnight"
 		],
 		"Fischl": [
-			"dunkelnachtsakrament"
+			"dunkelnachtsakrament",
+			"einimmernachtstraum"
 		],
 		"Arataki Itto": [
 			"eccentriconi"
@@ -195,6 +212,9 @@
 		],
 		"Kaeya": [
 			"icyfeatherflight"
+		],
+		"Dori": [
+			"ilovemora"
 		],
 		"Barbara": [
 			"innocentlonging",
@@ -262,6 +282,9 @@
 		"Sangonomiya Kokomi": [
 			"sparklingcoralbone"
 		],
+		"Shikanoin Heizou": [
+			"spiritedvalor"
+		],
 		"Diona": [
 			"sugarybrew"
 		],
@@ -282,10 +305,14 @@
 		],
 		"Razor": [
 			"wildsprint"
+		],
+		"Tighnari": [
+			"woodlandsong"
 		]
 	},
 	"properties": {
 		"character": [
+			"Collei",
 			"Kuki Shinobu",
 			"Xinyan",
 			"Noelle",
@@ -309,6 +336,7 @@
 			"Ningguang",
 			"Zhongli",
 			"Kaeya",
+			"Dori",
 			"Barbara",
 			"Aloy",
 			"Yae Miko",
@@ -330,13 +358,15 @@
 			"Kamisato Ayato",
 			"Kujou Sara",
 			"Sangonomiya Kokomi",
+			"Shikanoin Heizou",
 			"Diona",
 			"Qiqi",
 			"Yelan",
 			"Shenhe",
 			"Thoma",
 			"Eula",
-			"Razor"
+			"Razor",
+			"Tighnari"
 		]
 	}
 }
